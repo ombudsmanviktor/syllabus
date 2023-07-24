@@ -44,7 +44,19 @@ interesse ou consumidores casuais de informação política.
 
 ## Bibliografia
 
-Oo
+Aunger, R. Darwinizing culture: the status of memetics as a science. Cambridge: Oxford
+University Press, 2000.
+Burgess, J. Vernacular creativity and new media. Brisbane: Queensland University of
+Techology, 2007. (PhD diss.)
+Cohen, S. Folk devils and moral panics. Londres: MacGibbon &amp; Kee, 1972.
+Lull, J.; Hinerman, S. Media scandals. Nova Iorque: Columbia University Press, 1997.
+Noelle-Neumann, E. The spiral of silence: public opinion, our social skin. Chicago: Chicago
+University Press, 1993.
+Philips, W.; Milner, R. The ambivalent internet: mischief, oddity, and antagonism online.
+Cambridge: Polity Press, 2017.
+Seymour-Ure, C. Grapevine politics: political rumours. In: ___. Prime Ministers and the media.
+Londres: Blackwell, 2003.
+
 
 ## Programa de Curso
 
