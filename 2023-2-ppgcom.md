@@ -3,6 +3,7 @@ title: Mídia e Cultura Política
 has_children: false
 has_toc: true
 nav_order: 2
+layout: home
 ---
 
 # Mídia e Cultura Política
