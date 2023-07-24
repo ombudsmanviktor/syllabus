@@ -8,7 +8,8 @@ layout: home
 
 # Mídia e Cultura Política
 
-Professor: Viktor Chagas [mailto:viktor@midia.uff.br]
+Professor: Viktor Chagas [✉️](mailto:viktor@midia.uff.br?subject=[Mídia e Cultura Política])
+
 Horário: Terças-feiras às 10h
 
 ## Ementa
@@ -34,3 +35,10 @@ Teste 2. 123
 
 ### 22/08
 
+Resumo
+
+```
+Teste. Teste.com
+
+Teste 2. 123
+```
