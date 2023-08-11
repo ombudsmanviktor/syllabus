@@ -93,6 +93,7 @@ Teste. Teste.com
 
 Teste 2. 123
 ```
+
 ---
 
 ### 19/09
@@ -104,6 +105,7 @@ Teste. Teste.com
 
 Teste 2. 123
 ```
+
 ---
 
 ### 26/09
@@ -115,6 +117,7 @@ Teste. Teste.com
 
 Teste 2. 123
 ```
+
 ---
 
 ### 03/10
@@ -126,6 +129,7 @@ Teste. Teste.com
 
 Teste 2. 123
 ```
+
 ---
 
 ### 10/10
@@ -137,6 +141,7 @@ Teste. Teste.com
 
 Teste 2. 123
 ```
+
 ---
 
 ### 17/10
@@ -149,6 +154,7 @@ Teste. Teste.com
 
 Teste 2. 123
 ```
+
 ---
 
 ### 24/10
@@ -160,6 +166,7 @@ Teste. Teste.com
 
 Teste 2. 123
 ```
+
 ---
 
 ### 31/10
@@ -171,11 +178,13 @@ Teste. Teste.com
 
 Teste 2. 123
 ```
+
 ---
 
 ### 07/11
 
 CONGRESSO INCT.DD
+
 ---
 
 ### 14/11
@@ -187,6 +196,7 @@ Teste. Teste.com
 
 Teste 2. 123
 ```
+
 ---
 
 ### 21/11
@@ -198,6 +208,7 @@ Teste. Teste.com
 
 Teste 2. 123
 ```
+
 ---
 
 ### 28/11
@@ -209,6 +220,7 @@ Teste. Teste.com
 
 Teste 2. 123
 ```
+
 ---
 
 ### 05/12
@@ -220,11 +232,13 @@ Teste. Teste.com
 
 Teste 2. 123
 ```
+
 ---
 
 ### 12/12
 
 LIVRE
+
 ---
 
 ### 19/12
