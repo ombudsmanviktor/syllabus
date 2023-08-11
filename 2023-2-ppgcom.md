@@ -51,11 +51,13 @@ Teste. Teste.com
 
 Teste 2. 123
 ```
+
 ---
 
 ### 22/08
 
 LIVRE
+
 ---
 
 ### 29/08
@@ -67,6 +69,7 @@ Teste. Teste.com
 
 Teste 2. 123
 ```
+
 ---
 
 ### 05/09
@@ -78,6 +81,7 @@ Teste. Teste.com
 
 Teste 2. 123
 ```
+
 ---
 
 ### 12/09
