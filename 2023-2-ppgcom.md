@@ -59,6 +59,8 @@ LIVRE
 Cultura cívica. A relação entre atitudes políticas e democracia.
 
 ```
+~ Leituras Recomendadas:
+
 Almond, G. A., & Verba, S. (1963). The Civic Culture: Political Attidues and Democracy in Five Nations. Capítulo 1.
 
 Pye, L. W. Political Culture Revisited (1991). Political Psychology, 12(3).
@@ -71,6 +73,8 @@ Pye, L. W. Political Culture Revisited (1991). Political Psychology, 12(3).
 Resumo
 
 ```
+~ Leituras Recomendadas:
+
 Somers, M. R. (1995). What's Political or Cultural about Political Culture and the Public Sphere? Toward an Historical Sociology of Concept Formation. Sociological Theory, 13(2).
 
 Formisano, R. P. (2001). The Concept of Political Culture. The Journal of Interdisciplinary History, 31(3).
@@ -87,6 +91,8 @@ Krischke, P. J. (1997). Cultura Política e Escolha Racional na América Latina:
 Resumo
 
 ```
+~ Leituras Recomendadas:
+
 Tocqueville, A. (1998 [1835]). Da Democracia na América. Livro I, Primeira Parte, Capítulos II e III. Livro II, Segunda Parte, Capítulos II a VII.
 
 Putnam, R. (2015 [2000]). Jogando Boliche Sozinho. Capítulos 1, 2, 9 e 24.
@@ -99,6 +105,8 @@ Putnam, R. (2015 [2000]). Jogando Boliche Sozinho. Capítulos 1, 2, 9 e 24.
 Resumo
 
 ```
+~ Leituras Recomendadas:
+
 Gomes, W. (2008). Capital Social, Democracia e Televisão em Robert Putnam. In W. Gomes & R. Maia. Comunicação e Democracia: Problemas & Perspectivas.
 
 Goldfarb, J. (2012). Reinventing Political Culture. Introdução e Capítulo 1.
@@ -111,6 +119,8 @@ Goldfarb, J. (2012). Reinventing Political Culture. Introdução e Capítulo 1.
 Resumo
 
 ```
+~ Leituras Recomendadas:
+
 Eliasoph, N. (1998). Avoiding Politics. Capítulo 1.
 
 Mansbridge, J. (2009 [1999]). A conversação cotidiana no sistema deliberativo. In A. C. S. Marques (org.). A deliberação pública e suas dimensões sociais, políticas e comunicativas: textos fundamentais.
@@ -127,6 +137,8 @@ Highfield, T. (2016). Social Media and Everyday Politics. Capítulo 2.
 Resumo
 
 ```
+~ Leituras Recomendadas:
+
 Street
 
 Van Zonnen
@@ -141,6 +153,8 @@ Van Zonnen
 Resumo
 
 ```
+~ Leituras Recomendadas:
+
 Penney
 
 Chagas e Fonseca
@@ -154,6 +168,8 @@ Resumo
 ANPOCS 18-20/10
 
 ```
+~ Leituras Recomendadas:
+
 Mouffe
 
 Inglehart 1
@@ -166,6 +182,8 @@ Inglehart 1
 Resumo
 
 ```
+~ Leituras Recomendadas:
+
 Haider
 
 Porto
@@ -178,6 +196,8 @@ Porto
 Resumo
 
 ```
+~ Leituras Recomendadas:
+
 Norris e Inglehart
 
 Cesarino
@@ -196,6 +216,8 @@ CONGRESSO INCT.DD
 Resumo
 
 ```
+~ Leituras Recomendadas:
+
 Jelena Petković12, Jelena Božilović
 
 Jin
@@ -208,6 +230,8 @@ Jin
 Resumo
 
 ```
+~ Leituras Recomendadas:
+
 Donovan
 
 Phillips e Milner
@@ -220,6 +244,8 @@ Phillips e Milner
 Resumo
 
 ```
+~ Leituras Recomendadas:
+
 Teitelbaum
 
 Chapoutot
