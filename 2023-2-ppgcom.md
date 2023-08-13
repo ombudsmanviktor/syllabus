@@ -42,15 +42,9 @@ Van Zoonen, L. (2004). Entertaining the Citizen: When Politics and Popular Cultu
 
 ## Programa de Curso
 
-### 15/08
+### 15/08 
 
-Resumo
-
-```
-Teste. Teste.com
-
-Teste 2. 123
-```
+Apresentação do Curso
 
 ---
 
@@ -62,12 +56,12 @@ LIVRE
 
 ### 29/08
 
-Resumo
+Cultura cívica. A relação entre atitudes políticas e democracia.
 
 ```
-Teste. Teste.com
+Almond, G. A., & Verba, S. (1963). The Civic Culture: Political Attidues and Democracy in Five Nations. Capítulo 1.
 
-Teste 2. 123
+Pye, L. W. Political Culture Revisited (1991). Political Psychology, 12(3).
 ```
 
 ---
@@ -77,9 +71,13 @@ Teste 2. 123
 Resumo
 
 ```
-Teste. Teste.com
+Somers, M. R. (1995). What's Political or Cultural about Political Culture and the Public Sphere? Toward an Historical Sociology of Concept Formation. Sociological Theory, 13(2).
 
-Teste 2. 123
+Formisano, R. P. (2001). The Concept of Political Culture. The Journal of Interdisciplinary History, 31(3).
+
+~ Leitura Complementar:
+
+Krischke, P. J. (1997). Cultura Política e Escolha Racional na América Latina: Interfaces nos Estudos da Democratização. BIB, 43(1).
 ```
 
 ---
@@ -89,9 +87,9 @@ Teste 2. 123
 Resumo
 
 ```
-Teste. Teste.com
+Tocqueville, A. (1998 [1835]). Da Democracia na América. Livro I, Primeira Parte, Capítulos II e III. Livro II, Segunda Parte, Capítulos II a VII.
 
-Teste 2. 123
+Putnam, R. (2015 [2000]). Jogando Boliche Sozinho. Capítulos 1, 2, 9 e 24.
 ```
 
 ---
@@ -101,9 +99,9 @@ Teste 2. 123
 Resumo
 
 ```
-Teste. Teste.com
+Gomes, W. (2008). Capital Social, Democracia e Televisão em Robert Putnam. In W. Gomes & R. Maia. Comunicação e Democracia: Problemas & Perspectivas.
 
-Teste 2. 123
+Goldfarb, J. (2012). Reinventing Political Culture. Introdução e Capítulo 1.
 ```
 
 ---
@@ -113,9 +111,13 @@ Teste 2. 123
 Resumo
 
 ```
-Teste. Teste.com
+Eliasoph, N. (1998). Avoiding Politics. Capítulo 1.
 
-Teste 2. 123
+Mansbridge, J. (2009 [1999]). A conversação cotidiana no sistema deliberativo. In A. C. S. Marques (org.). A deliberação pública e suas dimensões sociais, políticas e comunicativas: textos fundamentais.
+
+~ Leitura Complementar:
+
+Highfield, T. (2016). Social Media and Everyday Politics. Capítulo 2.
 ```
 
 ---
@@ -125,9 +127,11 @@ Teste 2. 123
 Resumo
 
 ```
-Teste. Teste.com
+Street
 
-Teste 2. 123
+Van Zonnen
+
+Van Zonnen
 ```
 
 ---
@@ -137,9 +141,9 @@ Teste 2. 123
 Resumo
 
 ```
-Teste. Teste.com
+Penney
 
-Teste 2. 123
+Chagas e Fonseca
 ```
 
 ---
@@ -150,9 +154,9 @@ Resumo
 ANPOCS 18-20/10
 
 ```
-Teste. Teste.com
+Mouffe
 
-Teste 2. 123
+Inglehart 1
 ```
 
 ---
@@ -162,9 +166,9 @@ Teste 2. 123
 Resumo
 
 ```
-Teste. Teste.com
+Haider
 
-Teste 2. 123
+Porto
 ```
 
 ---
@@ -174,9 +178,9 @@ Teste 2. 123
 Resumo
 
 ```
-Teste. Teste.com
+Norris e Inglehart
 
-Teste 2. 123
+Cesarino
 ```
 
 ---
@@ -192,9 +196,9 @@ CONGRESSO INCT.DD
 Resumo
 
 ```
-Teste. Teste.com
+Jelena Petković12, Jelena Božilović
 
-Teste 2. 123
+Jin
 ```
 
 ---
@@ -204,9 +208,9 @@ Teste 2. 123
 Resumo
 
 ```
-Teste. Teste.com
+Donovan
 
-Teste 2. 123
+Phillips e Milner
 ```
 
 ---
@@ -216,9 +220,9 @@ Teste 2. 123
 Resumo
 
 ```
-Teste. Teste.com
+Teitelbaum
 
-Teste 2. 123
+Chapoutot
 ```
 
 ---
@@ -228,9 +232,7 @@ Teste 2. 123
 Resumo
 
 ```
-Teste. Teste.com
-
-Teste 2. 123
+TRABALHOS
 ```
 
 ---
