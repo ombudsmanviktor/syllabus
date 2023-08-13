@@ -250,11 +250,11 @@ Resumo
 ```
 ~ Leituras Recomendadas:
 
-Teitelbaum
+Barros, S., & Chagas, V. Cultura Política Digital do Bolsonarismo: em Busca do Conceito Perdido. Trabalho apresentado no 32º Encontro Anual da Compós.
 
-Chapoutot
+~ Leitura Complementar:
 
-Barros Chagas
+Teitelbaum, B. Guerra Pela Eternidade. (Capítulo a selecionar.)
 ```
 
 ---
