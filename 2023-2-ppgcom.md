@@ -64,6 +64,10 @@ Cultura cívica. A relação entre atitudes políticas e democracia.
 Almond, G. A., & Verba, S. (1963). The Civic Culture: Political Attidues and Democracy in Five Nations. Capítulo 1.
 
 Pye, L. W. Political Culture Revisited (1991). Political Psychology, 12(3).
+
+~ Leitura Complementar:
+
+Krischke, P. J. (1997). Cultura Política e Escolha Racional na América Latina: Interfaces nos Estudos da Democratização. BIB, 43(1).
 ```
 
 ---
@@ -78,10 +82,6 @@ Resumo
 Somers, M. R. (1995). What's Political or Cultural about Political Culture and the Public Sphere? Toward an Historical Sociology of Concept Formation. Sociological Theory, 13(2).
 
 Formisano, R. P. (2001). The Concept of Political Culture. The Journal of Interdisciplinary History, 31(3).
-
-~ Leitura Complementar:
-
-Krischke, P. J. (1997). Cultura Política e Escolha Racional na América Latina: Interfaces nos Estudos da Democratização. BIB, 43(1).
 ```
 
 ---
@@ -139,11 +139,13 @@ Resumo
 ```
 ~ Leituras Recomendadas:
 
-Street
+Street, J. (2000). Politics and Popular Culture. Capítulos 7 e 8.
 
-Van Zonnen
+Van Zoonen, L. (2004). Entertaining the Citizen: When Politics and Popular Culture Converge. Capítulo 4.
 
-Van Zonnen
+~ Leitura Complementar:
+
+Van Zonnen, L. (2012). I-Pistemology: Changing Truth Claims in Popular and Political Culture. European Journal of Communication, 27(1).
 ```
 
 ---
@@ -155,9 +157,9 @@ Resumo
 ```
 ~ Leituras Recomendadas:
 
-Penney
+Penney, J. (2022). Pop Culture, Politics, and The News. Capítulo 6.
 
-Chagas e Fonseca
+Chagas, V., & Fonseca, V. (2020). Faster, higher, stronger: Sports fan activism and mediatized political play in the 2016 Rio Olympic Games. Transformative Works and Cultures, 32.
 ```
 
 ---
@@ -170,9 +172,9 @@ ANPOCS 18-20/10
 ```
 ~ Leituras Recomendadas:
 
-Mouffe
+Mouffe, C. Sobre o Político. Capítulo 2.
 
-Inglehart 1
+Inglehart, R. (1977). The Silent Revolution: Changing Values and Political Styles Among Western Publics. Capítulo 1.
 ```
 
 ---
@@ -184,9 +186,9 @@ Resumo
 ```
 ~ Leituras Recomendadas:
 
-Haider
+Haider, A. Armadilha da Identidade: Raça e Classe nos Dias de Hoje. Capítulo 1.
 
-Porto
+Porto, M. Mirrors of Whitness: Media, Middle-Class Resentment, and the Rise of the Far-Right in Brazil. Capítulo 1.
 ```
 
 ---
@@ -198,9 +200,11 @@ Resumo
 ```
 ~ Leituras Recomendadas:
 
-Norris e Inglehart
+Norris, P., & Inglehart, R. (2019). Cultural Backlash: Trump, Brexit, and Authoritarian Populism. Capítulos 12 e 13.
 
-Cesarino
+~ Leitura Complementar:
+
+Cesarino, L. (2022). O Mundo do Avesso: Verdade e Política na Era Digital. Capítulo 3.
 ```
 
 ---
@@ -218,9 +222,9 @@ Resumo
 ```
 ~ Leituras Recomendadas:
 
-Jelena Petković12, Jelena Božilović
+Petković, J., & Božilović, J. (2020). Digital Culture as a Framework of Civic Activism. Media Studies and Applied Ethics, 1(2).
 
-Jin
+Jin, D. Y. (2015). Digital Platforms, Imperialism and Political Culture. Capítulo 1.
 ```
 
 ---
@@ -232,9 +236,9 @@ Resumo
 ```
 ~ Leituras Recomendadas:
 
-Donovan
+Donovan, J., Dreyfus, E., Friedbeerg, B. (2022). Meme Wars. Introdução.
 
-Phillips e Milner
+Phillips, W., & Milner, R. (2021). You Are Here. Capítulo 1.
 ```
 
 ---
@@ -249,17 +253,15 @@ Resumo
 Teitelbaum
 
 Chapoutot
+
+Barros Chagas
 ```
 
 ---
 
 ### 05/12
 
-Resumo
-
-```
-TRABALHOS
-```
+Discussão sobre Trabalhos de Conclusão.
 
 ---
 
