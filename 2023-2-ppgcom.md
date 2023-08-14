@@ -145,7 +145,7 @@ Participação política, engajamento cívico e capital social.
 ```
 ~ Leituras Recomendadas:
 
-⬛ Putnam, R. (2015 [2000]). Jogando Boliche Sozinho. Capítulos 1, 2, 9 e 24.
+Putnam, R. (2015 [2000]). Jogando Boliche Sozinho. Capítulos 1, 2, 9 e 24.
 
 ⬛ Gomes, W. (2008). Capital Social, Democracia e Televisão em Robert Putnam. In W. Gomes & R. Maia. Comunicação e Democracia: Problemas & Perspectivas.
 ```
