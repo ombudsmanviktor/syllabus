@@ -207,7 +207,7 @@ A supressão da política adversária e a política pós-materialista.
 ```
 ~ Leituras Recomendadas:
 
-Mouffe, C. Sobre o Político. Capítulo 2.
+Mouffe, C. (2015 [2005]). Sobre o Político. Capítulo 2.
 
 Inglehart, R. (1977). The Silent Revolution: Changing Values and Political Styles Among Western Publics. Capítulo 1.
 ```
@@ -221,9 +221,9 @@ A política identitária e a produção midiática do ressentimento.
 ```
 ~ Leituras Recomendadas:
 
-Haider, A. Armadilha da Identidade: Raça e Classe nos Dias de Hoje. Capítulo 1.
+Haider, A. (2019 [2018]). Armadilha da Identidade: Raça e Classe nos Dias de Hoje. Capítulo 1.
 
-Porto, M. Mirrors of Whitness: Media, Middle-Class Resentment, and the Rise of the Far-Right in Brazil. Capítulo 1.
+Porto, M. (2023). Mirrors of Whitness: Media, Middle-Class Resentment, and the Rise of the Far-Right in Brazil. Capítulo 1.
 ```
 
 ---
@@ -277,9 +277,9 @@ Phillips, W., & Milner, R. (2021). You Are Here. Capítulo 1.
 
 ~ Leituras Complementares:
 
-Barros, S., & Chagas, V. Cultura Política Digital do Bolsonarismo: em Busca do Conceito Perdido. Trabalho apresentado no 32º Encontro Anual da Compós.
+Barros, S., & Chagas, V. (2023). Cultura Política Digital do Bolsonarismo: em Busca do Conceito Perdido. Trabalho apresentado no 32º Encontro Anual da Compós.
 
-Teitelbaum, B. Guerra Pela Eternidade. (Capítulo a selecionar.)
+Teitelbaum, B. (2020). Guerra Pela Eternidade. (Capítulo a selecionar.)
 ```
 
 ---
