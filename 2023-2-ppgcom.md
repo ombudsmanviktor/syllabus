@@ -174,7 +174,7 @@ Cultura política e cotidiano. O pessoal, o político e a produção da apatia.
 ```
 ~ Leituras Recomendadas:
 
-⬛ Eliasoph, N. (1998). Avoiding Politics. Capítulo 1.
+Eliasoph, N. (1998). Avoiding Politics. Capítulo 1.
 
 Mansbridge, J. (2009 [1999]). A conversação cotidiana no sistema deliberativo. In A. C. S. Marques (org.). A deliberação pública e suas dimensões sociais, políticas e comunicativas: textos fundamentais.
 
@@ -262,7 +262,7 @@ Norris, P., & Inglehart, R. (2019). Cultural Backlash: Trump, Brexit, and Author
 
 ~ Leitura Complementar:
 
-⬛ Cesarino, L. (2022). O Mundo do Avesso: Verdade e Política na Era Digital. Capítulo 3.
+Cesarino, L. (2022). O Mundo do Avesso: Verdade e Política na Era Digital. Capítulo 3.
 ```
 
 ---
@@ -290,15 +290,15 @@ Guerras culturais e enquadramentos meméticos profundos. A cultura política dig
 ```
 ~ Leituras Recomendadas:
 
-⬛ Donovan, J., Dreyfus, E., Friedbeerg, B. (2022). Meme Wars. Introdução.
+Donovan, J., Dreyfus, E., Friedbeerg, B. (2022). Meme Wars. Introdução.
 
-⬛ Phillips, W., & Milner, R. (2021). You Are Here. Capítulo 1.
+Phillips, W., & Milner, R. (2021). You Are Here. Capítulo 1.
 
 ~ Leituras Complementares:
 
 ⬛ Barros, S., & Chagas, V. (2023). Cultura Política Digital do Bolsonarismo: em Busca do Conceito Perdido. Trabalho apresentado no 32º Encontro Anual da Compós.
 
-⬛ Teitelbaum, B. (2020). Guerra Pela Eternidade. (Capítulo a selecionar.)
+Teitelbaum, B. (2020). Guerra Pela Eternidade. (Capítulo a selecionar.)
 ```
 
 ---
