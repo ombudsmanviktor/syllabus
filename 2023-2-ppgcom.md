@@ -43,8 +43,10 @@ Van Zoonen, L. (2004). Entertaining the Citizen: When Politics and Popular Cultu
 ## Relatorias
 
 | **Aula** | **Apresentador(a)** | **Relator(a)** |
+| ------------- | ------------- | -------------|
 | Aula 15/08 | Apresentador(a) | Relator(a) |
 | Aula 29/08 | Apresentador(a) | Relator(a) |
+
 
 ## Programa de Curso
 
