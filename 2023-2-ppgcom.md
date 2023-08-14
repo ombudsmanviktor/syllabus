@@ -40,10 +40,11 @@ Teitelbaum, B. (2020). War for Eternity: Inside Bannon's Far-Right Circle of Glo
 Van Zoonen, L. (2004). Entertaining the Citizen: When Politics and Popular Culture Converge.
 
 
-## 
+## Oo
 
-![https://chat.whatsapp.com/LgonliUK5DE3AjImFPFT7g](./midcultpol_qr.png)
+![](./midcultpol_qr.png)
 
+Teste
 
 
 ## Relatorias
