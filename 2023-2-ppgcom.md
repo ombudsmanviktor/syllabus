@@ -44,7 +44,7 @@ Van Zoonen, L. (2004). Entertaining the Citizen: When Politics and Popular Cultu
 
 | **Aula** | **Apresentador(a)** | **Relator(a)** |
 | ------------- | ------------- | -------------|
-| Aula 15/08 | Apresentador(a) | Relator(a) |
+| Aula 15/08 | N.A. | N.A. |
 | ~~Aula 22/08~~ |  |  |
 | Aula 29/08 | Apresentador(a) | Relator(a) |
 | Aula 05/09 | Apresentador(a) | Relator(a) |
@@ -60,9 +60,9 @@ Van Zoonen, L. (2004). Entertaining the Citizen: When Politics and Popular Cultu
 | Aula 14/11 | Apresentador(a) | Relator(a) |
 | Aula 21/11 | Apresentador(a) | Relator(a) |
 | Aula 28/11 | Apresentador(a) | Relator(a) |
-| Aula 05/12 | Apresentador(a) | Relator(a) |
-| ~~Aula 12/12~~ |  |  |
-| ~~Aula 19/12~~ |  |  |
+| Aula 05/12 | N.A. | N.A. |
+| ~~Aula 12/12~~ | N.A. | N.A. |
+| ~~Aula 19/12~~ | N.A. | N.A. |
 
 
 ## Programa de Curso
