@@ -10,6 +10,8 @@ layout: home
 
 Professor: Viktor Chagas [✉️](mailto:viktor@midia.uff.br?subject=[Mídia e Cultura Política])
 
+Período Letivo: 2023.2
+
 Horário: Terças-feiras às 10h
 
 ## Ementa
