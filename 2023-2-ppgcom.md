@@ -46,7 +46,7 @@ Van Zoonen, L. (2004). Entertaining the Citizen: When Politics and Popular Cultu
 
 A disciplina possui um grupo no WhatsApp para trocas entre alunos e professor. As aulas terão formato de seminário, com apresentação de um(a) aluno(a) por semana e relatoria de outro(a). Relatos devem ser encaminhados por escrito até a semana seguinte à aula. Cada aluno(a) deverá conduzir ao menos uma apresentação e produzir ao menos uma relatoria. Os(As) aluno(as) serão avaliados com base no trabalho de conclusão e também em sua participação durante as aulas.
 
-![](https://chat.whatsapp.com/LgonliUK5DE3AjImFPFT7g | ./midcultpol_qr.png)
+![](https://chat.whatsapp.com/LgonliUK5DE3AjImFPFT7g|./midcultpol_qr.png)
 
 
 ## Relatorias
