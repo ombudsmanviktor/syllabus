@@ -45,7 +45,7 @@ Van Zoonen, L. (2004). Entertaining the Citizen: When Politics and Popular Cultu
 | **Aula** | **Apresentador(a)** | **Relator(a)** |
 | ------------- | ------------- | -------------|
 | Aula 15/08 | Apresentador(a) | Relator(a) |
-| Aula 22/08 |  |  |
+| ~~Aula 22/08~~ |  |  |
 | Aula 29/08 | Apresentador(a) | Relator(a) |
 | Aula 05/09 | Apresentador(a) | Relator(a) |
 | Aula 12/09 | Apresentador(a) | Relator(a) |
@@ -56,13 +56,13 @@ Van Zoonen, L. (2004). Entertaining the Citizen: When Politics and Popular Cultu
 | Aula 17/10 | Apresentador(a) | Relator(a) |
 | Aula 24/10 | Apresentador(a) | Relator(a) |
 | Aula 31/10 | Apresentador(a) | Relator(a) |
-| Aula 07/11 |  |  |
+| ~~Aula 07/11~~ |  |  |
 | Aula 14/11 | Apresentador(a) | Relator(a) |
 | Aula 21/11 | Apresentador(a) | Relator(a) |
 | Aula 28/11 | Apresentador(a) | Relator(a) |
 | Aula 05/12 | Apresentador(a) | Relator(a) |
-| Aula 12/12 |  |  |
-| Aula 19/12 |  |  |
+| ~~Aula 12/12~~ |  |  |
+| ~~Aula 19/12~~ |  |  |
 
 
 ## Programa de Curso
@@ -186,7 +186,7 @@ Van Zonnen, L. (2012). I-Pistemology: Changing Truth Claims in Popular and Polit
 
 ---
 
-### 17/10 (Data a Confirmar)
+### 17/10
 
 Política e entretenimento II. A cultura pop como atalho cognitivo e a midiatização do ativismo político.
 
