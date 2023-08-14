@@ -44,7 +44,7 @@ Van Zoonen, L. (2004). Entertaining the Citizen: When Politics and Popular Cultu
 
 ## Recursos da Disciplina
 
-- [https://chat.whatsapp.com/LgonliUK5DE3AjImFPFT7g|Grupo de WhatsApp]
+- [Grupo de WhatsApp|https://chat.whatsapp.com/LgonliUK5DE3AjImFPFT7g]
 
 ![](./midcultpol_qr.png)
 
