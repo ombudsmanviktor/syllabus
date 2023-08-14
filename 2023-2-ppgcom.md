@@ -68,8 +68,8 @@ A disciplina possui um grupo no WhatsApp para trocas entre alunos e professor. A
 | Aula 21/11 | Apresentador(a) | Relator(a) |
 | Aula 28/11 | Apresentador(a) | Relator(a) |
 | Aula 05/12 | N.A. | N.A. |
-| ~~Aula 12/12~~ | N.A. | N.A. |
-| ~~Aula 19/12~~ | N.A. | N.A. |
+| ~~Aula 12/12~~ |  |  |
+| ~~Aula 19/12~~ |  |  |
 
 
 ## Programa de Curso
