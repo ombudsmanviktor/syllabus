@@ -296,9 +296,9 @@ Guerras culturais e enquadramentos meméticos profundos. A cultura política dig
 
 ~ Leituras Complementares:
 
-Barros, S., & Chagas, V. (2023). Cultura Política Digital do Bolsonarismo: em Busca do Conceito Perdido. Trabalho apresentado no 32º Encontro Anual da Compós.
+⬛ Barros, S., & Chagas, V. (2023). Cultura Política Digital do Bolsonarismo: em Busca do Conceito Perdido. Trabalho apresentado no 32º Encontro Anual da Compós.
 
-Teitelbaum, B. (2020). Guerra Pela Eternidade. (Capítulo a selecionar.)
+⬛ Teitelbaum, B. (2020). Guerra Pela Eternidade. (Capítulo a selecionar.)
 ```
 
 ---
