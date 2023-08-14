@@ -64,7 +64,7 @@ Van Zoonen, L. (2004). Entertaining the Citizen: When Politics and Popular Cultu
 | Aula 29/08 | Apresentador(a) | Relator(a) |
 | Aula 05/09 | Apresentador(a) | Relator(a) |
 | Aula 12/09 | Apresentador(a) | Relator(a) |
-| Aula 19/09 | Apresentador(a) | Relator(a) |
+| Aula 09 | Apresentador(a) | Relator(a) |
 | Aula 26/09 | Apresentador(a) | Relator(a) |
 | Aula 03/10 | Apresentador(a) | Relator(a) |
 | Aula 10/10 | Apresentador(a) | Relator(a) |
@@ -77,7 +77,7 @@ Van Zoonen, L. (2004). Entertaining the Citizen: When Politics and Popular Cultu
 | Aula 28/11 | Apresentador(a) | Relator(a) |
 | Aula 05/12 | N.A. | N.A. |
 | ~~Aula 12/12~~ |  |  |
-| ~~Aula 19/12~~ |  |  |
+| ~~Aula 12~~ |  |  |
 
 
 ## Programa de Curso
@@ -143,9 +143,9 @@ Participação política, engajamento cívico e capital social.
 ```
 ~ Leituras Recomendadas:
 
-Putnam, R. (2015 [2000]). Jogando Boliche Sozinho. Capítulos 1, 2, 9 e 24.
+⬛ Putnam, R. (2015 [2000]). Jogando Boliche Sozinho. Capítulos 1, 2, 9 e 24.
 
-Gomes, W. (2008). Capital Social, Democracia e Televisão em Robert Putnam. In W. Gomes & R. Maia. Comunicação e Democracia: Problemas & Perspectivas.
+⬛ Gomes, W. (2008). Capital Social, Democracia e Televisão em Robert Putnam. In W. Gomes & R. Maia. Comunicação e Democracia: Problemas & Perspectivas.
 ```
 
 ---
@@ -172,13 +172,13 @@ Cultura política e cotidiano. O pessoal, o político e a produção da apatia.
 ```
 ~ Leituras Recomendadas:
 
-Eliasoph, N. (1998). Avoiding Politics. Capítulo 1.
+⬛ Eliasoph, N. (1998). Avoiding Politics. Capítulo 1.
 
 Mansbridge, J. (2009 [1999]). A conversação cotidiana no sistema deliberativo. In A. C. S. Marques (org.). A deliberação pública e suas dimensões sociais, políticas e comunicativas: textos fundamentais.
 
 ~ Leitura Complementar:
 
-Highfield, T. (2016). Social Media and Everyday Politics. Capítulo 2.
+⬛ Highfield, T. (2016). Social Media and Everyday Politics. Capítulo 2.
 ```
 
 ---
@@ -190,7 +190,7 @@ Política e entretenimento I. A celebritização da política, os fandoms polít
 ```
 ~ Leituras Recomendadas:
 
-Street, J. (2000). Politics and Popular Culture. Capítulos 7 e 8.
+⬛ Street, J. (2000). Politics and Popular Culture. Capítulos 7 e 8.
 
 Van Zoonen, L. (2004). Entertaining the Citizen: When Politics and Popular Culture Converge. Capítulo 4.
 
@@ -208,7 +208,7 @@ Política e entretenimento II. A cultura pop como atalho cognitivo e a midiatiza
 ```
 ~ Leituras Recomendadas:
 
-Penney, J. (2022). Pop Culture, Politics, and The News. Capítulo 6.
+⬛ Penney, J. (2022). Pop Culture, Politics, and The News. Capítulo 6.
 
 Chagas, V., & Fonseca, V. (2020). Faster, higher, stronger: Sports fan activism and mediatized political play in the 2016 Rio Olympic Games. Transformative Works and Cultures, 32.
 ```
@@ -222,7 +222,7 @@ A supressão da política adversária e a política pós-materialista.
 ```
 ~ Leituras Recomendadas:
 
-Mouffe, C. (2015 [2005]). Sobre o Político. Capítulo 2.
+⬛ Mouffe, C. (2015 [2005]). Sobre o Político. Capítulo 2.
 
 Inglehart, R. (1977). The Silent Revolution: Changing Values and Political Styles Among Western Publics. Capítulo 1.
 ```
@@ -236,7 +236,7 @@ A política identitária e a produção midiática do ressentimento.
 ```
 ~ Leituras Recomendadas:
 
-Haider, A. (2019 [2018]). Armadilha da Identidade: Raça e Classe nos Dias de Hoje. Capítulo 1.
+⬛ Haider, A. (2019 [2018]). Armadilha da Identidade: Raça e Classe nos Dias de Hoje. Capítulo 1.
 
 Porto, M. (2023). Mirrors of Whitness: Media, Middle-Class Resentment, and the Rise of the Far-Right in Brazil. Capítulo 1.
 ```
@@ -260,14 +260,14 @@ Norris, P., & Inglehart, R. (2019). Cultural Backlash: Trump, Brexit, and Author
 
 ~ Leitura Complementar:
 
-Cesarino, L. (2022). O Mundo do Avesso: Verdade e Política na Era Digital. Capítulo 3.
+⬛ Cesarino, L. (2022). O Mundo do Avesso: Verdade e Política na Era Digital. Capítulo 3.
 ```
 
 ---
 
 ### 21/11
 
-Ativismo cívico e plataformas digitais.
+Ativismo cívico, imperialismo de plataforma e públicos afetivos.
 
 ```
 ~ Leituras Recomendadas:
@@ -275,6 +275,8 @@ Ativismo cívico e plataformas digitais.
 Petković, J., & Božilović, J. (2020). Digital Culture as a Framework of Civic Activism. Media Studies and Applied Ethics, 1(2).
 
 Jin, D. Y. (2015). Digital Platforms, Imperialism and Political Culture. Capítulo 1.
+
+Papacharissi, Z. (2015). Affective Publics. Capítulo 5.
 ```
 
 ---
@@ -286,9 +288,9 @@ Guerras culturais e enquadramentos meméticos profundos. A cultura política dig
 ```
 ~ Leituras Recomendadas:
 
-Donovan, J., Dreyfus, E., Friedbeerg, B. (2022). Meme Wars. Introdução.
+⬛ Donovan, J., Dreyfus, E., Friedbeerg, B. (2022). Meme Wars. Introdução.
 
-Phillips, W., & Milner, R. (2021). You Are Here. Capítulo 1.
+⬛ Phillips, W., & Milner, R. (2021). You Are Here. Capítulo 1.
 
 ~ Leituras Complementares:
 
