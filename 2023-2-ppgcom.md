@@ -89,17 +89,13 @@ Cultura cívica. A relação entre atitudes políticas e democracia.
 Almond, G. A., & Verba, S. (1963). The Civic Culture: Political Attidues and Democracy in Five Nations. Capítulo 1.
 
 Pye, L. W. Political Culture Revisited (1991). Political Psychology, 12(3).
-
-~ Leitura Complementar:
-
-Krischke, P. J. (1997). Cultura Política e Escolha Racional na América Latina: Interfaces nos Estudos da Democratização. BIB, 43(1).
 ```
 
 ---
 
 ### 05/09
 
-Resumo
+O conceito de cultura política. A ausência da cultura, a ausência da política.
 
 ```
 ~ Leituras Recomendadas:
@@ -113,35 +109,50 @@ Formisano, R. P. (2001). The Concept of Political Culture. The Journal of Interd
 
 ### 12/09
 
-Resumo
+As matrizes do culturalismo. A linearidade histórica e o paradigma comparativo.
 
 ```
 ~ Leituras Recomendadas:
 
 Tocqueville, A. (1998 [1835]). Da Democracia na América. Livro I, Primeira Parte, Capítulos II e III. Livro II, Segunda Parte, Capítulos II a VII.
 
-Putnam, R. (2015 [2000]). Jogando Boliche Sozinho. Capítulos 1, 2, 9 e 24.
+Fagundes, B. F. L. (2008). Matrizes do pensamento culturalista: Tocqueville e Almond-Verba. Lua Nova, 74.
 ```
 
 ---
 
 ### 19/09
 
-Resumo
+Participação política, engajamento cívico e capital social.
 
 ```
 ~ Leituras Recomendadas:
 
-Gomes, W. (2008). Capital Social, Democracia e Televisão em Robert Putnam. In W. Gomes & R. Maia. Comunicação e Democracia: Problemas & Perspectivas.
+Putnam, R. (2015 [2000]). Jogando Boliche Sozinho. Capítulos 1, 2, 9 e 24.
 
-Goldfarb, J. (2012). Reinventing Political Culture. Introdução e Capítulo 1.
+Gomes, W. (2008). Capital Social, Democracia e Televisão em Robert Putnam. In W. Gomes & R. Maia. Comunicação e Democracia: Problemas & Perspectivas.
 ```
 
 ---
 
 ### 26/09
 
-Resumo
+Novas interpretações. O poder da cultura em oposição à cultura do poder.
+
+```
+~ Leituras Recomendadas:
+
+Goldfarb, J. (2012). Reinventing Political Culture. Introdução e Capítulo 1.
+
+Krischke, P. J. (1997). Cultura Política e Escolha Racional na América Latina: Interfaces nos Estudos da Democratização. BIB, 43(1).
+
+```
+
+---
+
+### 03/10
+
+Cultura política e cotidiano. O pessoal, o político e a produção da apatia.
 
 ```
 ~ Leituras Recomendadas:
@@ -157,9 +168,9 @@ Highfield, T. (2016). Social Media and Everyday Politics. Capítulo 2.
 
 ---
 
-### 03/10
+### 10/10
 
-Resumo
+Política e entretenimento I. A celebritização da política, os fandoms políticos e a crise epistêmica.
 
 ```
 ~ Leituras Recomendadas:
@@ -175,9 +186,9 @@ Van Zonnen, L. (2012). I-Pistemology: Changing Truth Claims in Popular and Polit
 
 ---
 
-### 10/10
+### 17/10 (Data a Confirmar)
 
-Resumo
+Política e entretenimento II. A cultura pop como atalho cognitivo e a midiatização do ativismo político.
 
 ```
 ~ Leituras Recomendadas:
@@ -189,10 +200,9 @@ Chagas, V., & Fonseca, V. (2020). Faster, higher, stronger: Sports fan activism 
 
 ---
 
-### 17/10
+### 24/10
 
-Resumo
-ANPOCS 18-20/10
+A supressão da política adversária e a política pós-materialista.
 
 ```
 ~ Leituras Recomendadas:
@@ -204,9 +214,9 @@ Inglehart, R. (1977). The Silent Revolution: Changing Values and Political Style
 
 ---
 
-### 24/10
+### 31/10
 
-Resumo
+A política identitária e a produção midiática do ressentimento.
 
 ```
 ~ Leituras Recomendadas:
@@ -218,9 +228,15 @@ Porto, M. Mirrors of Whitness: Media, Middle-Class Resentment, and the Rise of t
 
 ---
 
-### 31/10
+### 07/11
 
-Resumo
+CONGRESSO INCT.DD
+
+---
+
+### 14/11
+
+O reacionarismo cultural.
 
 ```
 ~ Leituras Recomendadas:
@@ -234,15 +250,9 @@ Cesarino, L. (2022). O Mundo do Avesso: Verdade e Política na Era Digital. Cap�
 
 ---
 
-### 07/11
+### 21/11
 
-CONGRESSO INCT.DD
-
----
-
-### 14/11
-
-Resumo
+Ativismo cívico e plataformas digitais.
 
 ```
 ~ Leituras Recomendadas:
@@ -254,9 +264,9 @@ Jin, D. Y. (2015). Digital Platforms, Imperialism and Political Culture. Capítu
 
 ---
 
-### 21/11
+### 28/11
 
-Resumo
+Guerras culturais e enquadramentos meméticos profundos. A cultura política digital das extremas-direitas e dos grupos conspiracionistas.
 
 ```
 ~ Leituras Recomendadas:
@@ -264,20 +274,10 @@ Resumo
 Donovan, J., Dreyfus, E., Friedbeerg, B. (2022). Meme Wars. Introdução.
 
 Phillips, W., & Milner, R. (2021). You Are Here. Capítulo 1.
-```
 
----
-
-### 28/11
-
-Resumo
-
-```
-~ Leituras Recomendadas:
+~ Leituras Complementares:
 
 Barros, S., & Chagas, V. Cultura Política Digital do Bolsonarismo: em Busca do Conceito Perdido. Trabalho apresentado no 32º Encontro Anual da Compós.
-
-~ Leitura Complementar:
 
 Teitelbaum, B. Guerra Pela Eternidade. (Capítulo a selecionar.)
 ```
