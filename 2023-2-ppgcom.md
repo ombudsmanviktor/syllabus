@@ -48,7 +48,9 @@ Van Zoonen, L. (2004). Entertaining the Citizen: When Politics and Popular Cultu
 
 ![](./midcultpol_qr.png)
 
-- Pasta de Textos
+- [Pasta de Textos](https://bit.ly/midiaeculturapolitica_textos)
+
+![](./midcultpol_textos.png)
 
 - [Programa de Curso](https://bit.ly/midiaeculturapolitica)
 
