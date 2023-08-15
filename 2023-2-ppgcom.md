@@ -126,28 +126,28 @@ Formisano, R. P. (2001). The Concept of Political Culture. The Journal of Interd
 
 ### 12/09
 
-As matrizes do culturalismo. A linearidade histórica e o paradigma comparativo.
+As matrizes do culturalismo I. A linearidade histórica e o papel da mídia de massa na produção da apatia.
 
 ```
 ~ Leituras Recomendadas:
 
 Tocqueville, A. (1998 [1835]). Da Democracia na América. Livro I, Primeira Parte, Capítulos II e III. Livro II, Segunda Parte, Capítulos II a VII.
 
-Fagundes, B. F. L. (2008). Matrizes do pensamento culturalista: Tocqueville e Almond-Verba. Lua Nova, 74.
+Putnam, R. (2015 [2000]). Jogando Boliche Sozinho. Capítulos 1, 2, 9 e 24.
 ```
 
 ---
 
 ### 19/09
 
-Participação política, engajamento cívico e capital social.
+As matrizes do culturalismo II. Participação política, engajamento cívico e capital social. 
 
 ```
 ~ Leituras Recomendadas:
 
-Putnam, R. (2015 [2000]). Jogando Boliche Sozinho. Capítulos 1, 2, 9 e 24.
-
 ⬛ Gomes, W. (2008). Capital Social, Democracia e Televisão em Robert Putnam. In W. Gomes & R. Maia. Comunicação e Democracia: Problemas & Perspectivas.
+
+Norris, P. (2002). Democratic Phoenix: Reinventing Political Activism. Capítulo 8.
 ```
 
 ---
