@@ -201,7 +201,7 @@ Van Zoonen, L. (2004). Entertaining the Citizen: When Politics and Popular Cultu
 
 ~ Leitura Complementar:
 
-Street, J. (1994). Political Culture - From Civic Culture to Mass Culture. British Journal of Political Science, 24(1).
+⬛ Street, J. (1994). Political Culture - From Civic Culture to Mass Culture. British Journal of Political Science, 24(1).
 
 Van Zonnen, L. (2012). I-Pistemology: Changing Truth Claims in Popular and Political Culture. European Journal of Communication, 27(1).
 ```
