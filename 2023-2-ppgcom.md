@@ -273,16 +273,14 @@ Cesarino, L. (2022). O Mundo do Avesso: Verdade e Política na Era Digital. Cap�
 
 ### 21/11
 
-Ativismo cívico, imperialismo de plataforma e públicos afetivos.
+Públicos afetivos e a política das plataformas.
 
 ```
 ~ Leituras Recomendadas:
 
-Petković, J., & Božilović, J. (2020). Digital Culture as a Framework of Civic Activism. Media Studies and Applied Ethics, 1(2).
-
-Jin, D. Y. (2015). Digital Platforms, Imperialism and Political Culture. Capítulo 1.
-
 Papacharissi, Z. (2015). Affective Publics. Capítulo 5.
+
+Gillespie, T. (2010). The politics of Platforms. New Media & Society, 12(3).
 ```
 
 ---
