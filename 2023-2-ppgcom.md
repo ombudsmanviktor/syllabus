@@ -161,6 +161,10 @@ Novas interpretações. O poder da cultura em oposição à cultura do poder.
 
 Goldfarb, J. (2012). Reinventing Political Culture. Introdução e Capítulo 1.
 
+Dahlgren, P. (2003). Reconfiguring Civic Culture in the New Media Milieu. In J. Corner e D. Pels (orgs.). Media and the Restyling of Politics.
+
+~ Leitura Complementar:
+
 Krischke, P. J. (1997). Cultura Política e Escolha Racional na América Latina: Interfaces nos Estudos da Democratização. BIB, 43(1).
 
 ```
@@ -233,7 +237,7 @@ Inglehart, R. (1977). The Silent Revolution: Changing Values and Political Style
 
 ### 31/10
 
-A política identitária e a produção midiática do ressentimento.
+Política identitária e ressentimento.
 
 ```
 ~ Leituras Recomendadas:
