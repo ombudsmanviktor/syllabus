@@ -154,7 +154,7 @@ Norris, P. (2002). Democratic Phoenix: Reinventing Political Activism. Capítulo
 
 ### 26/09
 
-Novas interpretações. O poder da cultura em oposição à cultura do poder.
+Mídia e cultura política, e a cultura da comunicação política.
 
 ```
 ~ Leituras Recomendadas:
@@ -163,9 +163,8 @@ Goldfarb, J. (2012). Reinventing Political Culture. Introdução e Capítulo 1.
 
 Dahlgren, P. (2003). Reconfiguring Civic Culture in the New Media Milieu. In J. Corner e D. Pels (orgs.). Media and the Restyling of Politics.
 
-~ Leitura Complementar:
-
-Krischke, P. J. (1997). Cultura Política e Escolha Racional na América Latina: Interfaces nos Estudos da Democratização. BIB, 43(1).
+Pfetsch, B. (2009). From Political Culture to Political Communication Culture A Theoretical Approach to Comparative Analysis. In F. Esser e B. Pfetsch. Comparing Political Communication
+Theories, Cases, and Challenges.
 
 ```
 
