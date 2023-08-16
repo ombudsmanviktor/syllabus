@@ -63,20 +63,20 @@ Van Zoonen, L. (2004). Entertaining the Citizen: When Politics and Popular Cultu
 | ------------- | ------------- | -------------|
 | Aula 15/08 | N.A. | N.A. |
 | ~~Aula 22/08~~ |  |  |
-| Aula 29/08 | Apresentador(a) | Relator(a) |
-| Aula 05/09 | Apresentador(a) | Relator(a) |
-| Aula 12/09 | Apresentador(a) | Relator(a) |
-| Aula 09 | Apresentador(a) | Relator(a) |
-| Aula 26/09 | Apresentador(a) | Relator(a) |
-| Aula 03/10 | Apresentador(a) | Relator(a) |
-| Aula 10/10 | Apresentador(a) | Relator(a) |
-| Aula 17/10 | Apresentador(a) | Relator(a) |
-| Aula 24/10 | Apresentador(a) | Relator(a) |
-| Aula 31/10 | Apresentador(a) | Relator(a) |
+| Aula 29/08 | Alexandre | Laura |
+| Aula 05/09 | Laura | Wesley |
+| Aula 12/09 | Gabi Costa | Gabi Juns |
+| Aula 19/09 | Gabi Costa | Wesley |
+| Aula 26/09 | Wesley | Bea |
+| Aula 03/10 | Gabi Juns | Laura |
+| Aula 10/10 | Bea | Alékis |
+| Aula 17/10 | Melissa | Gabi Costa |
+| Aula 24/10 | Wesley | Alékis |
+| Aula 31/10 | Cris | Alexandre |
 | ~~Aula 07/11~~ |  |  |
-| Aula 14/11 | Apresentador(a) | Relator(a) |
-| Aula 21/11 | Apresentador(a) | Relator(a) |
-| Aula 28/11 | Apresentador(a) | Relator(a) |
+| Aula 14/11 | Alékis| Melissa |
+| Aula 21/11 | Alékis | Gabi Juns |
+| Aula 28/11 | Alexandre | Cris |
 | Aula 05/12 | N.A. | N.A. |
 | ~~Aula 12/12~~ |  |  |
 | ~~Aula 12~~ |  |  |
