@@ -243,7 +243,7 @@ Política identitária e ressentimento.
 ```
 ~ Leituras Recomendadas:
 
-⬛ Haider, A. (2019 [2018]). Armadilha da Identidade: Raça e Classe nos Dias de Hoje. Capítulo 1.
+Haider, A. (2019 [2018]). Armadilha da Identidade: Raça e Classe nos Dias de Hoje. Capítulo 1.
 
 Porto, M. (2023). Mirrors of Whitness: Media, Middle-Class Resentment, and the Rise of the Far-Right in Brazil. Capítulo 1.
 ```
