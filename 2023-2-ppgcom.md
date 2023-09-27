@@ -145,7 +145,7 @@ As matrizes do culturalismo II. Participação política, engajamento cívico e 
 ```
 ~ Leituras Recomendadas:
 
-⬛ Gomes, W. (2008). Capital Social, Democracia e Televisão em Robert Putnam. In W. Gomes & R. Maia. Comunicação e Democracia: Problemas & Perspectivas.
+Gomes, W. (2008). Capital Social, Democracia e Televisão em Robert Putnam. In W. Gomes & R. Maia. Comunicação e Democracia: Problemas & Perspectivas.
 
 Norris, P. (2002). Democratic Phoenix: Reinventing Political Activism. Capítulo 8.
 ```
@@ -183,7 +183,7 @@ Mansbridge, J. (2009 [1999]). A conversação cotidiana no sistema deliberativo.
 
 ~ Leitura Complementar:
 
-⬛ Highfield, T. (2016). Social Media and Everyday Politics. Capítulo 2.
+Highfield, T. (2016). Social Media and Everyday Politics. Capítulo 2.
 ```
 
 ---
@@ -195,13 +195,13 @@ Política e entretenimento I. A celebritização da política, os fandoms polít
 ```
 ~ Leituras Recomendadas:
 
-⬛ Street, J. (2000). Politics and Popular Culture. Capítulos 7 e 8.
+Street, J. (2000). Politics and Popular Culture. Capítulos 7 e 8.
 
 Van Zoonen, L. (2004). Entertaining the Citizen: When Politics and Popular Culture Converge. Capítulo 4.
 
 ~ Leitura Complementar:
 
-⬛ Street, J. (1994). Political Culture - From Civic Culture to Mass Culture. British Journal of Political Science, 24(1).
+Street, J. (1994). Political Culture - From Civic Culture to Mass Culture. British Journal of Political Science, 24(1).
 
 Van Zonnen, L. (2012). I-Pistemology: Changing Truth Claims in Popular and Political Culture. European Journal of Communication, 27(1).
 ```
