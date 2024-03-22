@@ -42,6 +42,8 @@ Horário: Quintas-feiras às 18h
 * DQI
 * Métodos experimentais
 
++ oficinas
+
 Leituras
 {: .label .label-purple } 
 
