@@ -30,114 +30,81 @@ Horário: Quintas-feiras às 18h
 
 ### 04/04
 
-* Della porta
-* Chambers
-* Schmmitter
-* Schwatz-Shea e Yanow
-* Rogers 1
-* Rogers 2
-* Della porta (comparative...)
-* Entrevistas
-* Process Tracing
-* DQI
-* Métodos experimentais
-
-+ oficinas
+Métodos Digitais.
 
 Leituras
 {: .label .label-purple } 
 
-Rogers, R. Doing Digital Methods (preface, ch. 1)
+Rogers, R. (2019). Doing Digital Methods. (prefácio e cap. 1)
 
 ---
 
 ### 11/04
 
-Conhecimento, poder e democracia II.
-
-Leituras Recomendadas
+Atividade
 {: .label .label-purple } 
 
-LeBRUN, Gerárd. O que é o poder? (Introdução, cap. 1 e cap. 2)
-
-PLATÃO. A República. Livro VII (O mito da caverna).
+Oficina de Crowdtangle. Letícia Sabbatini.
 
 ---
 
 ### 18/04
 
-Filosofia política moderna.
+Epistemologia e metodologia I.
 
-Leituras Recomendadas
+Leituras
 {: .label .label-purple } 
 
-MAQUIAVEL. O Príncipe. Livros I a VIII, XIV a XVIII.
- 
-MAQUIAVEL. Discorsi. Livro I, capítulos: I a X, XXXIX, LVI a LVIII; Livro III, capítulos: I, IV a VI.
+Della Porta, D., & Keating, M. (2008). How many approaches in the social sciences? An epistemological introduction. In: Della Porta, D., & Keating, M. Approaches and Methodologies in the Social Sciences: A Pluralist Perspective.
 
 ---
 
 ### 25/04
 
-Contrato social.
-
-Leituras Recomendadas
+Atividade
 {: .label .label-purple } 
 
-HOBBES, Thomas. O Leviatã. Capítulos XIII e XIV.
-
-ROUSSEAU, Jean-Jacques. O contrato social. Livro I, capítulos: I a IX.
+Oficina de PKM com ênfase em Obsidian. Vinicius Machado Miguel.
 
 ---
 
 ### 02/05
 
-Contrato social.
+Epistemologia e metodologia II.
 
-Leituras Recomendadas
+Leituras
 {: .label .label-purple } 
 
-HOBBES, Thomas. O Leviatã. Capítulos XIII e XIV.
-
-ROUSSEAU, Jean-Jacques. O contrato social. Livro I, capítulos: I a IX.
+Chambers, S. (2022). Methods of theorizing. In: Ercan, S. A., Asenbaum, H., Curato, N., & Mendonça, R. F. Research Methods in Deliberative Democracy.
 
 ---
 
 ### 09/05
 
-Associativismo e liberdade de expressão.
-
-Leituras Recomendadas
+Atividade
 {: .label .label-purple } 
 
-TOCQUEVILLE, Alexis de. Democracia na América. Livro I, segunda parte, capítulos III e IV; Livro II, segunda parte, capítulos II a VII.
+Oficina de VOSviewer. Rafael Cardoso Sampaio *(a confirmar)*.
 
 ---
 
 ### 16/05
 
-Representação política.
+Desenho metodológico.
 
-Leituras Recomendadas
+Leituras
 {: .label .label-purple } 
 
-PITKIN, Hanna. Representação: palavras, instituições e idéias.
-
-MANIN, Bernard. As metamorfoses do governo representativo.
-
-PROVA 1
-{: .label .label-purple } 
+Schmitter, P. (2008). The design of social and political research. In: Della Porta, D., & Keating, M. Approaches and Methodologies in the Social Sciences: A Pluralist Perspective.
 
 ---
 
 ### 23/05
 
-Esfera pública.
-
-Leituras Recomendadas
+Atividade
 {: .label .label-purple } 
 
-HABERMAS, Jürgen. Mudança estrutural da esfera pública. Capítulo VI, parágrafos 16 e 20.
+Oficina de Tableau. Camille Grillo *(a confirmar)*.
 
 ---
 
@@ -149,53 +116,52 @@ HABERMAS, Jürgen. Mudança estrutural da esfera pública. Capítulo VI, parágr
 
 ### 06/06
 
-Opinião pública.
+Desenho metodológico interpretativo.
 
-Leituras Recomendadas
+Leituras
 {: .label .label-purple } 
 
-LIPPMANN, Walter. Opinião pública. Introdução.
-
-PARK, Robert. Notícia e poder da imprensa.
+Schwartz-Shea, P., & Yanow, D. (2012). Interpretive Research Design: Concepts and Processes. (cap. 6)
 
 ---
 
 ### 13/06
 
-
-Escândalo político.
-
-Leituras Recomendadas
+Atividade
 {: .label .label-purple } 
 
-THOMPSON, John. O escândalo político. Capítulo I.
+Oficina de Métodos Interpretativos. Ricardo Fabrino Mendonça *(a confirmar)*.
 
 ---
 
 ### 20/06
 
-PROVA 2
-{: .label .label-purple }
+Entrevistas.
+
+Leituras
+{: .label .label-purple } 
+
+Sanglard, F., Garcêz, R., Maia, R. (2022). Entrevistas. In: Maia, R. Métodos de Pesquisa em Comunicação Política.
 
 ---
 
 ### 27/06
 
-Internet e participação política.
-
-Leituras Recomendadas
+Atividade
 {: .label .label-purple } 
 
-GOMES, Wilson. Transformações da política na era da comunicação de massa. Capítulo 8.
-
-STROMER-GALLEY, Jennifer. Interação online e por que os candidatos a evitam. In: MARQUES, F.P.J.A. et al. Do clique à urna.
+Oficina de Entrevista. Fernanda Sanglard *(a confirmar)*.
 
 ---
 
 ### 04/07
 
-PROVA 3
+Process-tracing.
+
+Leituras
 {: .label .label-purple } 
+
+Cunha, E. S. M., & Araújo, C. E. L. (2018). Process tracing nas Ciências Sociais: fundamentos e aplicabilidade. (cap. 2)
 
 ---
 
