@@ -32,7 +32,7 @@ Horário: Quintas-feiras às 18h
 
 Métodos Digitais.
 
-Leituras
+Leitura
 {: .label .label-purple } 
 
 Rogers, R. (2019). Doing Digital Methods. (prefácio e cap. 1)
@@ -52,7 +52,7 @@ Oficina de Crowdtangle. Letícia Sabbatini.
 
 Epistemologia e metodologia I.
 
-Leituras
+Leitura
 {: .label .label-purple } 
 
 Della Porta, D., & Keating, M. (2008). How many approaches in the social sciences? An epistemological introduction. In: Della Porta, D., & Keating, M. Approaches and Methodologies in the Social Sciences: A Pluralist Perspective.
@@ -72,7 +72,7 @@ Oficina de PKM com ênfase em Obsidian. Vinicius Machado Miguel.
 
 Epistemologia e metodologia II.
 
-Leituras
+Leitura
 {: .label .label-purple } 
 
 Chambers, S. (2022). Methods of theorizing. In: Ercan, S. A., Asenbaum, H., Curato, N., & Mendonça, R. F. Research Methods in Deliberative Democracy.
@@ -92,7 +92,7 @@ Oficina de VOSviewer. Rafael Cardoso Sampaio *(a confirmar)*.
 
 Desenho metodológico.
 
-Leituras
+Leitura
 {: .label .label-purple } 
 
 Schmitter, P. (2008). The design of social and political research. In: Della Porta, D., & Keating, M. Approaches and Methodologies in the Social Sciences: A Pluralist Perspective.
@@ -118,7 +118,7 @@ Oficina de Tableau. Camille Grillo *(a confirmar)*.
 
 Desenho metodológico interpretativo.
 
-Leituras
+Leitura
 {: .label .label-purple } 
 
 Schwartz-Shea, P., & Yanow, D. (2012). Interpretive Research Design: Concepts and Processes. (cap. 6)
@@ -138,7 +138,7 @@ Oficina de Métodos Interpretativos. Ricardo Fabrino Mendonça *(a confirmar)*.
 
 Entrevistas.
 
-Leituras
+Leitura
 {: .label .label-purple } 
 
 Sanglard, F., Garcêz, R., Maia, R. (2022). Entrevistas. In: Maia, R. Métodos de Pesquisa em Comunicação Política.
@@ -158,7 +158,7 @@ Oficina de Entrevista. Fernanda Sanglard *(a confirmar)*.
 
 Process-tracing.
 
-Leituras
+Leitura
 {: .label .label-purple } 
 
 Cunha, E. S. M., & Araújo, C. E. L. (2018). Process tracing nas Ciências Sociais: fundamentos e aplicabilidade. (cap. 2)
