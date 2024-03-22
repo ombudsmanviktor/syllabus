@@ -1,5 +1,5 @@
 ---
-title: Leituras coLAB/UFF
+title: Leituras coLAB/UFF 2014.1
 has_children: false
 has_toc: true
 nav_order: 2
@@ -30,14 +30,22 @@ Horário: Quintas-feiras às 18h
 
 ### 04/04
 
-Conhecimento, poder e democracia I.
+* Della porta
+* Chambers
+* Schmmitter
+* Schwatz-Shea e Yanow
+* Rogers 1
+* Rogers 2
+* Della porta (comparative...)
+* Entrevistas
+* Process Tracing
+* DQI
+* Métodos experimentais
 
-Leituras Recomendadas
+Leituras
 {: .label .label-purple } 
 
-LeBRUN, Gerárd. O que é o poder? (Introdução, cap. 1 e cap. 2)
-
-PLATÃO. A República. Livro VII (O mito da caverna).
+Rogers, R. Doing Digital Methods (preface, ch. 1)
 
 ---
 
