@@ -96,12 +96,7 @@ Oficina de Crowdtangle. Letícia Sabbatini.
 
 ### 23/05
 
-Desenho metodológico.
-
-Leitura
-{: .label .label-purple } 
-
-Schmitter, P. (2008). The design of social and political research. In: Della Porta, D., & Keating, M. Approaches and Methodologies in the Social Sciences: A Pluralist Perspective.
+CANCELADA
 
 ---
 
@@ -113,14 +108,35 @@ Schmitter, P. (2008). The design of social and political research. In: Della Por
 
 ### 06/06
 
-Atividade
+Desenho metodológico.
+
+Leitura
 {: .label .label-purple } 
 
-Oficina de Tableau. Camille Grillo *(a confirmar)*.
+Rogers, R. (2019). Doing Digital Methods. (prefácio e cap. 1)
+Schmitter, P. (2008). The design of social and political research. In: Della Porta, D., & Keating, M. Approaches and Methodologies in the Social Sciences: A Pluralist Perspective.
 
 ---
 
 ### 13/06
+
+Atividade Online
+{: .label .label-purple } 
+
+Oficina de Zeeschuimer ou Data Wrapper. Viktor Chagas.
+
+---
+
+### 20/06
+
+Atividade Presencial
+{: .label .label-purple } 
+
+Oficina de Zeeschuimer ou Data Wrapper. Viktor Chagas.
+
+---
+
+### 27/06
 
 Desenho metodológico interpretativo.
 
@@ -131,7 +147,7 @@ Schwartz-Shea, P., & Yanow, D. (2012). Interpretive Research Design: Concepts an
 
 ---
 
-### 20/06
+### 04/07
 
 Atividade
 {: .label .label-purple } 
@@ -140,7 +156,7 @@ Oficina de Métodos Interpretativos. Ricardo Fabrino Mendonça *(a confirmar)*.
 
 ---
 
-### 27/06
+### 11/07
 
 Entrevistas.
 
@@ -149,18 +165,17 @@ Leitura
 
 Sanglard, F., Garcêz, R., Maia, R. (2022). Entrevistas. In: Maia, R. Métodos de Pesquisa em Comunicação Política.
 
----
-
-### 04/07
-
 Atividade
 {: .label .label-purple } 
 
 Oficina de Entrevista. Fernanda Sanglard *(a confirmar)*.
 
+
 ---
 
-### 11/07
+### 17/07
+
+**LIVRE**
 
 Process-tracing.
 
@@ -168,9 +183,3 @@ Leitura
 {: .label .label-purple } 
 
 Cunha, E. S. M., & Araújo, C. E. L. (2018). Process tracing nas Ciências Sociais: fundamentos e aplicabilidade. (cap. 2)
-
----
-
-### 17/07
-
-**LIVRE**
