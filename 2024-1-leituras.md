@@ -81,7 +81,7 @@ Métodos Digitais.
 Leitura
 {: .label .label-purple } 
 
-Rogers, R. (2019). Doing Digital Methods. (prefácio e cap. 1)
+~Rogers, R. (2019). Doing Digital Methods. (prefácio e cap. 1)~
 
 ---
 
