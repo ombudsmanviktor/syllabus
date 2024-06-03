@@ -169,17 +169,22 @@ Schwartz-Shea, P., & Yanow, D. (2012). Interpretive Research Design: Concepts an
 
 ### 11/07
 
-Entrevistas.
+Atividade
+{: .label .label-purple } 
+
+Oficina de Entrevista. Fernanda Sanglard *(a confirmar)*.
 
 Leitura
 {: .label .label-purple } 
 
 Sanglard, F., Garcêz, R., Maia, R. (2022). Entrevistas. In: Maia, R. Métodos de Pesquisa em Comunicação Política.
 
+OU
+
 Atividade
 {: .label .label-purple } 
 
-Oficina de Entrevista. Fernanda Sanglard *(a confirmar)*.
+Oficina de Métodos Digitais. Samuel Barros *(a confirmar)*.
 
 ---
 
