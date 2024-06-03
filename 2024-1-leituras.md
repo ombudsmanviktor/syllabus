@@ -129,15 +129,6 @@ Oficina de Zeeschuimer ou Data Wrapper. Viktor Chagas.
 
 ### 20/06
 
-Atividade Presencial
-{: .label .label-purple } 
-
-Oficina de Zeeschuimer ou Data Wrapper. Viktor Chagas.
-
----
-
-### 27/06
-
 Desenho metodológico interpretativo.
 
 Leitura
@@ -147,12 +138,21 @@ Schwartz-Shea, P., & Yanow, D. (2012). Interpretive Research Design: Concepts an
 
 ---
 
-### 04/07
+### 27/06
 
 Atividade
 {: .label .label-purple } 
 
 Oficina de Métodos Interpretativos. Ricardo Fabrino Mendonça *(a confirmar)*.
+
+---
+
+### 04/07
+
+Atividade Presencial
+{: .label .label-purple } 
+
+Oficina de Zeeschuimer ou Data Wrapper. Viktor Chagas.
 
 ---
 
@@ -169,7 +169,6 @@ Atividade
 {: .label .label-purple } 
 
 Oficina de Entrevista. Fernanda Sanglard *(a confirmar)*.
-
 
 ---
 
