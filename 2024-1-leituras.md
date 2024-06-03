@@ -120,21 +120,16 @@ Schmitter, P. (2008). The design of social and political research. In: Della Por
 
 ### 13/06
 
-Atividade Online
-{: .label .label-purple } 
-
-Oficina de Zeeschuimer ou Data Wrapper. Viktor Chagas.
+**LIVRE**
 
 ---
 
 ### 20/06
 
-Desenho metodológico interpretativo.
-
-Leitura
+Atividade
 {: .label .label-purple } 
 
-Schwartz-Shea, P., & Yanow, D. (2012). Interpretive Research Design: Concepts and Processes. (cap. 6)
+Oficina de Zeeschuimer ou Data Wrapper. Viktor Chagas.
 
 ---
 
@@ -145,6 +140,13 @@ Atividade
 
 Oficina de Métodos Interpretativos. Ricardo Fabrino Mendonça *(a confirmar)*.
 
+Leitura
+{: .label .label-purple } 
+
+https://revista.enap.gov.br/index.php/RSP/article/view/3455
+
+https://www.scielo.br/j/rbcsoc/a/yKCytTkSt4RfdHd4W3SLZBb/abstract/?lang=pt
+
 ---
 
 ### 04/07
@@ -153,6 +155,15 @@ Atividade Presencial
 {: .label .label-purple } 
 
 Oficina de Zeeschuimer ou Data Wrapper. Viktor Chagas.
+
+OU
+
+Desenho metodológico interpretativo.
+
+Leitura
+{: .label .label-purple } 
+
+Schwartz-Shea, P., & Yanow, D. (2012). Interpretive Research Design: Concepts and Processes. (cap. 6)
 
 ---
 
