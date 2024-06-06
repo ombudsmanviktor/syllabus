@@ -114,6 +114,7 @@ Leitura
 {: .label .label-purple } 
 
 Rogers, R. (2019). Doing Digital Methods. (prefácio e cap. 1)
+
 Schmitter, P. (2008). The design of social and political research. In: Della Porta, D., & Keating, M. Approaches and Methodologies in the Social Sciences: A Pluralist Perspective.
 
 ---
