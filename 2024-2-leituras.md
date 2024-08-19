@@ -16,40 +16,32 @@ Horário: Quintas-feiras às 18h
 
 ## Programa
 
-15/8
-22/8
-29/8
-5/9
-12/9
-19/9
-26/9
-3
-10
-17
-24/10
-7
-14
-21
-28/11
-5
-12
-19/12
 
+### 29/08
 
-
-### 21/03
-
-**SEMANA INAUGURAL**
+ooo
 
 ---
 
-### 28/03
+### 05/09 (quinta-feira), 16h
 
-**QUINTA-FEIRA SANTA**
+Oficina
+{: .label .label-purple } 
+
+Oficina de Análise de Imagens com Python e FiftyOne. Eurico Matos e Matheus Pestana.
 
 ---
 
-### 04/04
+### 06/09 (sexta-feira), 16h
+
+Oficina
+{: .label .label-purple } 
+
+Oficina de Análise de Imagens com Python e FiftyOne. Eurico Matos e Matheus Pestana.
+
+---
+
+### 12/09 (quinta-feira), 18h
 
 Epistemologia e metodologia I.
 
@@ -60,7 +52,7 @@ Della Porta, D., & Keating, M. (2008). How many approaches in the social science
 
 ---
 
-### 11/04
+### 19/09 (quinta-feira), 18h
 
 Atividade
 {: .label .label-purple } 
@@ -69,24 +61,43 @@ Oficina de PKM com ênfase em Obsidian. Vinicius Machado Miguel.
 
 ---
 
-### 18/04
+### 26/09 (quinta-feira), 18h
 
-Epistemologia e metodologia II.
+Seminário
+{: .label .label-red } 
 
-Leitura
-{: .label .label-purple } 
-
-Chambers, S. (2022). Methods of theorizing. In: Ercan, S. A., Asenbaum, H., Curato, N., & Mendonça, R. F. Research Methods in Deliberative Democracy.
+Elias Saliba (USP). "Humor e esfera pública: notas de um historiador".
 
 ---
 
-### 25/04
+### 30/09 (segunda-feira), 10h
 
-**LIVRE**
+Seminário
+{: .label .label-red } 
+
+João Paulo Capelotti (UFPR). "O humor na visão dos tribunais brasileiros".
 
 ---
 
-### 02/05
+### 03/10 (quinta-feira), 18h
+
+Seminário
+{: .label .label-red } 
+
+Diego Hoefel (UFC/UFF). "Humor especulativo no cinema brasileiro contemporâneo".
+
+---
+
+### 07/10 (segunda-feira), 10h
+
+Seminário
+{: .label .label-red } 
+
+Bruna Silveira (UFMG). "A face oculta do humor: fronteiras entre o riso e a intolerância".
+
+---
+
+### 10/10 (quinta-feira), 18h
 
 Atividade
 {: .label .label-purple } 
@@ -95,18 +106,13 @@ Oficina de VOSviewer. Rafael Cardoso Sampaio *(a confirmar)*.
 
 ---
 
-### 09/05
+### 17/10 (quinta-feira), 18h
 
-Métodos Digitais.
-
-Leitura
-{: .label .label-purple } 
-
-~Rogers, R. (2019). Doing Digital Methods. (prefácio e cap. 1)~
+**ANPOCS**
 
 ---
 
-### 16/05
+### 24/10 (quinta-feira), 18h
 
 Atividade
 {: .label .label-purple } 
@@ -115,19 +121,19 @@ Oficina de Crowdtangle. Letícia Sabbatini.
 
 ---
 
-### 23/05
+### 07/11 (quinta-feira), 18h
 
-CANCELADA
-
----
-
-### 30/05
-
-**CORPUS CHRISTI**
+ooo
 
 ---
 
-### 06/06
+### 14/11 (quinta-feira), 18h
+
+**INCT.DD**
+
+---
+
+### 21/11 (quinta-feira), 18h
 
 Desenho metodológico.
 
@@ -140,13 +146,13 @@ Schmitter, P. (2008). The design of social and political research. In: Della Por
 
 ---
 
-### 13/06
+### 28/11 (quinta-feira), 18h
 
-**LIVRE**
+ooo
 
 ---
 
-### 20/06
+### 05/12 (quinta-feira), 18h
 
 Atividade
 {: .label .label-purple } 
@@ -155,23 +161,13 @@ Oficina de Zeeschuimer ou Data Wrapper. Viktor Chagas.
 
 ---
 
-### 27/06
+### 12/12 (quinta-feira), 18h
 
-Atividade
-{: .label .label-purple } 
-
-Oficina de Métodos Interpretativos. Ricardo Fabrino Mendonça *(a confirmar)*.
-
-Leitura
-{: .label .label-purple } 
-
-https://revista.enap.gov.br/index.php/RSP/article/view/3455
-
-https://www.scielo.br/j/rbcsoc/a/yKCytTkSt4RfdHd4W3SLZBb/abstract/?lang=pt
+**LIVRE**
 
 ---
 
-### 04/07
+### 19/12 (quinta-feira), 18h
 
 Atividade Presencial
 {: .label .label-purple } 
@@ -189,34 +185,3 @@ Schwartz-Shea, P., & Yanow, D. (2012). Interpretive Research Design: Concepts an
 
 ---
 
-### 11/07
-
-Atividade
-{: .label .label-purple } 
-
-Oficina de Entrevista. Fernanda Sanglard *(a confirmar)*.
-
-Leitura
-{: .label .label-purple } 
-
-Sanglard, F., Garcêz, R., Maia, R. (2022). Entrevistas. In: Maia, R. Métodos de Pesquisa em Comunicação Política.
-
-OU
-
-Atividade
-{: .label .label-purple } 
-
-Oficina de Métodos Digitais. Samuel Barros *(a confirmar)*.
-
----
-
-### 17/07
-
-**LIVRE**
-
-Process-tracing.
-
-Leitura
-{: .label .label-purple } 
-
-Cunha, E. S. M., & Araújo, C. E. L. (2018). Process tracing nas Ciências Sociais: fundamentos e aplicabilidade. (cap. 2)
