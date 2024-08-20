@@ -46,7 +46,7 @@ Oficina de Análise de Imagens com Python e FiftyOne. Eurico Matos e Matheus Pes
 Leitura
 {: .label .label-purple } 
 
-Qualificação Alexandre.
+Discussão: Material de Qualificação de Alexandre.
 
 ---
 
@@ -102,7 +102,7 @@ Bruna Silveira (UFMG). "A face oculta do humor: fronteiras entre o riso e a into
 Leitura
 {: .label .label-purple } 
 
-Qualificação Letícia.
+Discussão: Material de Qualificação de Letícia.
 
 ---
 
@@ -118,6 +118,13 @@ Atividade
 {: .label .label-purple } 
 
 Oficina *(a definir)*.
+
+Opções:
+IramuteQ (Lucy Oliveira)
+Estatística Descritiva Univariada e Bivariada (Viktor Chagas)
+Orange Data Mining (Eduardo Grizetti)
+Tableau
+4cat
 
 ---
 
@@ -150,7 +157,7 @@ Oficina *(a definir)*.
 Leitura
 {: .label .label-purple } 
 
-Qualificação Giovanni.
+Discussão: Material de Qualificação de Giovanni.
 
 ---
 
