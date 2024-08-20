@@ -26,7 +26,7 @@ Reunião de Abertura.
 ### 05/09 (quinta-feira), 16h
 
 Oficina Online
-{: .label .label-purple } 
+{: .label .label-red } 
 
 Oficina de Análise de Imagens com Python e FiftyOne. Eurico Matos e Matheus Pestana.
 
@@ -35,7 +35,7 @@ Oficina de Análise de Imagens com Python e FiftyOne. Eurico Matos e Matheus Pes
 ### 06/09 (sexta-feira), 16h
 
 Oficina Online
-{: .label .label-purple } 
+{: .label .label-red } 
 
 Oficina de Análise de Imagens com Python e FiftyOne. Eurico Matos e Matheus Pestana.
 
