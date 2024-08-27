@@ -48,6 +48,13 @@ Leitura
 
 Discussão: Material de Qualificação de Alexandre.
 
+Oficina de Projetos
+{: .label .label-purple } 
+
+Revisando a Literatura: tipos de revisão (narrativa, integrativa e de escopo, sistemática), ferramentas (Google Scholar, Periódicos da Capes, WoS, Scopus, Scielo, Publish or Perish, Litmaps)
+
+Exercício: Revisão de Literatura
+
 ---
 
 ### 19/09 (quinta-feira), 18h
@@ -58,6 +65,13 @@ Leitura
 Chiaro, D. (2018). The language of jokes in the digital age (cap. 3: The language of jokes and gender)
 
 Koptthoff, H. (2006). Gender and humor: the state of the art. Journal of Pragmatics, 38
+
+Oficina de Projetos
+{: .label .label-purple } 
+
+Construindo Hipóteses: reconhecendo variáveis de pesquisa, tipos de variáveis (quantitativa discreta, quantativa contínua, qualitativa nominal, qualitativa ordinal), variáveis dependentes e independentes, relação entre variáveis (positiva, negativa, nula)
+
+Exercício: Hipóteses
 
 ---
 
@@ -104,6 +118,11 @@ Leitura
 
 Discussão: Material de Qualificação de Letícia.
 
+Oficina de Projetos
+{: .label .label-purple } 
+
+Considerações Ética: consentimento informado, confidencialidade e anonimato, minimização de riscos, transparência e integridade científica
+
 ---
 
 ### 17/10 (quinta-feira), 18h
@@ -134,6 +153,11 @@ Leitura
 {: .label .label-purple } 
 
 Miller, T. (2021). Violence
+
+Oficina de Projetos
+{: .label .label-purple } 
+
+Mapeando o Objeto: técnicas de prospecção e construção de bancos de dados
 
 ---
 
