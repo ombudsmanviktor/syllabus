@@ -152,7 +152,9 @@ Tableau
 Leitura
 {: .label .label-purple } 
 
-Miller, T. (2021). Violence
+~~Miller, T. (2021). Violence~~
+
+Bjarnegårdand, E., & Zetterberg, P. (2023). Gender and violence against political actors (Intro e cap. 5)
 
 Oficina de Projetos
 {: .label .label-purple } 
