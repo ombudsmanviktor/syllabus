@@ -19,20 +19,19 @@ Os limites entre liberdade de manifestação da opinião e discurso de ódio vê
 
 ## Bibliografia
 
-A. Slavutzky e D. Kuperman (2020). Seria trágico… se não fosse cômico: humor e psicanálise,
-2ª ed.
-M. Billig (2001). Humour and hatred: the racist jokes of the Ku Klux Klan. Discourse &amp; Society,
-12.
-F. Bosco (2017). A vítima tem sempre razão? Lutas identitárias e o novo espaço público
-brasileiro.
+A. Slavutzky e D. Kuperman (2020). Seria trágico… se não fosse cômico: humor e psicanálise, 2ª ed.
+
+M. Billig (2001). Humour and hatred: the racist jokes of the Ku Klux Klan. Discourse &amp; Society, 12.
+
+F. Bosco (2017). A vítima tem sempre razão? Lutas identitárias e o novo espaço público brasileiro.
+
 C. Davies (1998). Jokes and their relation to society. Berlim: Mouton de Gruyter, 1998.
-R. Pérez (2013). Learning to make racism funny in the ‘color-blind’ era: Stand-up comedy
-students, performance strategies, and the (re)production of racist jokes in public. Discourse &amp;
-Society, 24(4).
+
+R. Pérez (2013). Learning to make racism funny in the ‘color-blind’ era: Stand-up comedy students, performance strategies, and the (re)production of racist jokes in public. Discourse &amp; Society, 24(4).
+
 V. Safatle (2018). Cinismo e falência da crítica.
 
-S. Weaver (2011). Jokes, rhetoric and embodied racism: a rhetorical discourse analysis of the
-logics of racist jokes on the internet. Ethnicities, 11(4).
+S. Weaver (2011). Jokes, rhetoric and embodied racism: a rhetorical discourse analysis of the logics of racist jokes on the internet. Ethnicities, 11(4).
 
 
 ## Programa de Curso
