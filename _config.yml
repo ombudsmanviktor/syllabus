@@ -1,6 +1,8 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Syllabus
+description: Apenas um pequeno compilado de ementas e bibliografias de cursos
 theme: just-the-docs
+color_scheme: "light"
+search_enabled: true
 
 url: https://just-the-docs.github.io
 
