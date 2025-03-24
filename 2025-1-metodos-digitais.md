@@ -163,6 +163,11 @@ Leituras Recomendadas
 
 Fielding, Nigel; Lee, Raymond, Blank, Grant. The SAGE Handbook of Online Research Methods. Oxford, 2008. 
 
+Leituras Complementares
+{: .label .label-yellow }
+
+Piaia, V., Almeida, S., & Matos, E. (2024). Etnografia online em Ciência Política. In Sampaio, R. C., & de Paula, C. (eds.). Manual de introdução às técnicas de pesquisa qualitativa em Ciência Política. Enap.
+
 ---
 
 ### 20/05
@@ -173,6 +178,11 @@ Leituras Recomendadas
 {: .label .label-purple }
 
 :eight_spoked_asterisk:
+
+Leituras Complementares
+{: .label .label-yellow }
+
+Lorencetti, M. A., & Novelli, D. H. (2024). Introdução aos softwares de Análise de DadosQualitativos em Ciência Política. In Sampaio, R. C., & de Paula, C. (eds.). Manual de introdução às técnicas de pesquisa qualitativa em Ciência Política. Enap.
 
 ---
 
