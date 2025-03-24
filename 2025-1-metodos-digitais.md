@@ -85,7 +85,6 @@ Rogers, R. Doing digital methods. Preface e Part I.
 
 Omena, J. J. Métodos digitais: teoria-prática-crítica. Introdução (O que são métodos digitais?)
 
-
 ---
 
 ### 08/04
@@ -135,7 +134,6 @@ Leituras Recomendadas
 Chagas, V. Covert research in politically hostile digital environments. No prelo.
 
 Rambukkana, N. The Politics of Gray Data: Digital Methods, Intimate Proximity, and Research Ethics for Work on the “Alt-Right”. Qualitative Iniquiry, Volume 25, Issue 3, 2019. 
-
 
 ---
 
@@ -213,7 +211,7 @@ Unidade III: Perspectiva quali e quanti + discussão / visualização dos dados
 Leituras Recomendadas
 {: .label .label-purple }
 
-Cairo, Alberto. How charts lie: Getting smarter about visual information. 2019. 
+Cairo, A. How charts lie: Getting smarter about visual information. 2019. 
 
 ---
 
