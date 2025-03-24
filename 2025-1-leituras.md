@@ -46,7 +46,7 @@ Mendonça, R. F., Almeida, V., Filgueiras, F. (2024). Algorithmic Institutionali
 
 ### 17/04
 
-**LIVRE** (Quinta-feira santa)
+**NOITE DO BOLINHO?** (Quinta-feira santa)
 
 ---
 
