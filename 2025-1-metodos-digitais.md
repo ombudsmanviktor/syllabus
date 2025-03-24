@@ -62,8 +62,7 @@ ROGERS, Richard. Doing digital methods. SAGE Publications Ltd.; 2024.
 | Aula 9 |  |  |
 | Aula 10 |  |  |
 | Aula 11 |  |  |
-| Aula 12 |  |  |
-| Aula 13 |  |  |
+| Aula 12 | N.A. | N.A. |
 
 </details>
 
