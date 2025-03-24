@@ -47,29 +47,23 @@ ROGERS, Richard. Doing digital methods. SAGE Publications Ltd.; 2024.
 
 <details>
   
-<summary>## Relatorias</summary>
+<summary><h2>Relatorias</h2></summary>
 
 | **Aula** | **Apresentador(a)** | **Relator(a)** |
 | ------------- | ------------- | -------------|
-| Aula 15/08 | N.A. | N.A. |
-| ~~Aula 22/08~~ |  |  |
-| Aula 29/08 | Alexandre | Laura |
-| Aula 05/09 | Laura | Wesley |
-| Aula 12/09 | Gabi Costa | Gabi Juns |
-| Aula 19/09 | Gabi Costa | Wesley |
-| Aula 26/09 | Wesley | Bea |
-| Aula 03/10 | Gabi Juns | Laura |
-| Aula 10/10 | Bea | Alékis |
-| Aula 17/10 | Melissa | Gabi Costa |
-| Aula 24/10 | Wesley | Alékis |
-| Aula 31/10 | Cris | Alexandre |
-| ~~Aula 07/11~~ |  |  |
-| Aula 14/11 | Alékis| Melissa |
-| Aula 21/11 | Alékis | Gabi Juns |
-| Aula 28/11 | Alexandre | Cris |
-| Aula 05/12 | N.A. | N.A. |
-| ~~Aula 12/12~~ |  |  |
-| ~~Aula 12~~ |  |  |
+| Aula 1 | N.A. | N.A. |
+| Aula 2 |  |  |
+| Aula 3 |  |  |
+| Aula 4 |  |  |
+| Aula 5 |  |  |
+| Aula 6 |  |  |
+| Aula 7 |  |  |
+| Aula 8 |  |  |
+| Aula 9 |  |  |
+| Aula 10 |  |  |
+| Aula 11 |  |  |
+| Aula 12 |  |  |
+| Aula 13 |  |  |
 
 </details>
 
