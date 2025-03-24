@@ -90,32 +90,31 @@ Apresentação do Curso.
 
 Unidade I: O que são métodos digitais? Discussão conceitual sobre platform studies, ciências de dados, etc.; humanidades, informática etc.
 
-Leitura
+Leituras Recomendadas
 {: .label .label-purple } 
 
-```
 Rogers, R. Doing digital methods. Preface e Part I.
+
 Omena, J. J. Métodos digitais: teoria-prática-crítica. Introdução (O que são métodos digitais?)
-Barros, S., & Chagas, V. Os métodos digitais e o estudo da política online: algumas questões de epistemologia. Trabalho apresentado na Anpocs, 2024.
-```
 
 
 ---
 
 ### 08/04
 
-Cultura cívica. A relação entre atitudes políticas e democracia.
+Unidade I: Natureza dos dados digitais e tipos de variáveis de pesquisa.
 
-Leitura
+Leituras Recomendadas
 {: .label .label-purple } 
 
-```
-~ Leituras Recomendadas:
+Manovich, L. Cultural analytics. Capítulo a definir.
 
-Almond, G. A., & Verba, S. (1963). The Civic Culture: Political Attidues and Democracy in Five Nations. Capítulo 1.
+Mejias, U. A., & Couldry, N. (2019). Datafication. Internet Policy Review, 8(4). https://doi.org/10.14763/2019.4.1428 
 
-Pye, L. W. Political Culture Revisited (1991). Political Psychology, 12(3).
-```
+Leituras Complementares
+{: .label .label-gray-20 }
+
+Barros, S., & Chagas, V. Os métodos digitais e o estudo da política online: algumas questões de epistemologia. Trabalho apresentado na Anpocs, 2024.
 
 ---
 
