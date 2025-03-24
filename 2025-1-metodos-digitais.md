@@ -40,19 +40,13 @@ ROGERS, Richard. Doing digital methods. SAGE Publications Ltd.; 2024.
 
 ## Recursos da Disciplina
 
-- [Grupo de WhatsApp](https://chat.whatsapp.com/LgonliUK5DE3AjImFPFT7g)
-
 <img src="./midcultpol_qr.png" width="230">
 
 - [Pasta de Textos](https://bit.ly/midiaeculturapolitica_textos)
 
-<img src="./midcultpol_textos.png" width="230">
 
-- [Programa de Curso](https://bit.ly/midiaeculturapolitica)
-
-<img src="./midcultpol_prog.png" width="230">
-
-
+<details>
+  
 ## Relatorias
 
 | **Aula** | **Apresentador(a)** | **Relator(a)** |
@@ -77,6 +71,7 @@ ROGERS, Richard. Doing digital methods. SAGE Publications Ltd.; 2024.
 | ~~Aula 12/12~~ |  |  |
 | ~~Aula 12~~ |  |  |
 
+</details>
 
 ## Programa de Curso
 
