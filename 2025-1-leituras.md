@@ -19,7 +19,7 @@ Horário: Quintas-feiras às 18h
 
 ### 27/3
 
-Reunião de Abertura.
+Apresentação Geral.
 
 ---
 
@@ -28,14 +28,9 @@ Reunião de Abertura.
 Leitura
 {: .label .label-purple } 
 
-Discussão: Material de Qualificação de Alexandre.
+Budak, C., Nyhan, B., Rothschild, D.M. et al. Misunderstanding the harms of online misinformation. Nature 630, 45–53 (2024). https://doi.org/10.1038/s41586-024-07417-w
 
-Oficina de Projetos
-{: .label .label-purple } 
-
-Revisando a Literatura: tipos de revisão (narrativa, integrativa e de escopo, sistemática), ferramentas (Google Scholar, Periódicos da Capes, WoS, Scopus, Scielo, Publish or Perish, Litmaps)
-
-Exercício: Revisão de Literatura
+Saumure, R., De Freitas, J. & Puntoni, S. Humor as a window into generative AI bias. Sci Rep 15, 1326 (2025). https://doi.org/10.1038/s41598-024-83384-6
 
 ---
 
@@ -44,16 +39,8 @@ Exercício: Revisão de Literatura
 Leitura
 {: .label .label-purple } 
 
-Chiaro, D. (2018). The language of jokes in the digital age (cap. 3: The language of jokes and gender)
+Mendonça, R. F., Almeida, V., Filgueiras, F. (2024). Algorithmic Institutionalism: The Changing Rules of Social and Political Life. Capítulos 1 e 2
 
-Koptthoff, H. (2006). Gender and humor: the state of the art. Journal of Pragmatics, 38
-
-Oficina de Projetos
-{: .label .label-purple } 
-
-Construindo Hipóteses: reconhecendo variáveis de pesquisa, tipos de variáveis (quantitativa discreta, quantativa contínua, qualitativa nominal, qualitativa ordinal), variáveis dependentes e independentes, relação entre variáveis (positiva, negativa, nula)
-
-Exercício: Hipóteses
 
 ---
 
@@ -65,10 +52,11 @@ Exercício: Hipóteses
 
 ### 24/04
 
-Seminário Online
-{: .label .label-red } 
+Leitura
+{: .label .label-purple } 
 
-João Paulo Capelotti (UFPR). "O humor na visão dos tribunais brasileiros".
+Crawford, K. (2021). Atlas of IA. Capítulos 3 e 4.
+
 
 ---
 
@@ -80,10 +68,7 @@ João Paulo Capelotti (UFPR). "O humor na visão dos tribunais brasileiros".
 
 ### 08/05
 
-Seminário Online
-{: .label .label-red } 
-
-Bruna Silveira (UFMG). "A face oculta do humor: fronteiras entre o riso e a intolerância".
+Meikle, G. Deepfakes. Capítulo 4
 
 ---
 
@@ -98,25 +83,16 @@ Bruna Silveira (UFMG). "A face oculta do humor: fronteiras entre o riso e a into
 Leitura
 {: .label .label-purple } 
 
-Holt, K. (2020). Right-wing alternative media
-
-Hermansson, P. et al. (2020). The International Alt-Right: fascism for the 21st century? (cap. 8: Art-right: weaponising culture)
+Discussão de Material de Qualificação: Dindara
 
 ---
 
 ### 29/05
 
-Atividade
+Leitura
 {: .label .label-purple } 
 
-Oficina *(a definir)*.
-
-Opções:
-IramuteQ (Lucy Oliveira)
-Estatística Descritiva Univariada e Bivariada (Viktor Chagas)
-Orange Data Mining (Eduardo Grizetti)
-Tableau
-4cat
+Discussão de Material de Qualificação: Gabi
 
 ---
 
@@ -125,14 +101,9 @@ Tableau
 Leitura
 {: .label .label-purple } 
 
-~~Miller, T. (2021). Violence~~
+Janusz, A. (2017). Candidate race and electoral outcomes: evidence from Brazil. Politics, Groups, and Identities, 6(4), 702–724. https://doi.org/10.1080/21565503.2017.1279976
 
-Bjarnegårdand, E., & Zetterberg, P. (2023). Gender and violence against political actors (Intro e cap. 5)
-
-Oficina de Projetos
-{: .label .label-purple } 
-
-Mapeando o Objeto: técnicas de prospecção e construção de bancos de dados
+Johnson, L. (2014), Race in the Color-blind Era: Deracialization and Black Elected Officials. Sociology Compass, 8: 1100-1111. https://doi.org/10.1111/soc4.12179
 
 ---
 
@@ -159,9 +130,9 @@ Mapeando o Objeto: técnicas de prospecção e construção de bancos de dados
 Leitura
 {: .label .label-purple } 
 
-Holt, K. (2020). Right-wing alternative media
+Mills, C. W. (2023). O Contrato Racial. Introdução e Capítulo 1
 
-Hermansson, P. et al. (2020). The International Alt-Right: fascism for the 21st century? (cap. 8: Art-right: weaponising culture)
+Bento, C. (2022). O Pacto da Branquitude. Capítulos 1, 4, 5 e 7
 
 ---
 
@@ -170,9 +141,7 @@ Hermansson, P. et al. (2020). The International Alt-Right: fascism for the 21st 
 Leitura
 {: .label .label-purple } 
 
-Holt, K. (2020). Right-wing alternative media
-
-Hermansson, P. et al. (2020). The International Alt-Right: fascism for the 21st century? (cap. 8: Art-right: weaponising culture)
+Sodré, M. (2023). O fascismo da cor. Capítulo 1
 
 ---
 
