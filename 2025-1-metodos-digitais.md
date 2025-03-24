@@ -88,13 +88,26 @@ Apresentação do Curso.
 
 ### 01/04
 
-LIVRE
+Unidade I: O que são métodos digitais? Discussão conceitual sobre platform studies, ciências de dados, etc.; humanidades, informática etc.
+
+Leitura
+{: .label .label-purple } 
+
+```
+Rogers, R. Doing digital methods. Preface e Part I.
+Omena, J. J. Métodos digitais: teoria-prática-crítica. Introdução (O que são métodos digitais?)
+Barros, S., & Chagas, V. Os métodos digitais e o estudo da política online: algumas questões de epistemologia. Trabalho apresentado na Anpocs, 2024.
+```
+
 
 ---
 
 ### 08/04
 
 Cultura cívica. A relação entre atitudes políticas e democracia.
+
+Leitura
+{: .label .label-purple } 
 
 ```
 ~ Leituras Recomendadas:
