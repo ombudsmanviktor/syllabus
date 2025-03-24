@@ -107,7 +107,7 @@ Manovich, L. Cultural analytics. Capítulo a definir.
 Mejias, U. A., & Couldry, N. (2019). Datafication. Internet Policy Review, 8(4). https://doi.org/10.14763/2019.4.1428 
 
 Leituras Complementares
-{: .label .label-gray-20 }
+{: .label .label-gray20 }
 
 Barros, S., & Chagas, V. Os métodos digitais e o estudo da política online: algumas questões de epistemologia. Trabalho apresentado na Anpocs, 2024.
 
