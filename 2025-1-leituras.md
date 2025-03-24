@@ -92,7 +92,9 @@ Discussão de Material de Qualificação: Dindara
 Leitura
 {: .label .label-purple } 
 
-Discussão de Material de Qualificação: Gabi
+Janusz, A. (2017). Candidate race and electoral outcomes: evidence from Brazil. Politics, Groups, and Identities, 6(4), 702–724. https://doi.org/10.1080/21565503.2017.1279976
+
+Johnson, L. (2014), Race in the Color-blind Era: Deracialization and Black Elected Officials. Sociology Compass, 8: 1100-1111. https://doi.org/10.1111/soc4.12179
 
 ---
 
@@ -101,9 +103,9 @@ Discussão de Material de Qualificação: Gabi
 Leitura
 {: .label .label-purple } 
 
-Janusz, A. (2017). Candidate race and electoral outcomes: evidence from Brazil. Politics, Groups, and Identities, 6(4), 702–724. https://doi.org/10.1080/21565503.2017.1279976
+Mills, C. W. (2023). O Contrato Racial. Introdução e Capítulo 1
 
-Johnson, L. (2014), Race in the Color-blind Era: Deracialization and Black Elected Officials. Sociology Compass, 8: 1100-1111. https://doi.org/10.1111/soc4.12179
+Bento, C. (2022). O Pacto da Branquitude. Capítulos 1, 4, 5 e 7
 
 ---
 
@@ -130,9 +132,7 @@ Johnson, L. (2014), Race in the Color-blind Era: Deracialization and Black Elect
 Leitura
 {: .label .label-purple } 
 
-Mills, C. W. (2023). O Contrato Racial. Introdução e Capítulo 1
-
-Bento, C. (2022). O Pacto da Branquitude. Capítulos 1, 4, 5 e 7
+Discussão de Material de Qualificação: Gabi
 
 ---
 
