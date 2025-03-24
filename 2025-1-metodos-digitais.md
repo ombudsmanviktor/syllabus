@@ -47,7 +47,7 @@ ROGERS, Richard. Doing digital methods. SAGE Publications Ltd.; 2024.
 
 <details>
   
-<summary>Relatorias</summary>
+<summary>## Relatorias</summary>
 
 | **Aula** | **Apresentador(a)** | **Relator(a)** |
 | ------------- | ------------- | -------------|
@@ -107,7 +107,7 @@ Manovich, L. Cultural analytics. Capítulo a definir.
 Mejias, U. A., & Couldry, N. (2019). Datafication. Internet Policy Review, 8(4). https://doi.org/10.14763/2019.4.1428 
 
 Leituras Complementares
-{: .label .label-gray20 }
+{: .label .label-yellow }
 
 Barros, S., & Chagas, V. Os métodos digitais e o estudo da política online: algumas questões de epistemologia. Trabalho apresentado na Anpocs, 2024.
 
@@ -115,177 +115,124 @@ Barros, S., & Chagas, V. Os métodos digitais e o estudo da política online: al
 
 ### 15/04
 
-O conceito de cultura política. A ausência da cultura, a ausência da política.
+Unidade II: Governança das plataformas
 
-```
-~ Leituras Recomendadas:
+Leituras Recomendadas
+{: .label .label-purple } 
 
-Somers, M. R. (1995). What's Political or Cultural about Political Culture and the Public Sphere? Toward an Historical Sociology of Concept Formation. Sociological Theory, 13(2).
+Gillespie, T., Aufderheide, P., Carmi, E., Gerrard, Y., Gorwa, R., Matamoros-Fernández, A., Roberts, S. T., Sinnreich, A., & Myers West, S. (2020). Expanding the debate about content moderation: scholarly research agendas for the coming policy debates. Internet Policy Review, 9(4). https://doi.org/10.14763/2020.4.1512
 
-Formisano, R. P. (2001). The Concept of Political Culture. The Journal of Interdisciplinary History, 31(3).
-```
+Mendonça, R. F., Almeida, V., & Filgueiras, F. Algorithmic Institutionalism: The Changing Rules of Social and Political Life. Capítulo a definir.
 
 ---
 
 ### 22/04
 
-As matrizes do culturalismo I. A linearidade histórica e o papel da mídia de massa na produção da apatia.
-
-```
-~ Leituras Recomendadas:
-
-Tocqueville, A. (1998 [1835]). Da Democracia na América. Livro I, Primeira Parte, Capítulos II e III. Livro II, Segunda Parte, Capítulos II a VII.
-
-Putnam, R. (2015 [2000]). Jogando Boliche Sozinho. Capítulos 1, 2, 9 e 24.
-```
+**PONTO FACULTATIVO**
 
 ---
 
 ### 29/04
 
-As matrizes do culturalismo II. Participação política, engajamento cívico e capital social. 
+Unidade II: Ética em pesquisa e transparência
 
-```
-~ Leituras Recomendadas:
+Leituras Recomendadas
+{: .label .label-purple } 
 
-Gomes, W. (2008). Capital Social, Democracia e Televisão em Robert Putnam. In W. Gomes & R. Maia. Comunicação e Democracia: Problemas & Perspectivas.
+Chagas, V. Covert research in politically hostile digital environments. No prelo.
 
-Norris, P. (2002). Democratic Phoenix: Reinventing Political Activism. Capítulo 8.
-```
+Rambukkana, N. The Politics of Gray Data: Digital Methods, Intimate Proximity, and Research Ethics for Work on the “Alt-Right”. Qualitative Iniquiry, Volume 25, Issue 3, 2019. 
+
 
 ---
 
 ### 06/05
 
-Mídia e cultura política, e a cultura da comunicação política.
+Unidade II : Raça, gênero e colonialismo de dados
 
-```
-~ Leituras Recomendadas:
+Leituras Recomendadas
+{: .label .label-purple }
 
-Goldfarb, J. (2012). Reinventing Political Culture. Introdução e Capítulo 1.
+Gómez-Cruz, E., Ricaurte, P. & Siles, I. (2023). Descolonizando los métodos para estudiar la cultura digital: una propuesta desde Latinoamérica. Cuadernos.info, (54), 160-181. https://doi.org/10.7764/cdi.54.52605
 
-Dahlgren, P. (2003). Reconfiguring Civic Culture in the New Media Milieu. In J. Corner e D. Pels (orgs.). Media and the Restyling of Politics.
+D'Ignazio, C. Data Feminism. Introduction (Why data science needs feminism)
 
-Pfetsch, B. (2009). From Political Culture to Political Communication Culture A Theoretical Approach to Comparative Analysis. In F. Esser e B. Pfetsch. Comparing Political Communication
-Theories, Cases, and Challenges.
-
-```
+Silva, Tarcízio. Racismo Algorítmico: mídia, inteligência articial e discriminação nas redes digitais. São Paulo: Edições Sesc SP, 2022. 
 
 ---
 
 ### 13/05
 
-Cultura política e cotidiano. O pessoal, o político e a produção da apatia.
+**(COMPOLÍTICA)**
 
-```
-~ Leituras Recomendadas:
+Unidade III: Quali 1
 
-Eliasoph, N. (1998). Avoiding Politics. Capítulo 1.
+Leituras Recomendadas
+{: .label .label-purple }
 
-Mansbridge, J. (2009 [1999]). A conversação cotidiana no sistema deliberativo. In A. C. S. Marques (org.). A deliberação pública e suas dimensões sociais, políticas e comunicativas: textos fundamentais.
-
-~ Leitura Complementar:
-
-Highfield, T. (2016). Social Media and Everyday Politics. Capítulo 2.
-```
+Fielding, Nigel; Lee, Raymond, Blank, Grant. The SAGE Handbook of Online Research Methods. Oxford, 2008. 
 
 ---
 
 ### 20/05
 
-Política e entretenimento I. A celebritização da política, os fandoms políticos e a crise epistêmica.
+Unidade III: Quali 2
 
-```
-~ Leituras Recomendadas:
+Leituras Recomendadas
+{: .label .label-purple }
 
-Street, J. (2000). Politics and Popular Culture. Capítulos 7 e 8.
-
-Van Zoonen, L. (2004). Entertaining the Citizen: When Politics and Popular Culture Converge. Capítulo 4.
-
-~ Leitura Complementar:
-
-Street, J. (1994). Political Culture - From Civic Culture to Mass Culture. British Journal of Political Science, 24(1).
-
-Van Zonnen, L. (2012). I-Pistemology: Changing Truth Claims in Popular and Political Culture. European Journal of Communication, 27(1).
-```
+:eight_spoked_asterisk:
 
 ---
 
 ### 27/05
 
-Política e entretenimento II. A cultura pop como atalho cognitivo e a midiatização do ativismo político.
+Unidade III: Quanti 1
 
-```
-~ Leituras Recomendadas:
+Leituras Recomendadas
+{: .label .label-purple }
 
-⬛ Penney, J. (2022). Pop Culture, Politics, and The News. Capítulo 6.
-
-Chagas, V., & Fonseca, V. (2020). Faster, higher, stronger: Sports fan activism and mediatized political play in the 2016 Rio Olympic Games. Transformative Works and Cultures, 32.
-```
+:eight_spoked_asterisk:
 
 ---
 
 ### 03/06
 
-A supressão da política adversária e a política pós-materialista.
+Unidade III: Quanti 2
 
-```
-~ Leituras Recomendadas:
+Leituras Recomendadas
+{: .label .label-purple }
 
-⬛ Mouffe, C. (2015 [2005]). Sobre o Político. Capítulo 2.
-
-Inglehart, R. (1977). The Silent Revolution: Changing Values and Political Styles Among Western Publics. Capítulo 1.
-```
+:eight_spoked_asterisk:
 
 ---
 
 ### 10/06
 
-Política identitária e ressentimento.
-
-```
-~ Leituras Recomendadas:
-
-Haider, A. (2019 [2018]). Armadilha da Identidade: Raça e Classe nos Dias de Hoje. Capítulo 1.
-
-Porto, M. (2023). Mirrors of Whitness: Media, Middle-Class Resentment, and the Rise of the Far-Right in Brazil. Capítulo 1.
-```
+**COMPÓS**
 
 ---
 
 ### 17/06
 
-CONGRESSO INCT.DD
+Unidade III: Perspectiva quali e quanti + discussão / visualização dos dados
+
+Leituras Recomendadas
+{: .label .label-purple }
+
+Cairo, Alberto. How charts lie: Getting smarter about visual information. 2019. 
 
 ---
 
 ### 24/06
 
-O reacionarismo cultural.
-
-```
-~ Leituras Recomendadas:
-
-Norris, P., & Inglehart, R. (2019). Cultural Backlash: Trump, Brexit, and Authoritarian Populism. Capítulos 12 e 13.
-
-~ Leitura Complementar:
-
-Cesarino, L. (2022). O Mundo do Avesso: Verdade e Política na Era Digital. Capítulo 3.
-```
+**FERIADO**
 
 ---
 
 ### 01/07
 
-Públicos afetivos e a política das plataformas.
-
-```
-~ Leituras Recomendadas:
-
-Papacharissi, Z. (2015). Affective Publics. Capítulo 5.
-
-Gillespie, T. (2010). The politics of Platforms. New Media & Society, 12(3).
-```
+Encerramento do curso.
 
 ---
 
