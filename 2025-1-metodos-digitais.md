@@ -47,7 +47,7 @@ ROGERS, Richard. Doing digital methods. SAGE Publications Ltd.; 2024.
 
 <details>
   
-## Relatorias
+<summary>Relatorias</summary>
 
 | **Aula** | **Apresentador(a)** | **Relator(a)** |
 | ------------- | ------------- | -------------|
