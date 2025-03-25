@@ -6,7 +6,7 @@ nav_order: 2
 layout: home
 ---
 
-# Mídia e Cultura Política
+# Métodos Digitais
 
 Professor: Viktor Chagas [✉️](mailto:viktor@midia.uff.br?subject=[Mídia e Cultura Política]) e Beatriz Polivanov [✉️](mailto:beatrizpolivanov@id.uff.br?subject=[Mídia e Cultura Política]) 
 
