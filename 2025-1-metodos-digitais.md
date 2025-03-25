@@ -81,14 +81,14 @@ Unidade I: O que são métodos digitais? Discussão conceitual sobre platform st
 Leituras Recomendadas
 {: .label .label-purple } 
 
-  Rogers, R. Doing digital methods. Preface e Part I.
+> Rogers, R. Doing digital methods. Preface e Part I.
 
-  Omena, J. J. Métodos digitais: teoria-prática-crítica. Introdução (O que são métodos digitais?)
+> Omena, J. J. Métodos digitais: teoria-prática-crítica. Introdução (O que são métodos digitais?)
 
 Leituras Recomendadas
 {: .label .label-yellow } 
 
-  Mejias, U. A., & Couldry, N. (2019). Datafication. Internet Policy Review, 8(4). https://doi.org/10.14763/2019.4.1428 
+> Mejias, U. A., & Couldry, N. (2019). Datafication. Internet Policy Review, 8(4). https://doi.org/10.14763/2019.4.1428 
 
 ---
 
