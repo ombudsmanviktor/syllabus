@@ -136,7 +136,7 @@ Unidade II: Ética em pesquisa e transparência
 Leituras Recomendadas
 {: .label .label-purple } 
 
-> Chagas, V. Covert research in politically hostile digital environments. No prelo.
+> ▪️ Chagas, V. Covert research in politically hostile digital environments. No prelo.
 
 > Rambukkana, N. The Politics of Gray Data: Digital Methods, Intimate Proximity, and Research Ethics for Work on the “Alt-Right”. Qualitative Iniquiry, Volume 25, Issue 3, 2019. 
 
