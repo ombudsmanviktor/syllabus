@@ -85,6 +85,11 @@ Rogers, R. Doing digital methods. Preface e Part I.
 
 Omena, J. J. Métodos digitais: teoria-prática-crítica. Introdução (O que são métodos digitais?)
 
+Leituras Recomendadas
+{: .label .label-yellow } 
+
+Mejias, U. A., & Couldry, N. (2019). Datafication. Internet Policy Review, 8(4). https://doi.org/10.14763/2019.4.1428 
+
 ---
 
 ### 08/04
@@ -96,7 +101,7 @@ Leituras Recomendadas
 
 Manovich, L. Cultural analytics. Capítulo a definir.
 
-Mejias, U. A., & Couldry, N. (2019). Datafication. Internet Policy Review, 8(4). https://doi.org/10.14763/2019.4.1428 
+Bruns, A. (2019). After the ‘APIcalypse’: social media platforms and their fight against critical scholarly research. Information, Communication & Society, 22(11), 1544–1566. https://doi.org/10.1080/1369118X.2019.1637447
 
 Leituras Complementares
 {: .label .label-yellow }
@@ -161,7 +166,7 @@ Unidade III: Quali 1
 Leituras Recomendadas
 {: .label .label-purple }
 
-Fielding, Nigel; Lee, Raymond, Blank, Grant. The SAGE Handbook of Online Research Methods. Oxford, 2008. 
+::eight_spoked_asterisk:: Fielding, Nigel; Lee, Raymond, Blank, Grant. The SAGE Handbook of Online Research Methods. Oxford, 2008. 
 
 Leituras Complementares
 {: .label .label-yellow }
@@ -177,12 +182,12 @@ Unidade III: Quali 2
 Leituras Recomendadas
 {: .label .label-purple }
 
-:eight_spoked_asterisk:
+::eight_spoked_asterisk::
 
 Leituras Complementares
 {: .label .label-yellow }
 
-Lorencetti, M. A., & Novelli, D. H. (2024). Introdução aos softwares de Análise de DadosQualitativos em Ciência Política. In Sampaio, R. C., & de Paula, C. (eds.). Manual de introdução às técnicas de pesquisa qualitativa em Ciência Política. Enap.
+Lorencetti, M. A., & Novelli, D. H. (2024). Introdução aos softwares de Análise de Dados Qualitativos em Ciência Política. In Sampaio, R. C., & de Paula, C. (eds.). Manual de introdução às técnicas de pesquisa qualitativa em Ciência Política. Enap.
 
 ---
 
@@ -193,7 +198,14 @@ Unidade III: Quanti 1
 Leituras Recomendadas
 {: .label .label-purple }
 
-:eight_spoked_asterisk:
+Schwalbach, J., & Mauer, R. (2025). Sharing digital trace data: Researchers’ challenges and needs. Big Data & Society, 12(1). https://doi.org/10.1177/20539517251325211
+
+Fricker Jr., R. D. (2008). Sampling Methods for Online Surveys. In Fieldgin, N., Lee, R., & Blank, G. (eds.). The SAGE Handbook of Online Research Methods. SAGE. 
+
+Leituras Complementares
+{: .label .label-yellow }
+
+Corti, L., & Wathan, J. (2008). Online Access to Quantitative Data Resources. In Fieldgin, N., Lee, R., & Blank, G. (eds.). The SAGE Handbook of Online Research Methods. SAGE. 
 
 ---
 
@@ -204,7 +216,11 @@ Unidade III: Quanti 2
 Leituras Recomendadas
 {: .label .label-purple }
 
-:eight_spoked_asterisk:
+Highfield, T., & Leaver, T. (2016). Instagrammatics and digital methods: studying visual social media, from selfies and GIFs to memes and emoji. Communication Research and Practice, 2(1), 47–62. https://doi.org/10.1080/22041451.2016.1155332
+
+Pearce, W., Özkula, SM, Greene, AK, Teeling, L., Bansard, JS, Omena, JJ, & Rabello, ET (2018). Análise visual multiplataforma: métodos digitais para pesquisar imagens de mídia social. Informação, Comunicação e Sociedade , 23 (2), 161–180. https://doi.org/10.1080/1369118X.2018.1486871
+
+Omena, JJ, Rabello, ET, & Mintz, AG (2020). Métodos digitais para pesquisa de engajamento com hashtags. Mídias sociais + sociedade , 6 (3). https://doi.org/10.1177/2056305120940697 (Trabalho original publicado em 2020)
 
 ---
 
@@ -222,6 +238,11 @@ Leituras Recomendadas
 {: .label .label-purple }
 
 Cairo, A. How charts lie: Getting smarter about visual information. 2019. 
+
+Leituras Complementares
+{: .label .label-yellow }
+
+Rieder, B., Peeters, S., & Borra, E. (2022). From tool to tool-making: Reflections on authorship in social media research software. Convergence, 30(1), 216-235. https://doi.org/10.1177/13548565221127094 (Original work published 2024)
 
 ---
 
