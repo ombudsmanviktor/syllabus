@@ -166,12 +166,11 @@ Unidade III: Quali 1
 Leituras Recomendadas
 {: .label .label-purple }
 
+> Polivanov, B. B. (2014). Etnografia virtual, netnografia ou apenas etnografia? Implicações dos conceitos. Esferas, 1(3). https://doi.org/10.31501/esf.v1i3.4621
+
 > ▪️ Fielding, Nigel; Lee, Raymond, Blank, Grant. The SAGE Handbook of Online Research Methods. Oxford, 2008. 
 
-Leituras Complementares
-{: .label .label-yellow }
-
-> Piaia, V., Almeida, S., & Matos, E. (2024). Etnografia online em Ciência Política. In Sampaio, R. C., & de Paula, C. (eds.). Manual de introdução às técnicas de pesquisa qualitativa em Ciência Política. Enap.
+<!-- Piaia, V., Almeida, S., & Matos, E. (2024). Etnografia online em Ciência Política. In Sampaio, R. C., & de Paula, C. (eds.). Manual de introdução às técnicas de pesquisa qualitativa em Ciência Política. Enap. -->
 
 ---
 
