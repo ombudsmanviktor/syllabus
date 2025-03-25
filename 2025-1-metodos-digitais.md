@@ -153,7 +153,7 @@ Leituras Recomendadas
 
 > D'Ignazio, C. Data Feminism. Introduction (Why data science needs feminism)
 
-> Silva, Tarcízio. Racismo Algorítmico: mídia, inteligência articial e discriminação nas redes digitais. São Paulo: Edições Sesc SP, 2022. 
+> ▪️ Silva, Tarcízio. Racismo Algorítmico: mídia, inteligência articial e discriminação nas redes digitais. São Paulo: Edições Sesc SP, 2022. 
 
 ---
 
@@ -237,12 +237,12 @@ Unidade III: Perspectiva quali e quanti + discussão / visualização dos dados
 Leituras Recomendadas
 {: .label .label-purple }
 
-> Cairo, A. How charts lie: Getting smarter about visual information. 2019. 
+> ▪️ Cairo, A. How charts lie: Getting smarter about visual information. 2019. 
 
 Leituras Complementares
 {: .label .label-yellow }
 
-> Rieder, B., Peeters, S., & Borra, E. (2022). From tool to tool-making: Reflections on authorship in social media research software. Convergence, 30(1), 216-235. https://doi.org/10.1177/13548565221127094 (Original work published 2024)
+> Rieder, B., Peeters, S., & Borra, E. (2022). From tool to tool-making: Reflections on authorship in social media research software. Convergence, 30(1), 216-235. https://doi.org/10.1177/13548565221127094
 
 ---
 
