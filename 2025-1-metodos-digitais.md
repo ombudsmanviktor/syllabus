@@ -166,7 +166,7 @@ Unidade III: Quali 1
 Leituras Recomendadas
 {: .label .label-purple }
 
-> ::eight_spoked_asterisk:: Fielding, Nigel; Lee, Raymond, Blank, Grant. The SAGE Handbook of Online Research Methods. Oxford, 2008. 
+> ▪️ Fielding, Nigel; Lee, Raymond, Blank, Grant. The SAGE Handbook of Online Research Methods. Oxford, 2008. 
 
 Leituras Complementares
 {: .label .label-yellow }
@@ -182,7 +182,7 @@ Unidade III: Quali 2
 Leituras Recomendadas
 {: .label .label-purple }
 
-> ::eight_spoked_asterisk::
+> ▪️
 
 Leituras Complementares
 {: .label .label-yellow }
