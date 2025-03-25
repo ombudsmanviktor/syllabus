@@ -40,9 +40,9 @@ ROGERS, Richard. Doing digital methods. SAGE Publications Ltd.; 2024.
 
 ## Recursos da Disciplina
 
-<img src="./midcultpol_qr.png" width="230">
+<img src="./metdig_qr.jpeg" width="230">
 
-- [Pasta de Textos](https://bit.ly/midiaeculturapolitica_textos)
+- [Pasta de Textos](https://drive.google.com/drive/folders/1HNUwKtBeOOWE0hLQUkqYvsWWf1cVlhgC?usp=drive_link)
 
 
 <details>
