@@ -47,22 +47,20 @@ ROGERS, Richard. Doing digital methods. SAGE Publications Ltd.; 2024.
 
 <details>
 
-<summary>Relatorias</summary>
-
-| **Aula** | **Apresentador(a)** | **Relator(a)** |
-| ------------- | ------------- | -------------|
-| Aula 1 | N.A. | N.A. |
-| Aula 2 |  |  |
-| Aula 3 |  |  |
-| Aula 4 |  |  |
-| Aula 5 |  |  |
-| Aula 6 |  |  |
-| Aula 7 |  |  |
-| Aula 8 |  |  |
-| Aula 9 |  |  |
-| Aula 10 |  |  |
-| Aula 11 |  |  |
-| Aula 12 | N.A. | N.A. |
+| **Aula** | **Data** | **Apresentador(a)** | **Relator(a)** |
+| ------------- | ------------- | -------------| ------------- | 
+| Aula 1 | N.A. | N.A. | N.A. |
+| Aula 2 | 01/04 | Wyld | Ana Clara |
+| Aula 3 | 08/04 | Matheus Mendes | [VAGO] |
+| Aula 4 | 15/04 | Carlos Bonifácio | Matheus Rolim |
+| Aula 5 | 29/04 | Carlos Teixeira | Joilson |
+| Aula 6 | 06/05 | [VAGO] | Rafaela |
+| Aula 7 | 13/05 | Byanca | Luciane |
+| Aula 8 | 20/05 | Vanessa | Sergio |
+| Aula 9 | 27/05 | Helio | [VAGO] |
+| Aula 10 | 03/06 | Clara | Mel |
+| Aula 11 | 17/06 | Ivanildo | Dandarah |
+| Aula 12 | N.A. | N.A. | N.A. |
 
 </details>
 
