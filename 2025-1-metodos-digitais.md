@@ -43,11 +43,10 @@ ROGERS, Richard. Doing digital methods. SAGE Publications Ltd.; 2024.
 <img src="./metdig_qr.jpeg" width="230">
 
 - [Pasta de Textos](https://drive.google.com/drive/folders/1HNUwKtBeOOWE0hLQUkqYvsWWf1cVlhgC?usp=drive_link)
+- 
+- [Google Classroom](https://classroom.google.com/c/NzYyNTA3MTY0MDY2?cjc=zyt2l3ry)
 
-
-<details>
-
-| **Aula** | **Data** | **Apresentador(a)** | **Relator(a)** |
+| **Aula** | **Data** | **Apresentação** | **Relatoria** |
 | ------------- | ------------- | -------------| ------------- | 
 | Aula 1 | N.A. | N.A. | N.A. |
 | Aula 2 | 01/04 | Wyld | Ana Clara |
@@ -62,7 +61,6 @@ ROGERS, Richard. Doing digital methods. SAGE Publications Ltd.; 2024.
 | Aula 11 | 17/06 | Ivanildo | Dandarah |
 | Aula 12 | N.A. | N.A. | N.A. |
 
-</details>
 
 ## Programa de Curso
 
