@@ -8,9 +8,9 @@ layout: home
 
 # Introdução à Comunicação Política
 
-Professor: Viktor Chagas [✉️](mailto:viktor@midia.uff.br?subject=[Comunicação Política])
+Professor: Viktor Chagas [✉️](mailto:viktor@midia.uff.br?subject=[Comunicação Política]) e Gabriella da Costa
 
-Período Letivo: 2024.2
+Período Letivo: 2025.1
 
 Horário: Quintas-feiras às 14h
 
@@ -30,13 +30,13 @@ Fundamentos clássicos da Comunicação Política: democracia e aristocracia, ve
 
 ## Programa de Curso
 
-### 26/09
+### 27/03
 
 **SEMANA INAUGURAL**
 
 ---
 
-### 03/10
+### 03/04
 
 Conhecimento, poder e democracia I.
 
@@ -52,7 +52,7 @@ FILME SURPRESA
 
 ---
 
-### 10/10
+### 10/04
 
 Conhecimento, poder e democracia II.
 
@@ -65,13 +65,13 @@ PLATÃO. A República. Livro VII (O mito da caverna).
 
 ---
 
-### 17/10
+### 17/04
 
-**SEMANA ACADÊMICA**
+**QUINTA-FEIRA SANTA**
 
 ---
 
-### 24/10
+### 24/04
 
 Filosofia política moderna.
 
@@ -84,7 +84,13 @@ MAQUIAVEL. Discorsi. Livro I, capítulos: I a X, XXXIX, LVI a LVIII; Livro III, 
 
 ---
 
-### 31/10
+### 01/05
+
+**FERIADO**
+
+---
+
+### 08/05
 
 Contrato social.
 
@@ -97,7 +103,13 @@ ROUSSEAU, Jean-Jacques. O contrato social. Livro I, capítulos: I a IX.
 
 ---
 
-### 07/11
+### 15/05
+
+**COMPOLÍTICA**
+
+---
+
+### 22/05
 
 Associativismo e liberdade de expressão.
 
@@ -106,20 +118,9 @@ Leituras Recomendadas
 
 TOCQUEVILLE, Alexis de. Democracia na América. Livro I, segunda parte, capítulos III e IV; Livro II, segunda parte, capítulos II a VII.
 
-*[INTERVALO]*
-
-Representação política I.
-
-Leituras Recomendadas
-{: .label .label-purple } 
-
-PITKIN, Hanna. Representação: palavras, instituições e idéias.
-
 ---
 
-### 14/11
-
-**INCT.DD / AULA DINDARA**
+### 29/05
 
 Representação política II.
 
@@ -138,7 +139,25 @@ PROVA 1
 
 ---
 
-### 21/11
+### 05/06
+
+Opinião pública.
+
+Leituras Recomendadas
+{: .label .label-purple } 
+
+LIPPMANN, Walter. Opinião pública. Introdução.
+
+PARK, Robert. Notícia e poder da imprensa.
+
+---
+
+### 12/06
+
+**COMPÓS**
+
+**AULA GABI**
+
 
 Esfera pública I.
 
@@ -149,9 +168,15 @@ HABERMAS, Jürgen. Mudança estrutural da esfera pública. Capítulo VI, parágr
 
 ---
 
-### 28/11
+### 19/06
 
-**CONGRESSO BH / AULA DINDARA**
+**FERIADO**
+
+---
+
+### 26/06
+
+**AULA GABI**
 
 Esfera pública II.
 
@@ -171,27 +196,14 @@ THOMPSON, John. O escândalo político. Capítulo I.
 
 ---
 
-### 05/12
-
-Opinião pública.
-
-Leituras Recomendadas
-{: .label .label-purple } 
-
-LIPPMANN, Walter. Opinião pública. Introdução.
-
-PARK, Robert. Notícia e poder da imprensa.
-
----
-
-### 12/12
+### 03/07
 
 PROVA 2
 {: .label .label-red }
 
 ---
 
-### 19/12
+### 10/07
 
 Internet e participação política.
 
@@ -204,44 +216,16 @@ STROMER-GALLEY, Jennifer. Interação online e por que os candidatos a evitam. I
 
 ---
 
-### 26/12
-
-**RECESSO**
-
----
-
-### 02/01
-
-**RECESSO**
-
----
-
-### 09/01
-
-**LIVRE**
-
----
-
-### 16/01
+### 17/07
 
 PROVA 3
 {: .label .label-purple }
 
 ---
 
-### 23/01
+### 24/07
 
 **LIVRE**
 
 ---
-
-### 30/01
-
-**LIVRE**
-
----
-
-### 06/02
-
-**LIVRE**
 
