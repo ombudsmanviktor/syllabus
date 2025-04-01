@@ -21,11 +21,11 @@ Fundamentos clássicos da Comunicação Política: democracia e aristocracia, ve
 
 ## Recursos da Disciplina
 
-- [Grupo de WhatsApp](https://chat.whatsapp.com/GEAy5I39ZIW7JVcTECfdix)
+<img src="./gec00052_qr.png" width="230">
+
+- [Grupo de WhatsApp](https://chat.whatsapp.com/BDw8IMh3d2nEGGtT5RAbB0)
 
 - [Pasta de Textos](http://bit.ly/gec00052_textos)
-
-<img src="./gec00052_textos.png" width="230">
 
 
 ## Programa de Curso
