@@ -108,14 +108,16 @@ Leituras Complementares
 
 ### 15/04
 
-Unidade II: Governança das plataformas
+Unidade II : Raça, gênero e colonialismo de dados
 
 Leituras Recomendadas
-{: .label .label-purple } 
+{: .label .label-purple }
 
-> Gillespie, T., Aufderheide, P., Carmi, E., Gerrard, Y., Gorwa, R., Matamoros-Fernández, A., Roberts, S. T., Sinnreich, A., & Myers West, S. (2020). Expanding the debate about content moderation: scholarly research agendas for the coming policy debates. Internet Policy Review, 9(4). https://doi.org/10.14763/2020.4.1512
+> Gómez-Cruz, E., Ricaurte, P. & Siles, I. (2023). Descolonizando los métodos para estudiar la cultura digital: una propuesta desde Latinoamérica. Cuadernos.info, (54), 160-181. https://doi.org/10.7764/cdi.54.52605
 
-> Mendonça, R. F., Almeida, V., & Filgueiras, F. Algorithmic Institutionalism: The Changing Rules of Social and Political Life. Capítulo a definir.
+> D'Ignazio, C. Data Feminism. Introduction (Why data science needs feminism)
+
+> ▪️ Silva, Tarcízio. Racismo Algorítmico: mídia, inteligência articial e discriminação nas redes digitais. São Paulo: Edições Sesc SP, 2022. 
 
 ---
 
@@ -140,16 +142,14 @@ Leituras Recomendadas
 
 ### 06/05
 
-Unidade II : Raça, gênero e colonialismo de dados
+Unidade II: Governança das plataformas
 
 Leituras Recomendadas
-{: .label .label-purple }
+{: .label .label-purple } 
 
-> Gómez-Cruz, E., Ricaurte, P. & Siles, I. (2023). Descolonizando los métodos para estudiar la cultura digital: una propuesta desde Latinoamérica. Cuadernos.info, (54), 160-181. https://doi.org/10.7764/cdi.54.52605
+> Gillespie, T., Aufderheide, P., Carmi, E., Gerrard, Y., Gorwa, R., Matamoros-Fernández, A., Roberts, S. T., Sinnreich, A., & Myers West, S. (2020). Expanding the debate about content moderation: scholarly research agendas for the coming policy debates. Internet Policy Review, 9(4). https://doi.org/10.14763/2020.4.1512
 
-> D'Ignazio, C. Data Feminism. Introduction (Why data science needs feminism)
-
-> ▪️ Silva, Tarcízio. Racismo Algorítmico: mídia, inteligência articial e discriminação nas redes digitais. São Paulo: Edições Sesc SP, 2022. 
+> Mendonça, R. F., Almeida, V., & Filgueiras, F. Algorithmic Institutionalism: The Changing Rules of Social and Political Life. Capítulo a definir.
 
 ---
 
