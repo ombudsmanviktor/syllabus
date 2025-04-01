@@ -95,7 +95,7 @@ Unidade I: Natureza dos dados digitais e tipos de variáveis de pesquisa.
 Leituras Recomendadas
 {: .label .label-purple } 
 
-> Manovich, L. Cultural analytics. Capítulo a definir.
+> Manovich, L. Cultural analytics. Capítulo 4 (Cultural Data)
 
 > Bruns, A. (2019). After the ‘APIcalypse’: social media platforms and their fight against critical scholarly research. Information, Communication & Society, 22(11), 1544–1566. https://doi.org/10.1080/1369118X.2019.1637447
 
