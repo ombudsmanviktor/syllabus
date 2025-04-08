@@ -51,7 +51,7 @@ ROGERS, Richard. Doing digital methods. SAGE Publications Ltd.; 2024.
 | Aula 1 | N.A. | N.A. | N.A. |
 | Aula 2 | 01/04 | Wyld | Ana Clara |
 | Aula 3 | 08/04 | Matheus Mendes | Marcos Gabriel |
-| Aula 4 | 15/04 | [VAGO] | Rafaela |
+| Aula 4 | 15/04 | Iara | Rafaela |
 | Aula 5 | 29/04 | Carlos Teixeira | Joilson |
 | Aula 6 | 06/05 | Carlos Bonifácio | Matheus Rolim |
 | Aula 7 | 13/05 | Byanca | Luciane |
