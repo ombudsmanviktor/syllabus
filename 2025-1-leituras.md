@@ -55,7 +55,7 @@ Mendonça, R. F., Almeida, V., Filgueiras, F. (2024). Algorithmic Institutionali
 Leitura
 {: .label .label-purple } 
 
-Crawford, K. (2021). Atlas of IA. Capítulos 3 e 4.
+Artigos Compolítica
 
 
 ---
@@ -68,7 +68,7 @@ Crawford, K. (2021). Atlas of IA. Capítulos 3 e 4.
 
 ### 08/05
 
-Meikle, G. Deepfakes. Capítulo 4
+Crawford, K. (2021). Atlas of IA. Capítulos 3 e 4.
 
 ---
 
@@ -83,18 +83,15 @@ Meikle, G. Deepfakes. Capítulo 4
 Leitura
 {: .label .label-purple } 
 
-Discussão de Material de Qualificação: Dindara
+Janusz, A. (2017). Candidate race and electoral outcomes: evidence from Brazil. Politics, Groups, and Identities, 6(4), 702–724. https://doi.org/10.1080/21565503.2017.1279976
+
+Johnson, L. (2014), Race in the Color-blind Era: Deracialization and Black Elected Officials. Sociology Compass, 8: 1100-1111. https://doi.org/10.1111/soc4.12179
 
 ---
 
 ### 29/05
 
-Leitura
-{: .label .label-purple } 
-
-Janusz, A. (2017). Candidate race and electoral outcomes: evidence from Brazil. Politics, Groups, and Identities, 6(4), 702–724. https://doi.org/10.1080/21565503.2017.1279976
-
-Johnson, L. (2014), Race in the Color-blind Era: Deracialization and Black Elected Officials. Sociology Compass, 8: 1100-1111. https://doi.org/10.1111/soc4.12179
+Meikle, G. Deepfakes. Capítulo 4
 
 ---
 
@@ -103,9 +100,7 @@ Johnson, L. (2014), Race in the Color-blind Era: Deracialization and Black Elect
 Leitura
 {: .label .label-purple } 
 
-Mills, C. W. (2023). O Contrato Racial. Introdução e Capítulo 1
-
-Bento, C. (2022). O Pacto da Branquitude. Capítulos 1, 4, 5 e 7
+Discussão de Material de Qualificação: Dindara
 
 ---
 
@@ -137,6 +132,13 @@ Discussão de Material de Qualificação: Gabi
 ---
 
 ### 10/07
+
+Leitura
+{: .label .label-purple } 
+
+Mills, C. W. (2023). O Contrato Racial. Introdução e Capítulo 1
+
+Bento, C. (2022). O Pacto da Branquitude. Capítulos 1, 4, 5 e 7
 
 Leitura
 {: .label .label-purple } 
