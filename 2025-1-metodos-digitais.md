@@ -149,7 +149,7 @@ Leituras Recomendadas
 
 > Gillespie, T., Aufderheide, P., Carmi, E., Gerrard, Y., Gorwa, R., Matamoros-Fernández, A., Roberts, S. T., Sinnreich, A., & Myers West, S. (2020). Expanding the debate about content moderation: scholarly research agendas for the coming policy debates. Internet Policy Review, 9(4). https://doi.org/10.14763/2020.4.1512
 
-> Mendonça, R. F., Almeida, V., & Filgueiras, F. Algorithmic Institutionalism: The Changing Rules of Social and Political Life. Capítulo a definir.
+> Mendonça, R. F., Almeida, V., & Filgueiras, F. Algorithmic Institutionalism: The Changing Rules of Social and Political Life. Capítulo 1.
 
 ---
 
