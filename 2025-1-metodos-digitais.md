@@ -164,7 +164,7 @@ Leituras Recomendadas
 
 > Polivanov, B. B. (2014). Etnografia virtual, netnografia ou apenas etnografia? Implicações dos conceitos. Esferas, 1(3). https://doi.org/10.31501/esf.v1i3.4621
 
-> ▪️ Fielding, Nigel; Lee, Raymond, Blank, Grant. The SAGE Handbook of Online Research Methods. Oxford, 2008. 
+> Hine, C. (2008). Ethnographies of Online Communities and Social Media: Modes, Varieties, Affordances. In Fielding, N., Lee, R., & Blank, G. The SAGE Handbook of Online Research Methods. Oxford. 
 
 <!-- Piaia, V., Almeida, S., & Matos, E. (2024). Etnografia online em Ciência Política. In Sampaio, R. C., & de Paula, C. (eds.). Manual de introdução às técnicas de pesquisa qualitativa em Ciência Política. Enap. -->
 
@@ -177,7 +177,7 @@ Unidade III: Quali 2
 Leituras Recomendadas
 {: .label .label-purple }
 
-> ▪️
+> Salmons, J. (2016). Doing Qualitative Research Online. (Capítulo 2, Choosing Methodologies and Methods for Online Studies).
 
 Leituras Complementares
 {: .label .label-yellow }
