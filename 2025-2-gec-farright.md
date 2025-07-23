@@ -6,7 +6,7 @@ nav_order: 2
 layout: home
 ---
 
-# Métodos Digitais
+# Mídia e Extrema-Direita
 
 Professor: Viktor Chagas [✉️](mailto:viktor@midia.uff.br?subject=[Mídia e Extrema-Direita]) e Carlos Bonifácio [✉️](mailto:cbonifacio@id.uff.br?subject=[Mídia e Extrema-Direita]) 
 
