@@ -16,7 +16,7 @@ Horário: Terças-feiras às 18h
 
 ## Ementa
 
-Os métodos digitais são descritos por Richard Rogers como um conjunto de métodos orientados pelo meio, uma definição que, à primeira vista, parece simples e pouco inspirada, mas que um crescente corpo de estudos vem empregando para distinguir abordagens metodológicas nato-digitais daquelas que sofrem algum tipo de adaptação ou transposição para o domínio das plataformas digitais. Assim, um dos primeiros elementos a se considerar quando se trata de avaliar a competência desta tipificação é a própria natureza do dado. Os dados digitais e o ambiente dataficado contemporâneo introduzem um conjunto substancial de novos dilemas aos/às pesquisadore/as que carecem de reflexão metodológica e epistemológica adequada. A dependência das fontes de dados sob regras de governança frequentemente obscuras, o processamento de dados em larga escala e a reconfiguração dos contratos de confidencialidade e autonomia dos sujeitos pesquisados ante a manipulação de dados privados, entre outras questões, reforçam a necessidade de se debater um novo paradigma para a pesquisa de acordo com o ambiente em que ela predominantemente se desenvolve. Além disso, uma profusão de novas nomenclaturas, a exemplo de humanidades digitais, ciências sociais computacionais, ciência de dados, investigação forense digital, cultural analytics, e outras mais, vêm disputando terreno entre si, ainda sem um consenso claro entre seus advogados. Uma crítica que atravessa a abordagem dos métodos digitais é aquela segundo a qual grande parte das análises empíricas que assumem empregá-los não constituiria efetivamente um corpo metodológico sistemático. De fato, há um certo deslumbramento, ou mesmo uma fetichização, entre pesquisadores/assobre os métodos digitais que, muitas vezes, culmina em análises exploratórias rasas que se ressentem de um problema de pesquisa. Nesse sentido, a disciplina procura refletir sobre três conjuntos de questões, sem prejuízo de outras, a respeito dos métodos digitais: (1) sua natureza dissidente e original, em relação a outras abordagens metodológicas mais clássicas no âmbito das ciências humanas e sociais, (2) suas implicações ético-políticas e (3) suas aplicações no universo da pesquisa qualitativa, quantitativa e nas abordagens de métodos mistos. Seu principal objetivo é constituir um manancial de discussões que proporcionem uma mirada crítica e conscienciosa sobre a pesquisa em plataformas digitais, sem deixar de municiar os/as discentes acerca da importância de desenvolverem suas investigações não apenas de maneira compatível com os dados de que dispõem, mas sobretudo administrando teoria ao ímpeto meramente analítico. O curso pretende mesclar, em algum grau, discussões teóricas com breves exercícios de sensibilização prática e laboratorial, incluindo a apresentação de algumas ferramentas e procedimentos e o debate em torno de situações concretas de pesquisa.
+Na última década e meia, o Brasil e várias regiões do mundo viram ressurgir o apoio a lideranças políticas e pautas historicamente associadas à extrema-direita. Esta disciplina procura refletir sobre o panorama que relaciona a extrema-direita e a mídia, com ênfase no protagonismo que as plataformas digitais têm assumido nesse contexto. O curso oferece ferramentas teóricas e metodológicas para pesquisar a extrema-direita, abordando suas origens históricas e fundamentos conceituais. Com uma proposta que objetiva provocar um conjunto de reflexões sobre os desafios éticos e metodológicos para a pesquisa com públicos politicamente hostis, discute-se o processo de constituição de uma identidade política reacionária, a evocação de guerras culturais e a deslegitimação da ciência e da intelectualidade. Examina-se o uso estratégico do humor, da desinformação e do discurso de ódio por esses grupos, e que tipo de riscos e desafios a pesquisa com esses sujeitos envolve. A experiência procura cotejar discussões fundamentadas em leituras e atividades de caráter laboratorial, incluindo a imersão analítica em fóruns e websites extremistas, plataformas de alt-techs, e a crítica a produtos midiáticos que versem sobre agendas e pautas popularizadas por grupos extremistas.
 
 
 ## Bibliografia Resumida
@@ -49,7 +49,7 @@ Apresentação do Curso.
 
 Unidade I: Origens da Extrema-Direita
 
-Aula: Definição de Direita e Extrema-Direita. Fundamentos Históricos e Teóricos. Conceitos Importantes: Autoritarismo, Totalitarismo, Populismo.
+Aula: Mapeando o objeto: definições de direita e extrema-direita; fundamentos históricos e teóricos. Conceitos-chave: autoritarismo, totalitarismo, populismo, e suas implicações analíticas.
 
 Leituras Recomendadas
 {: .label .label-purple } 
@@ -72,7 +72,7 @@ Atividade
 
 Unidade I: Origens da Extrema-Direita
 
-Aula: Propaganda Política e Regimes Autoritários. 
+Aula: Propaganda e regimes autoritários: como estudar narrativas persuasivas e mecanismos de controle simbólico.
 
 ---
 
@@ -80,7 +80,7 @@ Aula: Propaganda Política e Regimes Autoritários.
 
 Unidade II: Cultura Política
 
-Aula: Reacionarismo. Contrapúblicos de Direita.
+Aula: Cultura e reacionarismo: análise de discurso e a construção de identidades em contrapúblicos de direita.
 
 ---
 
@@ -88,7 +88,7 @@ Aula: Reacionarismo. Contrapúblicos de Direita.
 
 Unidade II: Cultura Política
 
-Aula: Mito e Política. Guerras Culturais. Cultura Anti-Woke.
+Aula: Mito, política e guerras culturais: como investigar narrativas e disputas de valores (cultura anti-woke, ideologia de gênero etc).
 
 ---
 
@@ -96,7 +96,7 @@ Aula: Mito e Política. Guerras Culturais. Cultura Anti-Woke.
 
 Unidade II: Cultura Política
 
-Aula: Anti-Intelectualismo e Crise Epistêmica.
+Aula: Anti-intelectualismo: a pesquisa sobre crises epistêmicas e deslegitimação de regimes de saber.
 
 ---
 
@@ -104,7 +104,7 @@ Aula: Anti-Intelectualismo e Crise Epistêmica.
 
 Unidade III: Participação Política
 
-Aula: Ativismo de Direita.
+Aula: Ativismo de direita: como mapear atores, redes e ações coletivas.
 
 ---
 
@@ -130,7 +130,7 @@ Aula: Ativismo de Direita.
 
 Unidade III: Participação Política
 
-Aula: Politização e Despolitização.
+Aula: Politização e despolitização: estudos de dinâmicas de engajamento e apatia política.
 
 ---
 
@@ -140,7 +140,7 @@ Aula: Politização e Despolitização.
 
 Unidade III: Ecossistemas Midiáticos
 
-Aula: Extrema-Direita e Plataformas Digitais I. Redes de Mídia Alternativa e Alt-Techs.
+Aula: Extrema-Direita e Plataformas Digitais I. Redes de mídia alternativa e alt-techs: métodos para pesquisar plataformas digitais e comunidades online de direita.
 
 ---
 
@@ -148,7 +148,7 @@ Aula: Extrema-Direita e Plataformas Digitais I. Redes de Mídia Alternativa e Al
 
 Unidade III: Ecossistemas Midiáticos
 
-Aula: Extrema-Direita e Plataformas Digitais II. Desinformação e Redes Transnacionais.
+Aula: Extrema-Direita e Plataformas Digitais II. Desinformação e redes transnacionais: técnicas de monitoramento para a pesquisa em grupos extremistas.
 
 ---
 
@@ -156,7 +156,7 @@ Aula: Extrema-Direita e Plataformas Digitais II. Desinformação e Redes Transna
 
 Unidade III: Ecossistemas Midiáticos
 
-Aula: Extrema-Direita e Plataformas Digitais III. Humor e Discurso de Ódio.
+Aula: Extrema-Direita e Plataformas Digitais III. Risco e discurso de ódio: desafios éticos para a pesquisa com públicos politicamente hostis.
 
 ---
 
