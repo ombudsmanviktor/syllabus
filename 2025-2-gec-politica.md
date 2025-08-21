@@ -23,7 +23,7 @@ Fundamentos clássicos da Comunicação Política: democracia e aristocracia, ve
 
 <img src="./gec00052_qr.png" width="230">
 
-- [Grupo de WhatsApp](https://chat.whatsapp.com/BDw8IMh3d2nEGGtT5RAbB0)
+- [Grupo de WhatsApp](https://chat.whatsapp.com/JIiuOR60az23pI6eMm7hLS?mode=ems_copy_t)
 
 - [Pasta de Textos](http://bit.ly/gec00052_textos)
 
