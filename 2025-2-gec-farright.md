@@ -26,11 +26,9 @@ Ooo
 
 ## Recursos da Disciplina
 
-<img src="./metdig_qr.jpeg" width="230">
-
 - [Pasta de Textos](https://drive.google.com/drive/folders/1HNUwKtBeOOWE0hLQUkqYvsWWf1cVlhgC?usp=drive_link)
 - 
-- [Google Classroom](https://classroom.google.com/c/NzYyNTA3MTY0MDY2?cjc=zyt2l3ry)
+- [WhatsApp](https://classroom.google.com/c/NzYyNTA3MTY0MDY2?cjc=zyt2l3ry)
 
 
 ## Programa de Curso
@@ -49,17 +47,19 @@ Apresentação do Curso.
 
 Unidade I: Origens da Extrema-Direita
 
-Aula: Mapeando o objeto: definições de direita e extrema-direita; fundamentos históricos e teóricos. Conceitos-chave: autoritarismo, totalitarismo, populismo, e suas implicações analíticas.
+Aula: Mapeando o objeto I: definições de direita e extrema-direita. Conceitos-chave: autoritarismo, totalitarismo, populismo, e suas implicações analíticas.
 
 Leituras Recomendadas
 {: .label .label-purple } 
 
-> Leitura 1
+> Mudde, C. (2019). The Far Right Today
+>
+> Marwick, A., Clancy, B., Furl, K. (2022). Far-Right Online Radicalization: A Review of the Literature. The Bulletin of Technology & Public Life
 
 Leituras Complementares
 {: .label .label-purple } 
 
-> Leitura 2
+> Eco, U. (1997). O Fascismo Eterno. In Eco, U. Cinco Escritos Morais
 
 Atividade
 {: .label .label-yellow } 
@@ -72,7 +72,24 @@ Atividade
 
 Unidade I: Origens da Extrema-Direita
 
-Aula: Propaganda e regimes autoritários: como estudar narrativas persuasivas e mecanismos de controle simbólico.
+Aula: Mapeando o objeto II: fundamentos históricos e teóricos.
+
+Leituras Recomendadas
+{: .label .label-purple } 
+
+> Hermansson, P., Lawrence, D., Mulhall, J., & Murdoch, S. (2020). The European roots of alt-right ideology. In Hermansson, P., Lawrence, D., Mulhall, J., & Murdoch, S. The International Alt-Right: Fascism for the 21st Century?
+> 
+> Adorno, T. W. (2020). Aspectos do Novo Radicalismo de Direita
+
+Leituras Complementares
+{: .label .label-purple } 
+
+> Reis, D. A. (2020). A Extrema-Direita Brasileira: Uma Concepção Política Autoritária em Formação
+
+Atividade
+{: .label .label-yellow } 
+
+> Atividade 1
 
 ---
 
@@ -80,7 +97,24 @@ Aula: Propaganda e regimes autoritários: como estudar narrativas persuasivas e 
 
 Unidade II: Cultura Política
 
-Aula: Cultura e reacionarismo: análise de discurso e a construção de identidades em contrapúblicos de direita.
+Aula: Cultura e reacionarismo: ondas de extremismo reacionário e a construção de identidades em contrapúblicos de direita.
+
+Leituras Recomendadas
+{: .label .label-purple } 
+
+> Norris, P., & Inglehart, R. (2018). Cultural Backlash: Trump, Brexit, and Authoritarian Populism
+>
+> Rocha, C. (2021). Menos Marx, mais Mises: O liberalismo e a nova direita no Brasil
+
+Leituras Complementares
+{: .label .label-purple } 
+
+> Nagle, A. (2017). Kill All Normies: Online Culture Wars from 4chan and Tumblr to Trump and the Alt-Right
+
+Atividade
+{: .label .label-yellow } 
+
+> Atividade 1
 
 ---
 
@@ -88,7 +122,24 @@ Aula: Cultura e reacionarismo: análise de discurso e a construção de identida
 
 Unidade II: Cultura Política
 
-Aula: Mito, política e guerras culturais: como investigar narrativas e disputas de valores (cultura anti-woke, ideologia de gênero etc).
+Aula: Guerras culturais I: a mídia como campo de disputa e narrativas contenciosas de extrema-direita (cultura anti-woke, masculinismo, ideologia de gênero etc).
+
+Leituras Recomendadas
+{: .label .label-purple } 
+
+> Hermansson, P., Lawrence, D., Mulhall, J., & Murdoch, S. (2020). Art-Right: Weaponinsing Culture. In Hermansson, P., Lawrence, D., Mulhall, J., & Murdoch, S. The International Alt-Right: Fascism for the 21st Century?
+> 
+> Chagas, V., & Massuchin, M. (2022). Repertórios e Estratégias do Ativismo Digital de Direita. In Tatagiba, L., Almeida, D. R., Lavalle, A. G., & Silva, M. K. Participação e ativismos: entre retrocessos e resistências
+
+Leituras Complementares
+{: .label .label-purple } 
+
+> 
+
+Atividade
+{: .label .label-yellow } 
+
+> Atividade 1
 
 ---
 
@@ -96,7 +147,24 @@ Aula: Mito, política e guerras culturais: como investigar narrativas e disputas
 
 Unidade II: Cultura Política
 
-Aula: Anti-intelectualismo: a pesquisa sobre crises epistêmicas e deslegitimação de regimes de saber.
+Aula: Guerras culturais II: a mídia como campo de disputa, crise epistêmica e o anti-intelectualismo de direita.
+
+Leituras Recomendadas
+{: .label .label-purple } 
+
+> Hofstadter, R. (1965). The Paranoid Style in American Politics and Other Essays
+>
+> Stefanoni, P. (2022). A rebeldia tornou-se de direita?
+
+Leituras Complementares
+{: .label .label-purple } 
+
+> 
+
+Atividade
+{: .label .label-yellow } 
+
+> Atividade 1
 
 ---
 
@@ -104,13 +172,28 @@ Aula: Anti-intelectualismo: a pesquisa sobre crises epistêmicas e deslegitimaç
 
 Unidade III: Participação Política
 
-Aula: Ativismo de direita: como mapear atores, redes e ações coletivas.
+Aula: Extremas-direitas online: ativismo digital de direita e como mapear atores e práticas.
+
+Leituras Recomendadas
+{: .label .label-purple } 
+
+> Hermansson, P., Lawrence, D., Mulhall, J., & Murdoch, S. (2020). Gaming the Algorithms: Exploitation of Social Media Platforms by the Alternative Right. In Hermansson, P., Lawrence, D., Mulhall, J., & Murdoch, S. The International Alt-Right: Fascism for the 21st Century?
+
+Leituras Complementares
+{: .label .label-purple } 
+
+> 
+
+Atividade
+{: .label .label-yellow } 
+
+> Atividade 1
 
 ---
 
 ### 14/10
 
-**AoIR (a confirmar)**
+**AoIR**
 
 ---
 
@@ -118,11 +201,13 @@ Aula: Ativismo de direita: como mapear atores, redes e ações coletivas.
 
 **Semana Acadêmica**
 
+**Visita Georgios Terzis**
+
 ---
 
 ### 28/10
 
-**Ponto Facultativo (a confirmar)**
+**FERIADO (a confirmar)**
 
 ---
 
@@ -132,15 +217,36 @@ Unidade III: Participação Política
 
 Aula: Politização e despolitização: estudos de dinâmicas de engajamento e apatia política.
 
+(REPRESENTAÇÕES VISUAIS e COMPORTAMENTOS: MAIK FIELITZ E CHAGAS & BARROS)
+
 ---
 
 ### 11/11
 
-**Palestra UFMT (a confirmar)**
+**Seminário História Cultural e Humor**
+
+**AULA CARLOS**
 
 Unidade III: Ecossistemas Midiáticos
 
 Aula: Extrema-Direita e Plataformas Digitais I. Redes de mídia alternativa e alt-techs: métodos para pesquisar plataformas digitais e comunidades online de direita.
+
+Leituras Recomendadas
+{: .label .label-purple } 
+
+> Holt, L. (2020). Right-Wing Alternative Media
+>
+> Hermansson, P., Lawrence, D., Mulhall, J., & Murdoch, S. (2020). Alt-Tech: Co-Opting and Creating Digital Spaces. In Hermansson, P., Lawrence, D., Mulhall, J., & Murdoch, S. The International Alt-Right: Fascism for the 21st Century?
+
+Leituras Complementares
+{: .label .label-purple } 
+
+> 
+
+Atividade
+{: .label .label-yellow } 
+
+> Atividade 1
 
 ---
 
@@ -150,6 +256,23 @@ Unidade III: Ecossistemas Midiáticos
 
 Aula: Extrema-Direita e Plataformas Digitais II. Desinformação e redes transnacionais: técnicas de monitoramento para a pesquisa em grupos extremistas.
 
+Leituras Recomendadas
+{: .label .label-purple } 
+
+> Culloty, E., & Suiter, J. (2021). Bad Actors. In Culloty, E., & Suiter, J. Disinformation and Manipulation in Digital Media
+>
+> Hermansson, P., Lawrence, D., Mulhall, J., & Murdoch, S. (2020). A Global Anti-Globalist Movement: The Alternative Right, Globalisation and 'Globalism'. In Hermansson, P., Lawrence, D., Mulhall, J., & Murdoch, S. The International Alt-Right: Fascism for the 21st Century?
+
+Leituras Complementares
+{: .label .label-purple } 
+
+> 
+
+Atividade
+{: .label .label-yellow } 
+
+> Atividade 1
+
 ---
 
 ### 25/11
@@ -157,6 +280,8 @@ Aula: Extrema-Direita e Plataformas Digitais II. Desinformação e redes transna
 Unidade III: Ecossistemas Midiáticos
 
 Aula: Extrema-Direita e Plataformas Digitais III. Risco e discurso de ódio: desafios éticos para a pesquisa com públicos politicamente hostis.
+
+(COVERT RESEARCH & MANUAL COMO ESTUDAR)
 
 ---
 
@@ -176,6 +301,6 @@ Encerramento do curso II.
 
 ### 16/12
 
-**Livre**
+**LIVRE**
 
 ---
