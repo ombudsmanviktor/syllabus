@@ -14,6 +14,8 @@ Período Letivo: 2025.2
 
 Horário: Quintas-feiras às 14h
 
+Sala: J11D
+
 ## Ementa
 
 Fundamentos clássicos da Comunicação Política: democracia e aristocracia, verdade e argumentação. O Estado Moderno e a construção da política como campo especializado. O governo representativo e o problema da cidadania. Meios de comunicação e opinião pública. Meios de comunicação frente às instituições políticas: governo, partidos e campanhas eleitorais.
