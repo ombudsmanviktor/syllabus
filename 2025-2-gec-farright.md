@@ -217,7 +217,7 @@ Unidade III: Participação Política
 
 Aula: Politização e despolitização: estudos de dinâmicas de engajamento e apatia política.
 
-(REPRESENTAÇÕES VISUAIS e COMPORTAMENTOS: MAIK FIELITZ E CHAGAS & BARROS)
+(REPRESENTAÇÕES VISUAIS e COMPORTAMENTOS: MAIK FIELITZ E CHAGAS & BARROS) E CESARINO
 
 ---
 
