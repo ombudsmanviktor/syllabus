@@ -26,6 +26,8 @@ Na última década e meia, o Brasil e várias regiões do mundo viram ressurgir 
 Trabalho Final:
 
 * Análise Exploratória de Plataformas de Alt-Tech: TRUTH Social, BitChute, Rumble, Gab, Parler, GiveSendGo.
+* Análise Interpretativa de Imagens: memes, vídeos.
+* Análise de Discurso em Textos: colunas, posts, livros.
 
 <!-- Nagle, A. (2017). Kill All Normies: Online Culture Wars from 4chan and Tumblr to Trump and the Alt-Right -->
 <!-- Donovan, J. -->
@@ -288,7 +290,7 @@ Leituras Recomendadas
 Atividade
 {: .label .label-yellow } 
 
-> Atividade Não Definida.
+> Análise exploratória de sites e blogs hiperpartidários.
 
 ---
 
