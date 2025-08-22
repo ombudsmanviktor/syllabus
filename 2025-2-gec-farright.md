@@ -237,6 +237,8 @@ Leituras Recomendadas
 > Holt, L. (2020). Right-Wing Alternative Media
 >
 > Hermansson, P., Lawrence, D., Mulhall, J., & Murdoch, S. (2020). Alt-Tech: Co-Opting and Creating Digital Spaces. In Hermansson, P., Lawrence, D., Mulhall, J., & Murdoch, S. The International Alt-Right: Fascism for the 21st Century?
+>
+> TEITELBAUM??
 
 Leituras Complementares
 {: .label .label-purple } 
