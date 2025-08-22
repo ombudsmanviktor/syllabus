@@ -23,6 +23,10 @@ Na última década e meia, o Brasil e várias regiões do mundo viram ressurgir 
 
 30% Atividades em Sala de Aula, 70% Trabalho Final em Grupo.
 
+Trabalho Final:
+
+* Análise Exploratória de Plataformas de Alt-Tech: TRUTH Social, BitChute, Rumble, Gab, Parler, GiveSendGo.
+
 <!-- Nagle, A. (2017). Kill All Normies: Online Culture Wars from 4chan and Tumblr to Trump and the Alt-Right -->
 <!-- Donovan, J. -->
 <!-- Teitelbaum, B. -->
@@ -106,7 +110,7 @@ Leituras Complementares
 Atividade
 {: .label .label-yellow } 
 
-> Atividade 1
+> Atividade Não Definida.
 
 ---
 
@@ -172,7 +176,7 @@ Leituras Recomendadas
 Atividade
 {: .label .label-yellow } 
 
-> Coleta de dados de livrarias digitais de direita.
+> Análise exploratória de livrarias digitais de direita.
 
 ---
 
@@ -212,7 +216,7 @@ Leituras Recomendadas
 Atividade
 {: .label .label-yellow } 
 
-> Compilado de memes de extrema-direita.
+> Análise interpretativa de memes de extrema-direita.
 
 ---
 
@@ -239,7 +243,7 @@ Leituras Complementares
 Atividade
 {: .label .label-yellow } 
 
-> Acesso de canais do Telegram de direita.
+> Análise exploratória de canais do Telegram de direita.
 
 ---
 
@@ -262,7 +266,9 @@ Leituras Complementares
 Atividade
 {: .label .label-yellow } 
 
-> Acesso à TRUTH Social.
+> Análise exploratória da TRUTH Social.
+> 
+> Apresentação de dados do OILab.
 
 ---
 
@@ -282,7 +288,7 @@ Leituras Recomendadas
 Atividade
 {: .label .label-yellow } 
 
-> Atividade 1
+> Atividade Não Definida.
 
 ---
 
@@ -302,7 +308,7 @@ Leituras Recomendadas
 Atividade
 {: .label .label-yellow } 
 
-> Atividade 1
+> Atividade Não Definida.
 
 ---
 
