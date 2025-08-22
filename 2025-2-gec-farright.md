@@ -23,6 +23,10 @@ Na última década e meia, o Brasil e várias regiões do mundo viram ressurgir 
 
 Ooo
 
+> Nagle, A. (2017). Kill All Normies: Online Culture Wars from 4chan and Tumblr to Trump and the Alt-Right
+> Donovan, J.
+> Teitelbaum, B.
+
 
 ## Recursos da Disciplina
 
@@ -53,12 +57,12 @@ Leituras Recomendadas
 {: .label .label-purple } 
 
 > Mudde, C. (2019). The Far Right Today
->
-> Marwick, A., Clancy, B., Furl, K. (2022). Far-Right Online Radicalization: A Review of the Literature. The Bulletin of Technology & Public Life
 
 Leituras Complementares
 {: .label .label-purple } 
 
+> Marwick, A., Clancy, B., Furl, K. (2022). Far-Right Online Radicalization: A Review of the Literature. The Bulletin of Technology & Public Life
+> 
 > Eco, U. (1997). O Fascismo Eterno. In Eco, U. Cinco Escritos Morais
 
 Atividade
@@ -77,13 +81,13 @@ Aula: Mapeando o objeto II: fundamentos históricos e teóricos.
 Leituras Recomendadas
 {: .label .label-purple } 
 
-> Hermansson, P., Lawrence, D., Mulhall, J., & Murdoch, S. (2020). The European roots of alt-right ideology. In Hermansson, P., Lawrence, D., Mulhall, J., & Murdoch, S. The International Alt-Right: Fascism for the 21st Century?
-> 
 > Adorno, T. W. (2020). Aspectos do Novo Radicalismo de Direita
 
 Leituras Complementares
 {: .label .label-purple } 
 
+> Hermansson, P., Lawrence, D., Mulhall, J., & Murdoch, S. (2020). The European roots of alt-right ideology. In Hermansson, P., Lawrence, D., Mulhall, J., & Murdoch, S. The International Alt-Right: Fascism for the 21st Century?
+>
 > Reis, D. A. (2020). A Extrema-Direita Brasileira: Uma Concepção Política Autoritária em Formação
 
 Atividade
@@ -103,13 +107,11 @@ Leituras Recomendadas
 {: .label .label-purple } 
 
 > Norris, P., & Inglehart, R. (2018). Cultural Backlash: Trump, Brexit, and Authoritarian Populism
->
-> Rocha, C. (2021). Menos Marx, mais Mises: O liberalismo e a nova direita no Brasil
 
 Leituras Complementares
 {: .label .label-purple } 
 
-> Nagle, A. (2017). Kill All Normies: Online Culture Wars from 4chan and Tumblr to Trump and the Alt-Right
+> Rocha, C. (2021). Menos Marx, mais Mises: O liberalismo e a nova direita no Brasil
 
 Atividade
 {: .label .label-yellow } 
@@ -127,14 +129,12 @@ Aula: Guerras culturais I: a mídia como campo de disputa e narrativas contencio
 Leituras Recomendadas
 {: .label .label-purple } 
 
-> Hermansson, P., Lawrence, D., Mulhall, J., & Murdoch, S. (2020). Art-Right: Weaponinsing Culture. In Hermansson, P., Lawrence, D., Mulhall, J., & Murdoch, S. The International Alt-Right: Fascism for the 21st Century?
-> 
 > Chagas, V., & Massuchin, M. (2022). Repertórios e Estratégias do Ativismo Digital de Direita. In Tatagiba, L., Almeida, D. R., Lavalle, A. G., & Silva, M. K. Participação e ativismos: entre retrocessos e resistências
 
 Leituras Complementares
 {: .label .label-purple } 
 
-> 
+> Hermansson, P., Lawrence, D., Mulhall, J., & Murdoch, S. (2020). Art-Right: Weaponinsing Culture. In Hermansson, P., Lawrence, D., Mulhall, J., & Murdoch, S. The International Alt-Right: Fascism for the 21st Century?
 
 Atividade
 {: .label .label-yellow } 
@@ -170,14 +170,16 @@ Atividade
 
 ### 07/10
 
-Unidade III: Participação Política
+Unidade II: Cultura Política
 
-Aula: Extremas-direitas online: ativismo digital de direita e como mapear atores e práticas.
+Aula: Extremas-direitas, imagens e imaginários: representações de mitos reacionários.
 
 Leituras Recomendadas
 {: .label .label-purple } 
 
-> Hermansson, P., Lawrence, D., Mulhall, J., & Murdoch, S. (2020). Gaming the Algorithms: Exploitation of Social Media Platforms by the Alternative Right. In Hermansson, P., Lawrence, D., Mulhall, J., & Murdoch, S. The International Alt-Right: Fascism for the 21st Century?
+> Bogerts, L., & Fielitz, M. (2019). "Do You Want Meme War?" Understanding the Visual Memes of the German Far Right. In Fielitz, M., & Thurston, N. Post-Digital Cultures of the Far Right Online Actions and Offline Consequences in Europe and the US
+>
+> Chagas, V. (2024). Quiddity and universality: the transnational origins of humorous far-right memes. European Journal of Humour Research, 12(3).
 
 Leituras Complementares
 {: .label .label-purple } 
@@ -188,6 +190,7 @@ Atividade
 {: .label .label-yellow } 
 
 > Atividade 1
+
 
 ---
 
@@ -215,9 +218,23 @@ Atividade
 
 Unidade III: Participação Política
 
-Aula: Politização e despolitização: estudos de dinâmicas de engajamento e apatia política.
+Aula: Extrema-Direita e Plataformas Digitais I: Operações de influência e algoritmização da política.
 
-(REPRESENTAÇÕES VISUAIS e COMPORTAMENTOS: MAIK FIELITZ E CHAGAS & BARROS ou CHAGAS EJHR ou DONOVAN) E CESARINO
+Leituras Recomendadas
+{: .label .label-purple } 
+
+> Hermansson, P., Lawrence, D., Mulhall, J., & Murdoch, S. (2020). Gaming the Algorithms: Exploitation of Social Media Platforms by the Alternative Right. In Hermansson, P., Lawrence, D., Mulhall, J., & Murdoch, S. The International Alt-Right: Fascism for the 21st Century?
+
+Leituras Complementares
+{: .label .label-purple } 
+
+> Cesarino, L. (2022). O Mundo do Avesso: Verdade e Política na Era Digital 
+
+Atividade
+{: .label .label-yellow } 
+
+> Atividade 1
+
 
 ---
 
@@ -229,21 +246,17 @@ Aula: Politização e despolitização: estudos de dinâmicas de engajamento e a
 
 Unidade III: Ecossistemas Midiáticos
 
-Aula: Extrema-Direita e Plataformas Digitais I. Redes de mídia alternativa e alt-techs: métodos para pesquisar plataformas digitais e comunidades online de direita.
+Aula: Extrema-Direita e Plataformas Digitais II: Redes de mídia alternativa e alt-techs: métodos para pesquisar plataformas digitais e comunidades online de direita.
 
 Leituras Recomendadas
 {: .label .label-purple } 
 
 > Holt, L. (2020). Right-Wing Alternative Media
->
-> Hermansson, P., Lawrence, D., Mulhall, J., & Murdoch, S. (2020). Alt-Tech: Co-Opting and Creating Digital Spaces. In Hermansson, P., Lawrence, D., Mulhall, J., & Murdoch, S. The International Alt-Right: Fascism for the 21st Century?
->
-> TEITELBAUM??
 
 Leituras Complementares
 {: .label .label-purple } 
 
-> 
+> Hermansson, P., Lawrence, D., Mulhall, J., & Murdoch, S. (2020). Alt-Tech: Co-Opting and Creating Digital Spaces. In Hermansson, P., Lawrence, D., Mulhall, J., & Murdoch, S. The International Alt-Right: Fascism for the 21st Century?
 
 Atividade
 {: .label .label-yellow } 
@@ -256,7 +269,7 @@ Atividade
 
 Unidade III: Ecossistemas Midiáticos
 
-Aula: Extrema-Direita e Plataformas Digitais II. Desinformação e redes transnacionais: técnicas de monitoramento para a pesquisa em grupos extremistas.
+Aula: Extrema-Direita e Plataformas Digitais III: Desinformação e redes transnacionais: técnicas de monitoramento para a pesquisa em grupos extremistas.
 
 Leituras Recomendadas
 {: .label .label-purple } 
@@ -265,10 +278,10 @@ Leituras Recomendadas
 >
 > Hermansson, P., Lawrence, D., Mulhall, J., & Murdoch, S. (2020). A Global Anti-Globalist Movement: The Alternative Right, Globalisation and 'Globalism'. In Hermansson, P., Lawrence, D., Mulhall, J., & Murdoch, S. The International Alt-Right: Fascism for the 21st Century?
 
+
 Leituras Complementares
 {: .label .label-purple } 
 
-> 
 
 Atividade
 {: .label .label-yellow } 
@@ -279,11 +292,25 @@ Atividade
 
 ### 25/11
 
-Unidade III: Ecossistemas Midiáticos
+Unidade IV: Extrema-Direita e Pesquisa
 
-Aula: Extrema-Direita e Plataformas Digitais III. Risco e discurso de ódio: desafios éticos para a pesquisa com públicos politicamente hostis.
+Aula: Extrema-Direita e Pesquisa. Risco e discurso de ódio: desafios éticos para a pesquisa com públicos politicamente hostis.
 
-(COVERT RESEARCH & MANUAL COMO ESTUDAR)
+Leituras Recomendadas
+{: .label .label-purple } 
+
+> Chagas, V. (2025). Covert Research in Politically Hostile Digital Environments. In Compós 2025
+>
+> Wieviorka, M. (2019). The specificities of researching evil. In Toscano, E. Researching Far-Right Movements Ethics, Methodologies, and Qualitative Inquiries
+
+Leituras Complementares
+{: .label .label-purple } 
+
+>
+Atividade
+{: .label .label-yellow } 
+
+> Atividade 1
 
 ---
 
