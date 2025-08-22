@@ -19,20 +19,20 @@ Horário: Terças-feiras às 18h
 Na última década e meia, o Brasil e várias regiões do mundo viram ressurgir o apoio a lideranças políticas e pautas historicamente associadas à extrema-direita. Esta disciplina procura refletir sobre o panorama que relaciona a extrema-direita e a mídia, com ênfase no protagonismo que as plataformas digitais têm assumido nesse contexto. O curso oferece ferramentas teóricas e epistemológicas para pesquisar a extrema-direita, abordando suas origens históricas e fundamentos conceituais. Com uma proposta que objetiva provocar um conjunto de reflexões sobre as questões éticas e metodológicas para a pesquisa com públicos politicamente hostis, discute-se o processo de constituição de uma identidade política reacionária, a evocação de guerras culturais e a deslegitimação da ciência e da intelectualidade. Examina-se o uso estratégico do humor, da desinformação e do discurso de ódio por esses grupos, e que tipo de riscos e desafios a pesquisa com esses sujeitos envolve. A experiência procura cotejar discussões fundamentadas em leituras e atividades de caráter laboratorial, incluindo a imersão analítica em fóruns e websites extremistas, plataformas de alt-techs, e a crítica a produtos midiáticos que versem sobre agendas e pautas popularizadas por grupos extremistas.
 
 
-## Bibliografia Resumida
+## Avaliação
 
-Ooo
+30% Atividades em Sala de Aula, 70% Trabalho Final em Grupo.
 
-> Nagle, A. (2017). Kill All Normies: Online Culture Wars from 4chan and Tumblr to Trump and the Alt-Right
-> Donovan, J.
-> Teitelbaum, B.
+<!-- Nagle, A. (2017). Kill All Normies: Online Culture Wars from 4chan and Tumblr to Trump and the Alt-Right -->
+<!-- Donovan, J. -->
+<!-- Teitelbaum, B. -->
 
 
 ## Recursos da Disciplina
 
-- [Pasta de Textos](https://drive.google.com/drive/folders/1HNUwKtBeOOWE0hLQUkqYvsWWf1cVlhgC?usp=drive_link)
-- 
-- [WhatsApp](https://classroom.google.com/c/NzYyNTA3MTY0MDY2?cjc=zyt2l3ry)
+- [Pasta de Textos](https://drive.google.com/drive/folders/1VQ5S27ypzRuVTo6uEhpkpAvSLM_qGkmu?usp=sharing)
+  
+- [WhatsApp](https://chat.whatsapp.com/JzPpCG2YqtxJCEKsbgj0A6)
 
 
 ## Programa de Curso
@@ -41,13 +41,26 @@ Ooo
 
 Semana Inaugural.
 
+---
+
 ### 26/08
 
-Apresentação do Curso.
+**LIVRE**
 
 ---
 
 ### 02/09
+
+Apresentação do Curso.
+
+Atividade
+{: .label .label-yellow } 
+
+> Testes de afinidade ideológica.
+
+---
+
+### 09/09
 
 Unidade I: Origens da Extrema-Direita
 
@@ -68,11 +81,11 @@ Leituras Complementares
 Atividade
 {: .label .label-yellow } 
 
-> Atividade 1
+> Identificação de políticos por votações nominais e proposições.
 
 ---
 
-### 09/09
+### 16/09
 
 Unidade I: Origens da Extrema-Direita
 
@@ -97,7 +110,7 @@ Atividade
 
 ---
 
-### 16/09
+### 23/09
 
 Unidade II: Cultura Política
 
@@ -116,11 +129,11 @@ Leituras Complementares
 Atividade
 {: .label .label-yellow } 
 
-> Atividade 1
+> Compilado de vídeos de Olavo de Carvalho e vlogueiros de direita.
 
 ---
 
-### 23/09
+### 30/09
 
 Unidade II: Cultura Política
 
@@ -139,11 +152,11 @@ Leituras Complementares
 Atividade
 {: .label .label-yellow } 
 
-> Atividade 1
+> Compilado de vídeos masculinistas.
 
 ---
 
-### 30/09
+### 07/10
 
 Unidade II: Cultura Política
 
@@ -156,41 +169,10 @@ Leituras Recomendadas
 >
 > Stefanoni, P. (2022). A rebeldia tornou-se de direita?
 
-Leituras Complementares
-{: .label .label-purple } 
-
-> 
-
 Atividade
 {: .label .label-yellow } 
 
-> Atividade 1
-
----
-
-### 07/10
-
-Unidade II: Cultura Política
-
-Aula: Extremas-direitas, imagens e imaginários: representações de mitos reacionários.
-
-Leituras Recomendadas
-{: .label .label-purple } 
-
-> Bogerts, L., & Fielitz, M. (2019). "Do You Want Meme War?" Understanding the Visual Memes of the German Far Right. In Fielitz, M., & Thurston, N. Post-Digital Cultures of the Far Right Online Actions and Offline Consequences in Europe and the US
->
-> Chagas, V. (2024). Quiddity and universality: the transnational origins of humorous far-right memes. European Journal of Humour Research, 12(3).
-
-Leituras Complementares
-{: .label .label-purple } 
-
-> 
-
-Atividade
-{: .label .label-yellow } 
-
-> Atividade 1
-
+> Coleta de dados de livrarias digitais de direita.
 
 ---
 
@@ -216,6 +198,30 @@ Atividade
 
 ### 04/11
 
+Unidade II: Cultura Política
+
+Aula: Extremas-direitas, imagens e imaginários: representações de mitos reacionários.
+
+Leituras Recomendadas
+{: .label .label-purple } 
+
+> Bogerts, L., & Fielitz, M. (2019). "Do You Want Meme War?" Understanding the Visual Memes of the German Far Right. In Fielitz, M., & Thurston, N. Post-Digital Cultures of the Far Right Online Actions and Offline Consequences in Europe and the US
+>
+> Chagas, V. (2024). Quiddity and universality: the transnational origins of humorous far-right memes. European Journal of Humour Research, 12(3).
+
+Atividade
+{: .label .label-yellow } 
+
+> Compilado de memes de extrema-direita.
+
+---
+
+### 11/11
+
+**Seminário História Cultural e Humor**
+
+**AULA CARLOS**
+
 Unidade III: Participação Política
 
 Aula: Extrema-Direita e Plataformas Digitais I: Operações de influência e algoritmização da política.
@@ -233,16 +239,11 @@ Leituras Complementares
 Atividade
 {: .label .label-yellow } 
 
-> Atividade 1
-
+> Acesso de canais do Telegram de direita.
 
 ---
 
-### 11/11
-
-**Seminário História Cultural e Humor**
-
-**AULA CARLOS**
+### 18/11
 
 Unidade III: Ecossistemas Midiáticos
 
@@ -261,11 +262,11 @@ Leituras Complementares
 Atividade
 {: .label .label-yellow } 
 
-> Atividade 1
+> Acesso à TRUTH Social.
 
 ---
 
-### 18/11
+### 25/11
 
 Unidade III: Ecossistemas Midiáticos
 
@@ -278,11 +279,6 @@ Leituras Recomendadas
 >
 > Hermansson, P., Lawrence, D., Mulhall, J., & Murdoch, S. (2020). A Global Anti-Globalist Movement: The Alternative Right, Globalisation and 'Globalism'. In Hermansson, P., Lawrence, D., Mulhall, J., & Murdoch, S. The International Alt-Right: Fascism for the 21st Century?
 
-
-Leituras Complementares
-{: .label .label-purple } 
-
-
 Atividade
 {: .label .label-yellow } 
 
@@ -290,7 +286,7 @@ Atividade
 
 ---
 
-### 25/11
+### 02/12
 
 Unidade IV: Extrema-Direita e Pesquisa
 
@@ -303,10 +299,6 @@ Leituras Recomendadas
 >
 > Wieviorka, M. (2019). The specificities of researching evil. In Toscano, E. Researching Far-Right Movements Ethics, Methodologies, and Qualitative Inquiries
 
-Leituras Complementares
-{: .label .label-purple } 
-
->
 Atividade
 {: .label .label-yellow } 
 
@@ -314,22 +306,16 @@ Atividade
 
 ---
 
-### 02/12
-
-Encerramento do curso I.
-
----
-
 
 ### 09/12
 
-Encerramento do curso II.
+Encerramento do curso.
 
 ---
 
 
 ### 16/12
 
-**LIVRE**
+**ENTREGA DE TRABALHOS**
 
 ---
