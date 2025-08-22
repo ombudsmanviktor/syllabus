@@ -60,7 +60,7 @@ Apresentação do Curso.
 Atividade
 {: .label .label-yellow } 
 
-> Testes de afinidade ideológica.
+> Testes de afinidade ideológica: [1](https://www.idrlabs.com/nolan-chart/test.php), [2](https://www.idrlabs.com/alt-right/test.php), e [3](https://www.idrlabs.com/pt/esquerda-direita-politica/teste.php).
 
 ---
 
