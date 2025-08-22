@@ -191,12 +191,18 @@ THOMPSON, John. O escândalo político. Capítulo I.
 
 ### 20/11
 
+**FERIADO**
+
+---
+
+### 27/11
+
 PROVA 2
 {: .label .label-red }
 
 ---
 
-### 27/11
+### 04/12
 
 Internet e participação política.
 
@@ -209,16 +215,10 @@ STROMER-GALLEY, Jennifer. Interação online e por que os candidatos a evitam. I
 
 ---
 
-### 04/12
+### 11/12
 
 PROVA 3
 {: .label .label-purple }
-
----
-
-### 11/12
-
-**LIVRE**
 
 ---
 
