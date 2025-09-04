@@ -38,7 +38,7 @@ Trabalho Final:
 
 - [Pasta de Textos](https://drive.google.com/drive/folders/1VQ5S27ypzRuVTo6uEhpkpAvSLM_qGkmu?usp=sharing)
   
-- [WhatsApp](https://chat.whatsapp.com/JzPpCG2YqtxJCEKsbgj0A6)
+- [Discord](https://discord.gg/qv4wDrEr)
 
 
 ## Programa de Curso
