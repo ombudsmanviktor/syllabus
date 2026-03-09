@@ -210,7 +210,7 @@ STROMER-GALLEY, Jennifer. Interação online e por que os candidatos a evitam. I
 ### 25/06
 
 PROVA 3
-{: .label .label-purple }
+{: .label .label-red }
 
 ---
 
