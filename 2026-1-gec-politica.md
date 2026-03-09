@@ -8,9 +8,9 @@ layout: home
 
 # Introdução à Comunicação Política
 
-Professor: Viktor Chagas [✉️](mailto:viktor@midia.uff.br?subject=[Comunicação Política]) e Felipe Santos
+Professor: Viktor Chagas [✉️](mailto:viktor@midia.uff.br?subject=[Comunicação Política]) e Clara Balbi
 
-Período Letivo: 2025.2
+Período Letivo: 2026.1
 
 Horário: Quintas-feiras às 14h
 
@@ -23,26 +23,20 @@ Fundamentos clássicos da Comunicação Política: democracia e aristocracia, ve
 
 ## Recursos da Disciplina
 
-- [Grupo de WhatsApp](https://chat.whatsapp.com/JIiuOR60az23pI6eMm7hLS?mode=ems_copy_t)
+- [Grupo de WhatsApp](https://chat.whatsapp.com/JiOcRbslvwa7f1hKBk3JaR)
 
 - [Pasta de Textos](http://bit.ly/gec00052_textos)
 
 
 ## Programa de Curso
 
-### 21/08
+### 12/03
 
 **SEMANA INAUGURAL**
 
 ---
 
-### 28/08
-
-**LIVRE**
-
----
-
-### 04/09
+### 19/03
 
 Conhecimento, poder e democracia I.
 
@@ -58,7 +52,7 @@ FILME SURPRESA
 
 ---
 
-### 11/09
+### 26/03
 
 Conhecimento, poder e democracia II.
 
@@ -71,7 +65,9 @@ PLATÃO. A República. Livro VII (O mito da caverna).
 
 ---
 
-### 18/09
+### 02/04
+
+**QUINTA-FEIRA SANTA NÃO EXISTE**
 
 Filosofia política moderna.
 
@@ -84,7 +80,7 @@ MAQUIAVEL. Discorsi. Livro I, capítulos: I a X, XXXIX, LVI a LVIII; Livro III, 
 
 ---
 
-### 25/09
+### 09/04
 
 Contrato social.
 
@@ -97,9 +93,7 @@ ROUSSEAU, Jean-Jacques. O contrato social. Livro I, capítulos: I a IX.
 
 ---
 
-### 02/10
-
-**(III SOPAPO 10h às 12h)**
+### 16/04
 
 Associativismo e liberdade de expressão.
 
@@ -110,7 +104,13 @@ TOCQUEVILLE, Alexis de. Democracia na América. Livro I, segunda parte, capítul
 
 ---
 
-### 09/10
+### 23/04
+
+**FERIADO**
+
+---
+
+### 30/04
 
 Representação política.
 
@@ -129,21 +129,9 @@ PROVA 1
 
 ---
 
-### 16/10
+### 07/05
 
-**LIVRE (AOIR)**
-
----
-
-### 23/10
-
-**LIVRE (SEMANA ACADÊMICA)**
-
----
-
-### 30/10
-
-**AULA FELIPE**
+**[AULA CLARA]**
 
 Esfera pública I.
 
@@ -154,7 +142,7 @@ HABERMAS, Jürgen. Mudança estrutural da esfera pública. Capítulo VI, parágr
 
 ---
 
-### 06/11
+### 14/05
 
 Esfera pública II.
 
@@ -163,7 +151,9 @@ Leituras Recomendadas
 
 HABERMAS, Jürgen. Mudança estrutural da esfera pública. Capítulo VI, parágrafos 16 e 20.
 
-*[INTERVALO]*
+---
+
+### 21/05
 
 Opinião pública.
 
@@ -176,9 +166,7 @@ PARK, Robert. Notícia e poder da imprensa.
 
 ---
 
-### 13/11
-
-**AULA FELIPE (HISTÓRIA CULTURA E HUMOR)**
+### 28/05
 
 Escândalo político.
 
@@ -189,20 +177,24 @@ THOMPSON, John. O escândalo político. Capítulo I.
 
 ---
 
-### 20/11
+### 04/06
 
 **FERIADO**
 
 ---
 
-### 27/11
+### 11/06
+
+**COMPÓS**
 
 PROVA 2
 {: .label .label-red }
 
 ---
 
-### 04/12
+### 18/06
+
+**[AULA CLARA]**
 
 Internet e participação política.
 
@@ -215,16 +207,22 @@ STROMER-GALLEY, Jennifer. Interação online e por que os candidatos a evitam. I
 
 ---
 
-### 11/12
+### 25/06
 
 PROVA 3
 {: .label .label-purple }
 
 ---
 
-### 18/12
+### 02/07
 
 **LIVRE**
+
+---
+
+### 09/07
+
+**ISHS 2026**
 
 ---
 
