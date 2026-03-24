@@ -1,0 +1,90 @@
+# -------------------------------------------------------
+# DecapCMS — Configuração para ombudsmanviktor/syllabus
+# -------------------------------------------------------
+
+backend:
+  name: github
+  repo: ombudsmanviktor/syllabus
+  branch: main
+  site_domain: SUBSTITUIR-PELO-NOME-DO-SITE.netlify.app
+  base_url: https://api.netlify.com
+  auth_endpoint: auth
+
+# Onde os arquivos de mídia (imagens) serão armazenados no repositório
+media_folder: assets/uploads
+public_folder: /assets/uploads
+
+# Idioma da interface do CMS
+locale: pt
+
+# -------------------------------------------------------
+# Coleções
+# -------------------------------------------------------
+
+collections:
+
+  # --- Ementas de cursos (arquivos .md na raiz do repositório) ---
+  - name: ementas
+    label: Ementas
+    label_singular: Ementa
+    folder: .
+    extension: md
+    format: frontmatter
+    create: true
+    slug: "{{slug}}"
+    filter:
+      field: layout
+      value: home
+    editor:
+      preview: false
+    fields:
+      - label: Título
+        name: title
+        widget: string
+        hint: "Nome da disciplina, ex: Métodos Digitais"
+
+      - label: Layout
+        name: layout
+        widget: hidden
+        default: home
+
+      - label: Tem filhos
+        name: has_children
+        widget: hidden
+        default: false
+
+      - label: Mostrar índice (TOC)
+        name: has_toc
+        widget: boolean
+        default: true
+
+      - label: Ordem na navegação
+        name: nav_order
+        widget: number
+        default: 2
+        value_type: int
+        hint: "Define a posição no menu lateral. Mantenha 2 para seguir o padrão existente."
+
+      - label: Conteúdo
+        name: body
+        widget: markdown
+
+  # --- Página inicial ---
+  - name: paginas
+    label: Páginas
+    label_singular: Página
+    files:
+      - label: Página Inicial
+        name: index
+        file: index.md
+        fields:
+          - label: Título
+            name: title
+            widget: string
+          - label: Layout
+            name: layout
+            widget: hidden
+            default: home
+          - label: Conteúdo
+            name: body
+            widget: markdown
