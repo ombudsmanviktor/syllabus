@@ -6,9 +6,8 @@ backend:
   name: github
   repo: ombudsmanviktor/syllabus
   branch: main
-  site_domain: lustrous-boba-c362e3.netlify.app
-  base_url: https://api.netlify.com
-  auth_endpoint: auth
+  auth_type: pkce
+  app_id: Ov23li90O99hobIjTF8O
 
 # Onde os arquivos de mídia (imagens) serão armazenados no repositório
 media_folder: assets/uploads
