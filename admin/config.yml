@@ -1,16 +1,11 @@
 # -------------------------------------------------------
-# DecapCMS — Configuração para ombudsmanviktor/syllabus
+# Sveltia CMS — Configuração para ombudsmanviktor/syllabus
 # -------------------------------------------------------
 
 backend:
   name: github
   repo: ombudsmanviktor/syllabus
   branch: main
-  auth_type: pkce
-  app_id: Ov23li90O99hobIjTF8O
-  base_url: https://api.netlify.com
-  site_domain: lustrous-boba-c362e3.netlify.app
-  auth_endpoint: auth
 
 # Onde os arquivos de mídia (imagens) serão armazenados no repositório
 media_folder: assets/uploads
