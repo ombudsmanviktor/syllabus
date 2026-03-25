@@ -6,7 +6,7 @@ backend:
   name: github
   repo: ombudsmanviktor/syllabus
   branch: main
-  site_domain: SUBSTITUIR-PELO-NOME-DO-SITE.netlify.app
+  site_domain: lustrous-boba-c362e3.netlify.app
   base_url: https://api.netlify.com
   auth_endpoint: auth
 
