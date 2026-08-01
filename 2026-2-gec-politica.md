@@ -37,32 +37,42 @@ Fundamentos clássicos da Comunicação Política: democracia e aristocracia, ve
 Filme Surpresa
 {: .label .label-red }
 
-**Referências:**
-- [Obrigatório] O que é o poder? (Introdução, cap. 1 e cap. 2) — Gerárd LeBrun
-- [Obrigatório] A República. Livro VII (O mito da caverna) — Platão
+Leituras Recomendadas
+{: .label .label-purple } 
+
+- O que é o poder? (Introdução, cap. 1 e cap. 2) — Gerárd LeBrun
+- A República. Livro VII (O mito da caverna) — Platão
 
 ### 20/08/2026 — Conhecimento, poder e democracia II
 
-**Referências:**
-- [Obrigatório] O que é o poder? (Introdução, cap. 1 e cap. 2) — Gerárd LeBrun
-- [Obrigatório] A República. Livro VII (O mito da caverna) — Platão
+Leituras Recomendadas
+{: .label .label-purple } 
+
+- O que é o poder? (Introdução, cap. 1 e cap. 2) — Gerárd LeBrun
+- A República. Livro VII (O mito da caverna) — Platão
 
 ### 27/08/2026 — Filosofia política moderna
 
-**Referências:**
-- [Obrigatório] O Príncipe. Livros I a VIII, XIV a XVIII — Nicolau Maquiavel
-- [Obrigatório] Discorsi. Livro I, capítulos: I a X, XXXIX, LVI a LVIII; Livro III, capítulos: I, IV a VI — Nicolau Maquiavel
+Leituras Recomendadas
+{: .label .label-purple } 
+
+- O Príncipe. Livros I a VIII, XIV a XVIII — Nicolau Maquiavel
+- Discorsi. Livro I, capítulos: I a X, XXXIX, LVI a LVIII; Livro III, capítulos: I, IV a VI — Nicolau Maquiavel
 
 ### 03/09/2026 — Contrato Social
 
-**Referências:**
-- [Obrigatório] O Leviatã. Capítulos XIII e XIV — Thomas Hobbes
-- [Obrigatório] O contrato social. Livro I, capítulos: I a IX — Jean-Jacques Rousseau
+Leituras Recomendadas
+{: .label .label-purple } 
+
+- O Leviatã. Capítulos XIII e XIV — Thomas Hobbes
+- O contrato social. Livro I, capítulos: I a IX — Jean-Jacques Rousseau
 
 ### 10/09/2026 — Associativismo e liberdade de expressão
 
-**Referências:**
-- [Obrigatório] Democracia na América. Livro I, segunda parte, capítulos III e IV; Livro II, segunda parte, capítulos II a VII — Alexis de Tocqueville
+Leituras Recomendadas
+{: .label .label-purple } 
+
+- Democracia na América. Livro I, segunda parte, capítulos III e IV; Livro II, segunda parte, capítulos II a VII — Alexis de Tocqueville
 
 ### 17/09/2026 — Representação política + Prova 1
 
@@ -72,29 +82,37 @@ Filme Surpresa
 Prova 1
 {: .label .label-red }
 
-**Referências:**
-- [Obrigatório] Representação: palavras, instituições e idéias — Hanna Pitkin
-- [Obrigatório] As metamorfoses do governo representativo — Bernard Manin
+Leituras Recomendadas
+{: .label .label-purple } 
+
+- Representação: palavras, instituições e idéias — Hanna Pitkin
+- As metamorfoses do governo representativo — Bernard Manin
 
 ### 24/09/2026 — Esfera pública I
 
-**Referências:**
-- [Obrigatório] Mudança estrutural da esfera pública. Capítulo VI, parágrafos 16 e 20 — Jürgen Habermas
+Leituras Recomendadas
+{: .label .label-purple } 
+
+- Mudança estrutural da esfera pública. Capítulo VI, parágrafos 16 e 20 — Jürgen Habermas
 
 ### 01/10/2026 — Esfera pública II
 
 ### 08/10/2026 — Opinião pública
 
-**Referências:**
-- [Obrigatório] Opinião pública. Introdução — Walter Lippmann
-- [Obrigatório] Notícia e poder da imprensa — Robert Park
+Leituras Recomendadas
+{: .label .label-purple } 
+
+- Opinião pública. Introdução — Walter Lippmann
+- Notícia e poder da imprensa — Robert Park
 
 ### 15/10/2026 — Feriado
 
 ### 22/10/2026 — Escândalo político
 
-**Referências:**
-- [Obrigatório] O escândalo político. Capítulo I — John Thompson
+Leituras Recomendadas
+{: .label .label-purple } 
+
+- O escândalo político. Capítulo I — John Thompson
 
 ### 29/10/2026 — Semana Acadêmica
 
@@ -105,9 +123,11 @@ Prova 2
 
 ### 12/11/2026 — Internet e participação política
 
-**Referências:**
-- [Obrigatório] Transformações da política na era da comunicação de massa. Capítulo 8 — Wilson Gomes
-- [Obrigatório] Interação online e por que os candidatos a evitam. In: MARQUES, F.P.J.A. et al. Do clique à urna — Jennifer Stromer-Galley
+Leituras Recomendadas
+{: .label .label-purple } 
+
+- Transformações da política na era da comunicação de massa. Capítulo 8 — Wilson Gomes
+- Interação online e por que os candidatos a evitam. In: MARQUES, F.P.J.A. et al. Do clique à urna — Jennifer Stromer-Galley
 
 ### 19/11/2026 — Congresso INCT.DD
 
@@ -120,208 +140,6 @@ Prova 3
 
 ### 10/12/2026 — Livre
 
-
-
-
-
-
-
-################################################
-
-
-### 12/03
-
-**SEMANA INAUGURAL**
-
----
-
-### 19/03
-
-Conhecimento, poder e democracia I.
-
-Leituras Recomendadas
-{: .label .label-purple } 
-
-LeBRUN, Gerárd. O que é o poder? (Introdução, cap. 1 e cap. 2)
-
-PLATÃO. A República. Livro VII (O mito da caverna).
-
-FILME SURPRESA
-{: .label .label-red } 
-
----
-
-### 26/03
-
-Conhecimento, poder e democracia II.
-
-Leituras Recomendadas
-{: .label .label-purple } 
-
-LeBRUN, Gerárd. O que é o poder? (Introdução, cap. 1 e cap. 2)
-
-PLATÃO. A República. Livro VII (O mito da caverna).
-
----
-
-### 02/04
-
-**QUINTA-FEIRA SANTA NÃO EXISTE**
-
-Filosofia política moderna.
-
-Leituras Recomendadas
-{: .label .label-purple } 
-
-MAQUIAVEL. O Príncipe. Livros I a VIII, XIV a XVIII.
- 
-MAQUIAVEL. Discorsi. Livro I, capítulos: I a X, XXXIX, LVI a LVIII; Livro III, capítulos: I, IV a VI.
-
----
-
-### 09/04
-
-Contrato social.
-
-Leituras Recomendadas
-{: .label .label-purple } 
-
-HOBBES, Thomas. O Leviatã. Capítulos XIII e XIV.
-
-ROUSSEAU, Jean-Jacques. O contrato social. Livro I, capítulos: I a IX.
-
----
-
-### 16/04
-
-Associativismo e liberdade de expressão.
-
-Leituras Recomendadas
-{: .label .label-purple } 
-
-TOCQUEVILLE, Alexis de. Democracia na América. Livro I, segunda parte, capítulos III e IV; Livro II, segunda parte, capítulos II a VII.
-
----
-
-### 23/04
-
-**FERIADO**
-
----
-
-### 30/04
-
-Representação política.
-
-Leituras Recomendadas
-{: .label .label-purple } 
-
-PITKIN, Hanna. Representação: palavras, instituições e idéias.
-
-MANIN, Bernard. As metamorfoses do governo representativo.
-
-FILME SURPRESA
-{: .label .label-red } 
-
-PROVA 1
-{: .label .label-red } 
-
----
-
-### 07/05
-
-**[AULA CLARA]**
-
-Esfera pública I.
-
-Leituras Recomendadas
-{: .label .label-purple } 
-
-HABERMAS, Jürgen. Mudança estrutural da esfera pública. Capítulo VI, parágrafos 16 e 20.
-
----
-
-### 14/05
-
-Esfera pública II.
-
-Leituras Recomendadas
-{: .label .label-purple } 
-
-HABERMAS, Jürgen. Mudança estrutural da esfera pública. Capítulo VI, parágrafos 16 e 20.
-
----
-
-### 21/05
-
-Opinião pública.
-
-Leituras Recomendadas
-{: .label .label-purple } 
-
-LIPPMANN, Walter. Opinião pública. Introdução.
-
-PARK, Robert. Notícia e poder da imprensa.
-
----
-
-### 28/05
-
-Escândalo político.
-
-Leituras Recomendadas
-{: .label .label-purple } 
-
-THOMPSON, John. O escândalo político. Capítulo I.
-
----
-
-### 04/06
-
-**FERIADO**
-
----
-
-### 11/06
-
-**COMPÓS**
-
-PROVA 2
-{: .label .label-red }
-
----
-
-### 18/06
-
-**[AULA CLARA]**
-
-Internet e participação política.
-
-Leituras Recomendadas
-{: .label .label-purple } 
-
-GOMES, Wilson. Transformações da política na era da comunicação de massa. Capítulo 8.
-
-STROMER-GALLEY, Jennifer. Interação online e por que os candidatos a evitam. In: MARQUES, F.P.J.A. et al. Do clique à urna.
-
----
-
-### 25/06
-
-PROVA 3
-{: .label .label-red }
-
----
-
-### 02/07
-
-**LIVRE**
-
----
-
-### 09/07
-
-**ISHS 2026**
 
 ---
 
