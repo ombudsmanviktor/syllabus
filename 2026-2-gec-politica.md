@@ -34,14 +34,14 @@ Fundamentos clássicos da Comunicação Política: democracia e aristocracia, ve
 
 ### 13/08/2026 — Conhecimento, Poder e Democracia I
 
-Filme Surpresa
-{: .label .label-red }
-
 Leituras Recomendadas
 {: .label .label-purple } 
 
 - O que é o poder? (Introdução, cap. 1 e cap. 2) — Gerárd LeBrun
 - A República. Livro VII (O mito da caverna) — Platão
+
+Filme Surpresa
+{: .label .label-red }
 
 ### 20/08/2026 — Conhecimento, poder e democracia II
 
@@ -76,17 +76,17 @@ Leituras Recomendadas
 
 ### 17/09/2026 — Representação política + Prova 1
 
-Filme Surpresa
-{: .label .label-red }
-
-Prova 1
-{: .label .label-red }
-
 Leituras Recomendadas
 {: .label .label-purple } 
 
 - Representação: palavras, instituições e idéias — Hanna Pitkin
 - As metamorfoses do governo representativo — Bernard Manin
+
+Filme Surpresa
+{: .label .label-red }
+
+Prova 1
+{: .label .label-red }
 
 ### 24/09/2026 — Esfera pública I
 
@@ -96,6 +96,11 @@ Leituras Recomendadas
 - Mudança estrutural da esfera pública. Capítulo VI, parágrafos 16 e 20 — Jürgen Habermas
 
 ### 01/10/2026 — Esfera pública II
+
+Leituras Recomendadas
+{: .label .label-purple } 
+
+- Mudança estrutural da esfera pública. Capítulo VI, parágrafos 16 e 20 — Jürgen Habermas
 
 ### 08/10/2026 — Opinião pública
 
