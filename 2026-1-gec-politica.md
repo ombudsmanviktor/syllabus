@@ -23,12 +23,111 @@ Fundamentos clássicos da Comunicação Política: democracia e aristocracia, ve
 
 ## Recursos da Disciplina
 
-- [Grupo de WhatsApp](https://chat.whatsapp.com/JiOcRbslvwa7f1hKBk3JaR)
+- [Grupo de WhatsApp](https://chat.whatsapp.com/KQScJEcJAXRIFBMraZIbaW)
 
 - [Pasta de Textos](http://bit.ly/gec00052_textos)
 
 
 ## Programa de Curso
+
+### 06/08/2026 — Semana Inaugural
+
+### 13/08/2026 — Conhecimento, Poder e Democracia I
+
+Filme Surpresa
+{: .label .label-red }
+
+**Referências:**
+- [Obrigatório] O que é o poder? (Introdução, cap. 1 e cap. 2) — Gerárd LeBrun
+- [Obrigatório] A República. Livro VII (O mito da caverna) — Platão
+
+### 20/08/2026 — Conhecimento, poder e democracia II
+
+**Referências:**
+- [Obrigatório] O que é o poder? (Introdução, cap. 1 e cap. 2) — Gerárd LeBrun
+- [Obrigatório] A República. Livro VII (O mito da caverna) — Platão
+
+### 27/08/2026 — Filosofia política moderna
+
+**Referências:**
+- [Obrigatório] O Príncipe. Livros I a VIII, XIV a XVIII — Nicolau Maquiavel
+- [Obrigatório] Discorsi. Livro I, capítulos: I a X, XXXIX, LVI a LVIII; Livro III, capítulos: I, IV a VI — Nicolau Maquiavel
+
+### 03/09/2026 — Contrato Social
+
+**Referências:**
+- [Obrigatório] O Leviatã. Capítulos XIII e XIV — Thomas Hobbes
+- [Obrigatório] O contrato social. Livro I, capítulos: I a IX — Jean-Jacques Rousseau
+
+### 10/09/2026 — Associativismo e liberdade de expressão
+
+**Referências:**
+- [Obrigatório] Democracia na América. Livro I, segunda parte, capítulos III e IV; Livro II, segunda parte, capítulos II a VII — Alexis de Tocqueville
+
+### 17/09/2026 — Representação política + Prova 1
+
+Filme Surpresa
+{: .label .label-red }
+
+Prova 1
+{: .label .label-red }
+
+**Referências:**
+- [Obrigatório] Representação: palavras, instituições e idéias — Hanna Pitkin
+- [Obrigatório] As metamorfoses do governo representativo — Bernard Manin
+
+### 24/09/2026 — Esfera pública I
+
+**Referências:**
+- [Obrigatório] Mudança estrutural da esfera pública. Capítulo VI, parágrafos 16 e 20 — Jürgen Habermas
+
+### 01/10/2026 — Esfera pública II
+
+### 08/10/2026 — Opinião pública
+
+**Referências:**
+- [Obrigatório] Opinião pública. Introdução — Walter Lippmann
+- [Obrigatório] Notícia e poder da imprensa — Robert Park
+
+### 15/10/2026 — Feriado
+
+### 22/10/2026 — Escândalo político
+
+**Referências:**
+- [Obrigatório] O escândalo político. Capítulo I — John Thompson
+
+### 29/10/2026 — Semana Acadêmica
+
+### 05/11/2026 — Prova 2
+
+Prova 2
+{: .label .label-red }
+
+### 12/11/2026 — Internet e participação política
+
+**Referências:**
+- [Obrigatório] Transformações da política na era da comunicação de massa. Capítulo 8 — Wilson Gomes
+- [Obrigatório] Interação online e por que os candidatos a evitam. In: MARQUES, F.P.J.A. et al. Do clique à urna — Jennifer Stromer-Galley
+
+### 19/11/2026 — Congresso INCT.DD
+
+### 26/11/2026 — Prova 3
+
+Prova 3
+{: .label .label-red }
+
+### 03/12/2026 — Livre
+
+### 10/12/2026 — Livre
+
+
+
+
+
+
+
+################################################
+
 
 ### 12/03
 
