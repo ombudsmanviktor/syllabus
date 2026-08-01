@@ -8,9 +8,9 @@ layout: home
 
 # Introdução à Comunicação Política
 
-Professor: Viktor Chagas [✉️](mailto:viktor@midia.uff.br?subject=[Comunicação Política]) e Clara Balbi
+Professor: Viktor Chagas [✉️](mailto:viktor@midia.uff.br?subject=[Comunicação Política]), Matheus Machado e Luiza Vimercate
 
-Período Letivo: 2026.1
+Período Letivo: 2026.2
 
 Horário: Quintas-feiras às 14h
 
