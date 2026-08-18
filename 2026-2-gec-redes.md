@@ -48,7 +48,7 @@ Atividades
 {: .label .label-red } 
 
 Reconhecimento Geral da UI do Gephi
-Exercícios com Redes TrumpWorld e Marvel Universe
+Exercícios com Redes [TrumpWorld](https://github.com/melaniewalsh/sample-social-network-datasets/tree/master/sample-datasets/marvel) e [Marvel Universe](https://github.com/melaniewalsh/sample-social-network-datasets/tree/master/sample-datasets/marvel)
 
 Leituras Recomendadas
 {: .label .label-purple } 
