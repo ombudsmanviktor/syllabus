@@ -58,7 +58,7 @@ Leituras Recomendadas
 
 ### 01/09/2026 — Aula 3
 
-Leitura do conto A Vida em Alta Sociedade
+Leitura do conto [A Vida em Alta Sociedade](https://github.com/ombudsmanviktor/syllabus/blob/main/conto_redes.pdf)
 
 Visualização dos dados de Teses e dissertações defendidas no Brasil (1992-2012): um mapa da pesquisa em comunicação e política
 
