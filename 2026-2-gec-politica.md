@@ -67,14 +67,18 @@ Leituras Recomendadas
 - O Leviatã. Capítulos XIII e XIV — Thomas Hobbes
 - O contrato social. Livro I, capítulos: I a IX — Jean-Jacques Rousseau
 
-### 10/09/2026 — Associativismo e liberdade de expressão
+### 10/09/2026 — Aula Suspensa
+
+Aula suspensa por conta das chuvas em Niterói
+
+### 17/09/2026 — Associativismo e liberdade de expressão
 
 Leituras Recomendadas
 {: .label .label-purple } 
 
 - Democracia na América. Livro I, segunda parte, capítulos III e IV; Livro II, segunda parte, capítulos II a VII — Alexis de Tocqueville
 
-### 17/09/2026 — Representação política + Prova 1
+### 24/09/2026 — Representação política + Prova 1
 
 Leituras Recomendadas
 {: .label .label-purple } 
@@ -88,14 +92,7 @@ Filme Surpresa
 Prova 1
 {: .label .label-red }
 
-### 24/09/2026 — Esfera pública I
-
-Leituras Recomendadas
-{: .label .label-purple } 
-
-- Mudança estrutural da esfera pública. Capítulo VI, parágrafos 16 e 20 — Jürgen Habermas
-
-### 01/10/2026 — Esfera pública II
+### 01/10/2026 — Esfera pública I + Esfera pública II
 
 Leituras Recomendadas
 {: .label .label-purple } 
