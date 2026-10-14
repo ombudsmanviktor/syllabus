@@ -123,15 +123,15 @@ Leituras Recomendadas
 Prova 2
 {: .label .label-red }
 
-### 12/11/2026 — Internet e participação política
+### 12/11/2026 — Congresso INCT.DD
+
+### 19/11/2026 — Internet e participação política
 
 Leituras Recomendadas
 {: .label .label-purple } 
 
 - Transformações da política na era da comunicação de massa. Capítulo 8 — Wilson Gomes
 - Interação online e por que os candidatos a evitam. In: MARQUES, F.P.J.A. et al. Do clique à urna — Jennifer Stromer-Galley
-
-### 19/11/2026 — Congresso INCT.DD
 
 ### 26/11/2026 — Prova 3
 
